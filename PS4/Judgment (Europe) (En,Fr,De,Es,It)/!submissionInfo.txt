@@ -7,7 +7,7 @@ Common Disc Info:
 	Media Type: BD-ROM-50
 	Category: Games
 	Region: Europe
-	Languages: English, French, German, Italian, Spanish
+	Languages: (Text) English, French, German, Italian, Spanish (Audio) English, Japanese
 	Disc Serial: CUSA-13197
 
 	Ringcode Information:
