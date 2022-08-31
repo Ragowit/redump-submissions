@@ -18,7 +18,7 @@ Common Disc Info:
 		Data Side Additional Mould: 
 		Label Side Mould SID Code: IFPI 945I
 	Barcode: 5 030917 189210
-	Comments: The disc in the Collector's Edition came in a steelbook.
+	Comments: The disc in the Collector's Edition came in a steelbook. Language selection via system language setting.
 	Contents: 
 
 Version and Editions:
