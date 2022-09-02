@@ -7,7 +7,7 @@ Common Disc Info:
 	Media Type: BD-ROM-25
 	Category: Games
 	Region: Europe
-	Languages: English, French, German, Italian, Russian, Spanish
+	Languages: [Text] English, French, German, Italian, Russian, Spanish [Audio] English, Japanese
 	Disc Serial: CUSA-05105
 
 	Ringcode Information:
