@@ -1,0 +1,55 @@
+Common Disc Info:
+	Title: Assassin's Creed: Revelations
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Region: Europe
+	Languages: 
+	Disc Serial: BLES-01384/E
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0101867225-A511 5000
+		Data Side Mastering SID Code: IFPI LY26
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 942M
+	Barcode: 3 307215 694169
+	Comments: [T:VOL] ACRVL
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Essentials
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 31 30 30 37 32 30 30  36 33 33 30 30 00 30 30   1100720063300.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 4678b2e4c2100d6c31a2715b04aaaca4
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC): 
+10020000444901080000200042444f01
+11010100000000000054e9bf00100000
+0054e9be000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 9249357824
+	CRC32: af6c9714
+	MD5: ac6364e6bd5b94808dcdf3283d3ab0be
+	SHA1: e6479d33ae53616ac9af18f81330717480016574
