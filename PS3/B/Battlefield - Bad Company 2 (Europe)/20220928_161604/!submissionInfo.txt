@@ -1,0 +1,55 @@
+Common Disc Info:
+	Title: Battlefield: Bad Company 2
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Region: Europe
+	Languages: 
+	Disc Serial: BLES-00773
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0101527911-A511 1000
+		Data Side Mastering SID Code: IFPI LY25
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 945I
+	Barcode: 5 030945 075752 >
+	Comments: [T:VOL] BFBC2
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 32 31 30 31 34 35  34 32 34 30 30 00 30 30   0021014542400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 1fbe0243bf4c4d185c0395d91397b524
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC): 
+10020000444901080000200042444f01
+11010100000000000050ca3f00100000
+0050ca3e000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 8695971840
+	CRC32: a7a29b4f
+	MD5: 9d4d0fdd5f75bf064a075b12271562be
+	SHA1: efb829f8805d0fe8960fdef2202a2985d907a605
