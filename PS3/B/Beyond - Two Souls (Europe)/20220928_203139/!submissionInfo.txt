@@ -1,0 +1,58 @@
+Common Disc Info:
+	Title: Beyond: Two Souls
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-50
+	Category: Games
+	Region: Europe
+	Languages: 
+	Disc Serial: BCES-01122
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0102185578-A911 7000
+		Data Side Mastering SID Code: IFPI LY25
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mastering Code (laser branded/etched): A0102185578-B911 10000
+		Label Side Mastering SID Code: IFPI LY27
+		Label Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+		Label Side Mould SID Code: IFPI 941J
+	Barcode: 7 11719 24326 7
+	Comments: 
+	Contents: 
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 38 32 38 30 34 34  30 31 36 30 30 00 30 30   3082804401600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 279f8e2ecd42cfbf757b221d140b9de4
+	Disc ID: 00000000000000ff0002000000000000
+	Permanent Information & Control (PIC): 
+10020000444901100000200042444f01
+21010300000000000177e2df00100000
+00ca73fe000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444f01
+21010300000000000177e2df01358c00
+01effffe000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 33929232384
+	CRC32: 1fccbb16
+	MD5: 05afc18ae35597453771664020d80197
+	SHA1: 2cc19181b5160af7ee7d111da9cc9431923082aa
