@@ -1,5 +1,5 @@
 # Redump Submissions
-[![License](https://img.shields.io/github/license/Drakmyth/redump-submissions)](https://github.com/Drakmyth/redump-submissions/blob/master/LICENSE.md)
+[![License](https://img.shields.io/github/license/Ragowit/redump-submissions)](https://github.com/Ragowit/redump-submissions/blob/master/LICENSE.md)
 
 From the [Redump.org wiki](http://wiki.redump.org/index.php?title=Redump.org):
 
