@@ -7,7 +7,7 @@ Common Disc Info:
 	Media Type: BD-ROM-25
 	Category: Games
 	Region: Europe
-	Languages: SILENCE! (CHANGE THIS)
+	Languages: 
 	Disc Serial: BLES-00965
 
 	Ringcode Information:
