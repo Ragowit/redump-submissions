@@ -1,5 +1,5 @@
 Common Disc Info:
-	Title: (REQUIRED)
+	Title: FIFA 15
 	Foreign Title (Non-latin): 
 	Disc Number / Letter: 
 	Disc Title: 
