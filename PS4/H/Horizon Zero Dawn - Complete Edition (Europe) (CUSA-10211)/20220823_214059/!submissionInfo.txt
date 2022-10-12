@@ -11,12 +11,12 @@ Common Disc Info:
 	Disc Serial: CUSA-10211/H
 
 	Ringcode Information:
-		Layer 0 (Outer) Mastering Code (laser branded/etched): A0102953069-A911 17000
+		Layer 0 (Outer) Mastering Code (laser branded/etched): A0102953069-A911	17000
 		Layer 0 (Outer) Mastering SID Code: IFPI LY24
 		Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 1A00
 		Data Side Mould SID Code: 
 		Data Side Additional Mould: 
-		Layer 1 (Inner) Mastering Code (laser branded/etched): A0102953069-B911 27000
+		Layer 1 (Inner) Mastering Code (laser branded/etched): A0102953069-B911	27000
 		Layer 1 (Inner) Mastering SID Code: IFPI LY24
 		Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 1A00
 		Label Side Mould SID Code: IFPI 945J

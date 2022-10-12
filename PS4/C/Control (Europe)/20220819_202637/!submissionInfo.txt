@@ -11,12 +11,12 @@ Common Disc Info:
 	Disc Serial: CUSA-11454
 
 	Ringcode Information:
-		Layer 0 (Outer) Mastering Code (laser branded/etched): A0103181447-A911 4000
+		Layer 0 (Outer) Mastering Code (laser branded/etched): A0103181447-A911	4000
 		Layer 0 (Outer) Mastering SID Code: IFPI LY25
 		Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 2A00
 		Data Side Mould SID Code: 
 		Data Side Additional Mould: 
-		Layer 1 (Inner) Mastering Code (laser branded/etched): A0103181447-B911 3000
+		Layer 1 (Inner) Mastering Code (laser branded/etched): A0103181447-B911	3000
 		Layer 1 (Inner) Mastering SID Code: IFPI LY26
 		Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 3A00
 		Label Side Mould SID Code: IFPI 943K

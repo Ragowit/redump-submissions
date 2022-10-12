@@ -11,7 +11,7 @@ Common Disc Info:
 	Disc Serial: BLUS-31145
 
 	Ringcode Information:
-		Data Side Mastering Code (laser branded/etched): BPSS-386670A1 3
+		Data Side Mastering Code (laser branded/etched): BPSS-386670A1	3
 		Data Side Mastering SID Code: IFPI L323
 		Data Side Toolstamp or Mastering Code (engraved/stamped): A01
 		Data Side Mould SID Code: 

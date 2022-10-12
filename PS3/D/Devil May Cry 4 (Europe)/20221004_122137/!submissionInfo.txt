@@ -11,7 +11,7 @@ Common Disc Info:
 	Disc Serial: BLES-00186#
 
 	Ringcode Information:
-		Data Side Mastering Code (laser branded/etched): A0100904469-A511 5000
+		Data Side Mastering Code (laser branded/etched): A0100904469-A511	5000
 		Data Side Mastering SID Code: IFPI LY26
 		Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
 		Data Side Mould SID Code: 

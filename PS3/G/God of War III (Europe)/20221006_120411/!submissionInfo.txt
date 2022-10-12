@@ -11,12 +11,12 @@ Common Disc Info:
 	Disc Serial: BCES-00510/EUR
 
 	Ringcode Information:
-		Layer 0 (Outer) Mastering Code (laser branded/etched): A0101531677-A911 1000
+		Layer 0 (Outer) Mastering Code (laser branded/etched): A0101531677-A911	1000
 		Layer 0 (Outer) Mastering SID Code: IFPI LY25
 		Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 3A00
 		Data Side Mould SID Code: 
 		Data Side Additional Mould: 
-		Layer 1 (Inner) Mastering Code (laser branded/etched): A0101531677-B911 2000
+		Layer 1 (Inner) Mastering Code (laser branded/etched): A0101531677-B911	2000
 		Layer 1 (Inner) Mastering SID Code: IFPI LY27
 		Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 9A00
 		Label Side Mould SID Code: IFPI 946L
