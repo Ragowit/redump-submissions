@@ -5,7 +5,7 @@ Common Disc Info:
 	Disc Title: 
 	System: BD-Video
 	Media Type: BD-ROM-25
-	Category: Bonus Discs
+	Category: Applications
 	Region: USA
 	Languages: English
 	Disc Serial: 
