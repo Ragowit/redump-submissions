@@ -6,7 +6,7 @@ Common Disc Info:
 	System: Sony PlayStation 3
 	Media Type: BD-ROM-25
 	Category: Games
-	Region: Europe
+	Region: Scandinavia
 	Languages: Danish, English, Finnish, Norwegian, Swedish
 	Disc Serial: BCES-00829
 
