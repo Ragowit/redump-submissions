@@ -20,7 +20,7 @@ Common Disc Info:
 		Layer 1 (Inner) Mastering SID Code: IFPI LY26
 		Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 11A00
 		Label Side Mould SID Code: IFPI 946K
-	Barcode: 5030949122537>
+	Barcode: 5 030949 122537 >
 	Comments: [T:EAID] (Disc) 105602103601, (Case) 105602801601
 	Contents: 
 

@@ -20,7 +20,7 @@ Common Disc Info:
 		Layer 1 (Inner) Mastering SID Code: IFPY LY27
 		Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 7A00
 		Label Side Mould SID Code: IFPI 94G3
-	Barcode: 5026555425988
+	Barcode: 5 026555 425988
 	Comments: Case title is Borderlands 3: Deluxe Edition
 	Contents: 
 
