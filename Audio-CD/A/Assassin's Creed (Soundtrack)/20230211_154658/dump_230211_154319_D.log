@@ -1,0 +1,300 @@
+=== 2023-02-11 15:43:19 ========================================================
+redumper v2023.02.05 build_105 [Feb  5 2023, 05:09:14]
+
+command: redumper cd --verbose --retries=20 --image-path=C:\Redump\Redumper\Audio\
+
+*** MODE: dump
+drive path: D:
+drive: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+drive configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+image path: C:\Redump\Redumper\Audio\
+image name: dump_230211_154319_D
+
+disc TOC:
+  track 01 { audio }
+    index 01 { LBA:      0, MSF: 00:02:00 }
+  track 02 { audio }
+    index 01 { LBA:  14477, MSF: 03:15:02 }
+  track 03 { audio }
+    index 01 { LBA:  32536, MSF: 07:15:61 }
+  track 04 { audio }
+    index 01 { LBA:  50528, MSF: 11:15:53 }
+  track 05 { audio }
+    index 01 { LBA:  57540, MSF: 12:49:15 }
+  track 06 { audio }
+    index 01 { LBA: 100799, MSF: 22:25:74 }
+  track 07 { audio }
+    index 01 { LBA: 113704, MSF: 25:18:04 }
+  track 08 { audio }
+    index 01 { LBA: 130582, MSF: 29:03:07 }
+  track 09 { audio }
+    index 01 { LBA: 145167, MSF: 32:17:42 }
+  track 10 { audio }
+    index 01 { LBA: 165119, MSF: 36:43:44 }
+  track 11 { audio }
+    index 01 { LBA: 183719, MSF: 40:51:44 }
+  track 12 { audio }
+    index 01 { LBA: 198062, MSF: 44:02:62 }
+  track AA { audio }
+    index 01 { LBA: 210095, MSF: 46:43:20 }
+
+dump started
+dump complete (time: 203s)
+
+media errors: 
+  SCSI: 0
+  C2: 0
+  Q: 180
+
+*** MODE: protection
+warning: incomplete dump detected, using available dump size
+scan started
+protection: N/A
+scan complete (time: 0s)
+
+*** MODE: split
+correcting Q... done
+
+final TOC:
+  track 01 { audio }
+    index 00 { LBA:   -150 ..     -1, length:    150, MSF: 00:00:00-03:13:02 }
+    index 01 { LBA:      0 ..  14327, length:  14328, MSF: 00:02:00-03:13:02 }
+  track 02 { audio }
+    index 00 { LBA:  14328 ..  14476, length:    149, MSF: 03:13:03-07:13:61 }
+    index 01 { LBA:  14477 ..  32386, length:  17910, MSF: 03:15:02-07:13:61 }
+  track 03 { audio }
+    index 00 { LBA:  32387 ..  32535, length:    149, MSF: 07:13:62-11:13:53 }
+    index 01 { LBA:  32536 ..  50378, length:  17843, MSF: 07:15:61-11:13:53 }
+  track 04 { audio }
+    index 00 { LBA:  50379 ..  50527, length:    149, MSF: 11:13:54-12:47:15 }
+    index 01 { LBA:  50528 ..  57390, length:   6863, MSF: 11:15:53-12:47:15 }
+  track 05 { audio }
+    index 00 { LBA:  57391 ..  57539, length:    149, MSF: 12:47:16-22:23:74 }
+    index 01 { LBA:  57540 .. 100649, length:  43110, MSF: 12:49:15-22:23:74 }
+  track 06 { audio }
+    index 00 { LBA: 100650 .. 100798, length:    149, MSF: 22:24:00-25:16:04 }
+    index 01 { LBA: 100799 .. 113554, length:  12756, MSF: 22:25:74-25:16:04 }
+  track 07 { audio }
+    index 00 { LBA: 113555 .. 113703, length:    149, MSF: 25:16:05-29:01:07 }
+    index 01 { LBA: 113704 .. 130432, length:  16729, MSF: 25:18:04-29:01:07 }
+  track 08 { audio }
+    index 00 { LBA: 130433 .. 130581, length:    149, MSF: 29:01:08-32:15:42 }
+    index 01 { LBA: 130582 .. 145017, length:  14436, MSF: 29:03:07-32:15:42 }
+  track 09 { audio }
+    index 00 { LBA: 145018 .. 145166, length:    149, MSF: 32:15:43-36:41:44 }
+    index 01 { LBA: 145167 .. 164969, length:  19803, MSF: 32:17:42-36:41:44 }
+  track 10 { audio }
+    index 00 { LBA: 164970 .. 165118, length:    149, MSF: 36:41:45-40:49:44 }
+    index 01 { LBA: 165119 .. 183569, length:  18451, MSF: 36:43:44-40:49:44 }
+  track 11 { audio }
+    index 00 { LBA: 183570 .. 183718, length:    149, MSF: 40:49:45-44:00:62 }
+    index 01 { LBA: 183719 .. 197912, length:  14194, MSF: 40:51:44-44:00:62 }
+  track 12 { audio }
+    index 00 { LBA: 197913 .. 198061, length:    149, MSF: 44:00:63-46:43:18 }
+    index 01 { LBA: 198062 .. 210093, length:  12032, MSF: 44:02:62-46:43:18 }
+  track AA { audio }
+    index 00 { LBA: 210094 .. 210094, length:      1, MSF: 46:43:19-46:43:19 }
+    index 01 { LBA: 210095, MSF: 46:43:20 }
+
+warning: TOC / QTOC mismatch, nonexistent track in QTOC (track: 110)
+
+final QTOC:
+  track 01 { audio }
+    index 00 { LBA:   -150 ..     -1, length:    150, MSF: 00:00:00-03:13:02 }
+    index 01 { LBA:      0 ..  14327, length:  14328, MSF: 00:02:00-03:13:02 }
+  track 02 { audio }
+    index 00 { LBA:  14328 ..  14476, length:    149, MSF: 03:13:03-07:13:61 }
+    index 01 { LBA:  14477 ..  32386, length:  17910, MSF: 03:15:02-07:13:61 }
+  track 03 { audio }
+    index 00 { LBA:  32387 ..  32535, length:    149, MSF: 07:13:62-11:13:53 }
+    index 01 { LBA:  32536 ..  50378, length:  17843, MSF: 07:15:61-11:13:53 }
+  track 04 { audio }
+    index 00 { LBA:  50379 ..  50527, length:    149, MSF: 11:13:54-12:47:15 }
+    index 01 { LBA:  50528 ..  57390, length:   6863, MSF: 11:15:53-12:47:15 }
+  track 05 { audio }
+    index 00 { LBA:  57391 ..  57539, length:    149, MSF: 12:47:16-22:23:74 }
+    index 01 { LBA:  57540 .. 100649, length:  43110, MSF: 12:49:15-22:23:74 }
+  track 06 { audio }
+    index 00 { LBA: 100650 .. 100798, length:    149, MSF: 22:24:00-25:16:04 }
+    index 01 { LBA: 100799 .. 113554, length:  12756, MSF: 22:25:74-25:16:04 }
+  track 07 { audio }
+    index 00 { LBA: 113555 .. 113703, length:    149, MSF: 25:16:05-29:01:07 }
+    index 01 { LBA: 113704 .. 130432, length:  16729, MSF: 25:18:04-29:01:07 }
+  track 08 { audio }
+    index 00 { LBA: 130433 .. 130581, length:    149, MSF: 29:01:08-32:15:42 }
+    index 01 { LBA: 130582 .. 145017, length:  14436, MSF: 29:03:07-32:15:42 }
+  track 09 { audio }
+    index 00 { LBA: 145018 .. 145166, length:    149, MSF: 32:15:43-36:41:44 }
+    index 01 { LBA: 145167 .. 164969, length:  19803, MSF: 32:17:42-36:41:44 }
+  track 10 { audio }
+    index 00 { LBA: 164970 .. 165118, length:    149, MSF: 36:41:45-40:49:44 }
+    index 01 { LBA: 165119 .. 183569, length:  18451, MSF: 36:43:44-40:49:44 }
+  track 11 { audio }
+    index 00 { LBA: 183570 .. 183718, length:    149, MSF: 40:49:45-44:00:62 }
+    index 01 { LBA: 183719 .. 197912, length:  14194, MSF: 40:51:44-44:00:62 }
+  track 12 { audio }
+    index 00 { LBA: 197913 .. 198061, length:    149, MSF: 44:00:63-46:43:18 }
+    index 01 { LBA: 198062 .. 210093, length:  12032, MSF: 44:02:62-46:43:18 }
+
+non-zero  TOC sample range: [   -88200 .. +123535272]
+non-zero data sample range: [       -6 .. +123532039]
+Universal Hash (SHA-1): 920fa1887aa40222a14347e389df8b9f88acb28c
+
+detecting offset
+audio silence detection... done
+Perfect Audio Offset (silence level: 12): [-3523 .. -3352]
+moving data out of lead-in (difference: -6)
+disc write offset: -6
+warning: incomplete pre-gap (session: 1, unavailable: 150/150)
+warning: lead-in starts with unavailable sector (session: 1)
+detection complete (time: 6s)
+
+checking tracks
+track 01... passed
+track 02... passed
+track 03... passed
+track 04... passed
+track 05... passed
+track 06... passed
+track 07... passed
+track 08... passed
+track 09... passed
+track 10... passed
+track 11... passed
+track 12... passed
+check complete (time: 0s)
+
+splitting tracks
+writing "dump_230211_154319_D (Track 01).bin"
+writing "dump_230211_154319_D (Track 02).bin"
+writing "dump_230211_154319_D (Track 03).bin"
+writing "dump_230211_154319_D (Track 04).bin"
+writing "dump_230211_154319_D (Track 05).bin"
+writing "dump_230211_154319_D (Track 06).bin"
+writing "dump_230211_154319_D (Track 07).bin"
+writing "dump_230211_154319_D (Track 08).bin"
+writing "dump_230211_154319_D (Track 09).bin"
+writing "dump_230211_154319_D (Track 10).bin"
+writing "dump_230211_154319_D (Track 11).bin"
+writing "dump_230211_154319_D (Track 12).bin"
+split complete (time: 4s)
+
+writing CUE-sheet
+dump_230211_154319_D.cue... done
+
+dat:
+<rom name="dump_230211_154319_D (Track 01).bin" size="33699456" crc="95f96e27" md5="66c50b6cad9fbfed3a3a2e4f70906e6a" sha1="3bb0f942c1775530e9f82877be0271ae1ccdf63f" />
+<rom name="dump_230211_154319_D (Track 02).bin" size="42474768" crc="f9c0e60e" md5="5843f00efbb28509c82d95bef57110e9" sha1="5ccce0eaf21464632fbd29a14710328c2d8ffa6c" />
+<rom name="dump_230211_154319_D (Track 03).bin" size="42317184" crc="77dfa1fc" md5="84bc769f502542dd17a077eb75c38ad1" sha1="e29fc5b4b18ed2a2409d5126dc7e206ae1ff8863" />
+<rom name="dump_230211_154319_D (Track 04).bin" size="16492224" crc="5caf2ca6" md5="3fcb94c72f344c0431d8237413802657" sha1="979872e7ca1e1852237fcde439b3b7647a97fe2d" />
+<rom name="dump_230211_154319_D (Track 05).bin" size="101745168" crc="e6a99197" md5="053f5c98e140786b972794687a4fd39d" sha1="7ed076c47a0ae1976166be4b2cf4dda5b56b30bb" />
+<rom name="dump_230211_154319_D (Track 06).bin" size="30352560" crc="c3b3f3e1" md5="b57aac2272adfb9222a4a3f48abc514c" sha1="0fe7a0431de076df1e261d4277bbcddeac3f20da" />
+<rom name="dump_230211_154319_D (Track 07).bin" size="39697056" crc="b64d4baf" md5="b0898ebcc03db1f2c44dd8103bd1319e" sha1="c1ca441e27001d38538fb1cc9154939a56822dc9" />
+<rom name="dump_230211_154319_D (Track 08).bin" size="34303920" crc="d33a2d8c" md5="c8e9237d000f323f78146de83ae9e28e" sha1="72700cdd922011a279de4e3ce4e5e70845fd0e17" />
+<rom name="dump_230211_154319_D (Track 09).bin" size="46927104" crc="3664abc9" md5="340a61e41d2aba322d0a1045f1a55d08" sha1="6260e7a3bb00db5a146097fcae7805ed00101902" />
+<rom name="dump_230211_154319_D (Track 10).bin" size="43747200" crc="705f3559" md5="8ec5e8c82c161bef4c9a74c681240ada" sha1="682ab1c86745d161251cec99de1de26bb52c4dd5" />
+<rom name="dump_230211_154319_D (Track 11).bin" size="33734736" crc="4e8b4e4e" md5="b363be352511ab4c4183fa343626ba37" sha1="4cd565fdebe2cd1e17191d51c7df27d0db2cc0dc" />
+<rom name="dump_230211_154319_D (Track 12).bin" size="28649712" crc="08cd4c36" md5="291a9beaa4a7fde49a0fa76d579505a6" sha1="36c278f06ce9b688a2543ab8e86bf884a1e195a9" />
+
+CUE [dump_230211_154319_D.cue]:
+CATALOG 0?
+TITLE "ACR Soundtrack UBISOFT"
+PERFORMER "?"
+SONGWRITER "?"
+FILE "dump_230211_154319_D (Track 01).bin" BINARY
+  TRACK 01 AUDIO
+    TITLE "01 City of Jerusalem-Assassin's Creed "
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 01 00:00:00
+FILE "dump_230211_154319_D (Track 02).bin" BINARY
+  TRACK 02 AUDIO
+    TITLE "02 Earth-Assassin's Creed 2"
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "dump_230211_154319_D (Track 03).bin" BINARY
+  TRACK 03 AUDIO
+    TITLE "03 Ezio's Family-Assassin's Creed 2"
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "dump_230211_154319_D (Track 04).bin" BINARY
+  TRACK 04 AUDIO
+    TITLE "04 Spirit of Damascus-Assassin's Creed 2"
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "dump_230211_154319_D (Track 05).bin" BINARY
+  TRACK 05 AUDIO
+    TITLE "05 Access The Animus-Assassin's Creed "
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "dump_230211_154319_D (Track 06).bin" BINARY
+  TRACK 06 AUDIO
+    TITLE "06 Florence Escape-Assassin's Creed "
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "dump_230211_154319_D (Track 07).bin" BINARY
+  TRACK 07 AUDIO
+    TITLE "07 Meditation of the Assassins-Assassin's Creed 2"
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "dump_230211_154319_D (Track 08).bin" BINARY
+  TRACK 08 AUDIO
+    TITLE "08 The Bureau-Assassin's Creed "
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "dump_230211_154319_D (Track 09).bin" BINARY
+  TRACK 09 AUDIO
+    TITLE "09 Dreams of Venice-Assassin's Creed "
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "dump_230211_154319_D (Track 10).bin" BINARY
+  TRACK 10 AUDIO
+    TITLE "10 Sanctuary-Assassin's Creed 2"
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "dump_230211_154319_D (Track 11).bin" BINARY
+  TRACK 11 AUDIO
+    TITLE "11 Venice Industry-Assassin's Creed 2"
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "dump_230211_154319_D (Track 12).bin" BINARY
+  TRACK 12 AUDIO
+    TITLE "12 Hideout-Assassin's Creed 2"
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+
+*** MODE: info
