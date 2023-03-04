@@ -1,0 +1,67 @@
+Common Disc Info:
+	Title: Batman: Arkham Asylum
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 28798
+	Region: Europe
+	Languages: English, French, German, Italian, Spanish
+	Disc Serial: BLES-00503
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0101319465-A511	1000
+		Data Side Mastering SID Code: IFPI LY23
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 1A08
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 94F5
+	Barcode: 5 021290 037779
+	Comments:
+
+[T:ISN] BLES00503
+Voices: English, French, German, Italian, Spanish
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 30 37 30 38 31 31 33  33 34 38 30 30 00 30 30   9070811334800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 2e875caba20c3dbb1da087d4196b81f9
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000046F2DF00100000
+0046F2DE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 7375093760
+	CRC32: a610dabe
+	MD5: af64df70647576d200ed6cdd78e5c643
+	SHA1: e095cb0323eca03e26bc1bd446ff20e7d20c0d75
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230201
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
