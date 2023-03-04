@@ -1,0 +1,68 @@
+Common Disc Info:
+	Title: Assassin's Creed II
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 31158
+	Region: Europe
+	Languages: Danish, Dutch, English, French, German, Italian, Norwegian, Spanish, Swedish
+	Disc Serial: BLES-00669
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0101431015-A511	2000
+		Data Side Mastering SID Code: IFPI LY25
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 11A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 944L
+	Barcode: 3 307211 814189
+	Comments:
+
+[T:ISN] BLES00669
+[T:VOL] ACII
+Voice: English, French, German, Italian, Spanish
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 31 30 31 38 31 36 34  35 34 30 30 30 00 30 30   9101816454000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 4ae6f36f75fd67e617f2e22bcd6999c5
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000046963F00100000
+0046963E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 7326531584
+	CRC32: ad154ff0
+	MD5: d2d51364424e6b74b96dad41c3bb18b1
+	SHA1: fc5db36f7bbecbc11fae2b26e3071672b1341d19
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230201
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
