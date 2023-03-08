@@ -1,0 +1,70 @@
+Common Disc Info:
+	Title: Borderlands: Game of the Year Edition
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 52572
+	Region: Europe
+	Languages: English, French, German, Italian, Spanish
+	Disc Serial: BLES-00697/GOTY
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0101696385-A511	2000
+		Data Side Mastering SID Code: IFPI LY24
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 94F2
+	Barcode: 5 026555 405461
+	Comments: [T:ISN] BLES00697
+	Contents:
+
+Game of the Year Contents (they all must be installed through XMB under "Bonus Content")
+- Claptrap's New Robot Revolution
+- Mad Moxxi's Underdome Riot
+- The Secret Armory of General Knoxx
+- The Zombie Island of Dr. Ned
+Update 1.05 (The game asks you to install it as soon as you start the disc from XMB)
+
+Version and Editions:
+	Version: 02.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 31 30 31 38 31 30 32  30 32 33 30 30 00 30 30   0101810202300.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 562450440cad4f0aa5dffd3436e39844
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000004FC57F00100000
+004FC57E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 8559263744
+	CRC32: de7b50d6
+	MD5: cacd69506488d41e06005d6dfb3fce9a
+	SHA1: 5171a6c1fe29b1fde2f6faa997a6a20bcabe092f
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230201
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
