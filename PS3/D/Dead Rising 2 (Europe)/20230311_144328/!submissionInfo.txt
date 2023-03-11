@@ -1,0 +1,63 @@
+Common Disc Info:
+	Title: Dead Rising 2
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 55306
+	Region: Europe
+	Languages: English, French, Italian, Japanese, Korean, Spanish
+	Disc Serial: BLES-00948
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0101634469-A511	1000
+		Data Side Mastering SID Code: IFPI LY24
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 945I
+	Barcode: 5 055060 926413
+	Comments: [T:ISN] BLES00948
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 37 31 35 32 32 33  30 30 34 30 30 00 30 30   0071522300400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: bb499094de1a1dd079a5b7d8b827ec39
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000003F481F00100000
+003F481E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 6346047488
+	CRC32: a7e7ace6
+	MD5: a2f40a5fb149ed5b390c106be4a1a310
+	SHA1: 91483f5d9f965bb9d8d04ff7df100a5294782321
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230309
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
