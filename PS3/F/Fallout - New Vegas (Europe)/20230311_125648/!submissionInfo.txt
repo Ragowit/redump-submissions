@@ -1,0 +1,63 @@
+Common Disc Info:
+	Title: Fallout: New Vegas
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 31218
+	Region: Europe
+	Languages: English
+	Disc Serial: BLES-00901
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0101662882-A511	5000
+		Data Side Mastering SID Code: IFPI LY27
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 15A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 947J
+	Barcode: 0 093155 125179
+	Comments: [T:ISN] BLES00901
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 39 30 35 32 33 30  34 33 32 30 30 00 30 30   0090523043200.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 85c2d19845e84c753757467bc7a5b29d
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000005E02FF00100000
+005E02FE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 10470555648
+	CRC32: 9184f817
+	MD5: a52e378abbe764feff81703c06352173
+	SHA1: aa77efc8bc116878a1f879d2870a640f5c5dab42
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230309
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
