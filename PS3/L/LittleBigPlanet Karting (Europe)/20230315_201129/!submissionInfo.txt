@@ -1,0 +1,67 @@
+Common Disc Info:
+	Title: LittleBigPlanet Karting
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 67949
+	Region: Europe
+	Languages: Danish, Dutch, English, Finnish, French, German, Italian, Norwegian, Polish, Portuguese, Russian, Spanish, Swedish
+	Disc Serial: BCES-01422
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0102029339-A511	1000
+		Data Side Mastering SID Code: IFPI LY25
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 94F9
+	Barcode: 
+	Comments:
+
+[T:ISN] BCES01422
+Disc ID: 9242543
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Promo
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 30 39 32 32 30 35 30  34 34 36 30 30 00 30 30   2092205044600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 7a34278441ae1963b6ea8b4f984c13a4
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000077F0BF00100000
+0077F0BE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 13950648320
+	CRC32: e669d56f
+	MD5: 40b8797b64f18fd036397d63baeaaaea
+	SHA1: f404636eb9c7716d0efcde07deff18f9391d9a69
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230309
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
