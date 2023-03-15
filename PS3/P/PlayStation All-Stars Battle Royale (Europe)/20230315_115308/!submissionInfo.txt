@@ -1,0 +1,69 @@
+Common Disc Info:
+	Title: PlayStation All-Stars Battle Royale
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 28552
+	Region: Europe
+	Languages: Danish, Dutch, English, Finnish, French, German, Italian, Norwegian, Polish, Portuguese, Russian, Spanish, Swedish
+	Disc Serial: BCES-01435
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0102044468-A511	3000
+		Data Side Mastering SID Code: IFPI LY27
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 942J
+	Barcode: 
+	Comments:
+
+[T:ISN] BCES01435
+Russian title: Звёзды PlayStation. Битва сильнейших
+
+Disc ID: 9286141
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Promo
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 31 30 31 32 30 33 30  39 35 30 30 30 00 30 30   2101203095000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 111b421ae59014d685bc4be87e79e7a9
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000041527F00100000
+0041527E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 6619922432
+	CRC32: 22551e10
+	MD5: 71d9c4bed9c16ce6b74e57f7e2012533
+	SHA1: 1947fc098c9ff68812756a95cf1816ce7f28d57b
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230309
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
