@@ -1,0 +1,174 @@
+Common Disc Info:
+	Title: Assassin's Creed
+	Disc Number / Letter: 
+	Disc Title: Soundtrack
+	System: Audio CD
+	Media Type: CD-ROM
+	Category: Bonus Discs
+	Fully Matching ID: 46977
+	Region: Europe
+	Languages: 
+	Disc Serial: 300041125
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): Sony DADC	A0101859029-0101	41
+		Data Side Mastering SID Code: IFPI L551
+		Data Side Toolstamp or Mastering Code (engraved/stamped): A00
+		Data Side Mould SID Code: IFPI 94U8
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: 
+	Barcode: 
+	Error Count: 0
+	Comments:
+
+<b>Universal Hash (SHA-1)</b>: 33d98f20538569651b97c8ffc550c9135917762c
+<b>Ring non-zero data start</b>: -48
+Bundled with <a href=/disc/38688/>Assassin's Creed: Revelations (Special Edition)</a>.
+Bundled with <a href=/disc/52722/>Assassin's Creed: Revelations (Special Edition)</a>.
+CD has CD-Text
+
+	Contents:
+
+Tracklist:
+01. City of Jerusalem
+02. Earth
+03. Ezio's Family
+04. Spirit of Damascus
+05. Access the Animus
+06. Florence Escape
+07. Meditation of the Assassin
+08. The Bureau
+09. Dreams of Venice
+10. Sanctuary
+11. Venice Industry
+12. Hideout
+
+Version and Editions:
+	Version: 
+	Edition/Release: PS3 Game Bundle
+
+Extras:
+	Primary Volume Descriptor (PVD): Disc has no PVD
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="Audio CD (Track 01).bin" size="33699456" crc="108b1b1b" md5="3f4ad22e22c09b47a32a782c6c3edb34" sha1="fb6c803b179f087b9a67413b85ceede1e6e4525c" />
+<rom name="Audio CD (Track 02).bin" size="42474768" crc="0cc19d11" md5="c9ff1e8bac030f995604fbc90285464b" sha1="e555ccfc66a160eb19a95f695b58f90429fa907d" />
+<rom name="Audio CD (Track 03).bin" size="42317184" crc="3313d84d" md5="56944fc3e6263b39b7322ee192f4f790" sha1="8a890d601653f2c717e3bef65877b20ccdcf4c5b" />
+<rom name="Audio CD (Track 04).bin" size="16492224" crc="d7fd3b77" md5="91863fc28af7059e8769c15484e548d2" sha1="9e2701c833e568864cab9333b25ca74577e72864" />
+<rom name="Audio CD (Track 05).bin" size="101745168" crc="f5b49060" md5="a38aa439df7e48d75b0ccf9bf325de4a" sha1="52fbc2277642981357af019e1411a35779ae15b8" />
+<rom name="Audio CD (Track 06).bin" size="30352560" crc="6fae15bc" md5="5af38b63b681a51cbbfb523ab96297b4" sha1="c0fcbbfffe088cc2c9862ea1f84f9dc9d29041b9" />
+<rom name="Audio CD (Track 07).bin" size="39697056" crc="4cec0965" md5="6ef5ff632eca44bb10cb8b29a595c227" sha1="c9eea3bceab779c196550ddcf26393a0a4e0b697" />
+<rom name="Audio CD (Track 08).bin" size="34303920" crc="3497b417" md5="4323ca6d0bff93e1c6327602b73d21a9" sha1="3ce4768dcf1c58fe6f5b3a814e96ab1d79ae3e43" />
+<rom name="Audio CD (Track 09).bin" size="46927104" crc="22f0381b" md5="d84f56a95ef3f149c0f653aec6048efd" sha1="9511b7e739af56f086d89d359cb5ecd00e3f0d01" />
+<rom name="Audio CD (Track 10).bin" size="43747200" crc="93a19bf3" md5="b8ce2c9d6df4aa0a9faca2d794c8e1f7" sha1="db6f8cdffe3434584b7c53c4314d58993e570a4c" />
+<rom name="Audio CD (Track 11).bin" size="33734736" crc="f58d696d" md5="f861cf9b01e8c96f17ff25865f2eeced" sha1="33451fbc30266ffdae484e5a4f02c929bb19da4f" />
+<rom name="Audio CD (Track 12).bin" size="28652064" crc="2bea528a" md5="8c0f2a35b75b4eebf2dbfca16a64031c" sha1="f8243cdcd29ac3ba18bb9de544a6fcc839e860d2" />
+
+	Cuesheet:
+
+CATALOG 0?
+TITLE "ACR Soundtrack UBISOFT"
+PERFORMER "?"
+SONGWRITER "?"
+FILE "Audio CD (Track 01).bin" BINARY
+  TRACK 01 AUDIO
+    TITLE "01 City of Jerusalem-Assassin's Creed "
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 01 00:00:00
+FILE "Audio CD (Track 02).bin" BINARY
+  TRACK 02 AUDIO
+    TITLE "02 Earth-Assassin's Creed 2"
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Audio CD (Track 03).bin" BINARY
+  TRACK 03 AUDIO
+    TITLE "03 Ezio's Family-Assassin's Creed 2"
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Audio CD (Track 04).bin" BINARY
+  TRACK 04 AUDIO
+    TITLE "04 Spirit of Damascus-Assassin's Creed 2"
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Audio CD (Track 05).bin" BINARY
+  TRACK 05 AUDIO
+    TITLE "05 Access The Animus-Assassin's Creed "
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Audio CD (Track 06).bin" BINARY
+  TRACK 06 AUDIO
+    TITLE "06 Florence Escape-Assassin's Creed "
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Audio CD (Track 07).bin" BINARY
+  TRACK 07 AUDIO
+    TITLE "07 Meditation of the Assassins-Assassin's Creed 2"
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Audio CD (Track 08).bin" BINARY
+  TRACK 08 AUDIO
+    TITLE "08 The Bureau-Assassin's Creed "
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Audio CD (Track 09).bin" BINARY
+  TRACK 09 AUDIO
+    TITLE "09 Dreams of Venice-Assassin's Creed "
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Audio CD (Track 10).bin" BINARY
+  TRACK 10 AUDIO
+    TITLE "10 Sanctuary-Assassin's Creed 2"
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Audio CD (Track 11).bin" BINARY
+  TRACK 11 AUDIO
+    TITLE "11 Venice Industry-Assassin's Creed 2"
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Audio CD (Track 12).bin" BINARY
+  TRACK 12 AUDIO
+    TITLE "12 Hideout-Assassin's Creed 2"
+    PERFORMER "?"
+    SONGWRITER "?"
+    ISRC ?
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+
+	Write Offset: -48
+
+Dumping Info:
+	Dumping Program: redumper v2023.03.16 build_110
