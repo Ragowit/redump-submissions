@@ -1,0 +1,67 @@
+Common Disc Info:
+	Title: Disney/Pixar Brave
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Region: Europe
+	Languages: Danish, English, Norwegian, Swedish
+	Disc Serial: BLES-01630
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0101974529-A511	1000
+		Data Side Mastering SID Code: IFPI LY27
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 942I
+	Barcode: 8 717418 358785
+	Comments:
+
+[T:ISN] BLES01630
+Language via system settings
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 30 36 30 35 31 33 35  31 33 37 30 30 00 30 30   2060513513700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 6152d39d66b3993055be83e41073f401
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000027033F00100000
+0027033E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 3088711680
+	CRC32: 163c459c
+	MD5: 3068f4c8c0d2d918cb47d36db24a9897
+	SHA1: b6a5a984042cb4e43be8d098cc1caec82e6e81cd
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230309
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
