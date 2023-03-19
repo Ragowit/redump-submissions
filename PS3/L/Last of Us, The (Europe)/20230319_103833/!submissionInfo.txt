@@ -1,0 +1,71 @@
+Common Disc Info:
+	Title: The Last of Us
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-50
+	Category: Games
+	Fully Matching ID: 29145
+	Region: Europe
+	Languages: English, Polish, Russian
+	Disc Serial: BCES-01585
+
+	Ringcode Information:
+		Layer 0 (Outer) Mastering Code (laser branded/etched): A0102132191-A911	1000
+		Layer 0 (Outer) Mastering SID Code: IFPI LU27
+		Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 9A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Layer 1 (Inner) Mastering Code (laser branded/etched): A0102132191-B911	11000
+		Layer 1 (Inner) Mastering SID Code: IFPI LY25
+		Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 1A00
+		Label Side Mould SID Code: IFPI 944I
+	Barcode: 
+	Comments:
+
+[T:ISN] BCES01585
+Language selection via Options Menu (Text, Subtitles, Speech)
+Voice: English, Polish, Russian
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 35 31 36 30 35 31  39 31 37 30 30 00 30 30   3051605191700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 1266dfbb313eb7406b4abfda5626cb5c
+	Disc ID: 00000000000000ff0002000000000000
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+21010300000000000182939F00100000
+00CA73FE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+21010300000000000182939F01358C00
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 35364077568
+	CRC32: d4a013bc
+	MD5: 61ac522500de33ead9a4220ad3734c0a
+	SHA1: 8a32d5492bfbab09c62bffd03dc1e9c38a17aea7
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230309
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO, 00, BDO
