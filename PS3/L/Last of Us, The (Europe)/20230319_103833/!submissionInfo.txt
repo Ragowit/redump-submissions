@@ -12,7 +12,7 @@ Common Disc Info:
 
 	Ringcode Information:
 		Layer 0 (Outer) Mastering Code (laser branded/etched): A0102132191-A911	1000
-		Layer 0 (Outer) Mastering SID Code: IFPI LU27
+		Layer 0 (Outer) Mastering SID Code: IFPI LY27
 		Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 9A00
 		Data Side Mould SID Code: 
 		Data Side Additional Mould: 
