@@ -1,0 +1,67 @@
+Common Disc Info:
+	Title: Call of Duty 4: Modern Warfare
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 11118
+	Region: USA
+	Languages: English
+	Disc Serial: BLUS-30072
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): BPSS-012120A1	6
+		Data Side Mastering SID Code: IFPI L322
+		Data Side Toolstamp or Mastering Code (engraved/stamped): A02
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI QWY2
+	Barcode: 0 47875 83249 7
+	Comments:
+
+[T:ISN] BLUS30072
+[T:VOL] COD4_MW
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 37 30 39 30 37 32 33 34  35 31 32 30 30 00 30 30   7090723451200.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: b8787091bf9432e4700991e3007b2e17
+	Disc ID: 00000000000000ff00020003XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000004EAB5F00100000
+004EAB5E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 8411348992
+	CRC32: 2ca933a4
+	MD5: 56dfd85641f47f9d0cbd8b0fec6e5dcf
+	SHA1: a9930d871cf890d472fc82992d93154f79e69596
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230309
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
