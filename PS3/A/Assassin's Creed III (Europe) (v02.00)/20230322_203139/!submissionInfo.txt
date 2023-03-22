@@ -1,0 +1,69 @@
+Common Disc Info:
+	Title: Assassin's Creed III
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 69391
+	Region: Europe
+	Languages: Danish, Dutch, English, Finnish, French, German, Italian, Norwegian, Portuguese, Spanish, Swedish
+	Disc Serial: BLES-01667#2
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0102076392-A511	2000
+		Data Side Mastering SID Code: IFPI LY25
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 942K
+	Barcode: 3 307215 644867
+	Comments:
+
+[T:ISN] BLES01667
+[T:VOL] ACIII
+Language selection via Options Menu
+Voice: English, French, German, Spanish, Italian
+
+	Contents: 
+
+Version and Editions:
+	Version: 02.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 31 32 31 34 31 39 34  37 34 36 30 30 00 30 30   2121419474600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: c3587e3ea2cbb04a1c760a8eef857b30
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000006BB0FF00100000
+006BB0FE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 12306612224
+	CRC32: 43eae9e3
+	MD5: 68607c24453edb153488614452073a39
+	SHA1: 9c00595444a4ddf2bffecede4a7aed568a69c1dc
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230309
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
