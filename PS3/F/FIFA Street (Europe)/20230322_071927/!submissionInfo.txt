@@ -1,0 +1,67 @@
+Common Disc Info:
+	Title: FIFA Street
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 51910
+	Region: Europe
+	Languages: English, French, German, Italian, Spanish
+	Disc Serial: BLES-01493/E
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0101923691-A511	4000
+		Data Side Mastering SID Code: IFPI LY26
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 944M
+	Barcode: 5 030936 113081 >
+	Comments:
+
+[T:ISN] BLES01493
+[T:EAID] EAX03808693D (Disc), EAD03808693IS (Cover)
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Essentials
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 30 32 30 37 30 34 34  34 34 34 30 30 00 30 30   2020704444400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: f34dcf84985e4be0e16f866000b73f26
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000035CC1F00100000
+0035CC1E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 5073076224
+	CRC32: b3b0c4f7
+	MD5: 9b595129b1f6f9a1cc185353081bfe02
+	SHA1: 6a4435d8c26afb042cd5e71a8a8a09a87fa4fefb
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230309
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
