@@ -1,0 +1,69 @@
+Common Disc Info:
+	Title: Assassin's Creed IV: Black Flag
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 59684
+	Region: Europe
+	Languages: Arabic, English
+	Disc Serial: BLES-01884
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0102198475-A511	1000
+		Data Side Mastering SID Code: IFPI LY27
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 94G5
+	Barcode: 3 307215 704912 >
+	Comments:
+
+[T:ISN] BLES01884
+[T:VOL] AC4BF
+Language selection via Options Menu
+Voice: English
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 39 31 33 31 35 30  38 32 37 30 30 00 30 30   3091315082700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: ab3679e273bacd277cbb7f9f3d7b2513
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000005BF87F00100000
+005BF87E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 10196615168
+	CRC32: 3626d118
+	MD5: 3a0de6dd876739554c874f1ba5a22249
+	SHA1: f15d570056b63604a9418f8dcc1224b01b179288
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230309
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
