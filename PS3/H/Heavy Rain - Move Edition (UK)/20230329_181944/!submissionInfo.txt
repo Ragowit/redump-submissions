@@ -1,0 +1,71 @@
+Common Disc Info:
+	Title: Heavy Rain: Move Edition
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-50
+	Category: Games
+	Fully Matching ID: 57173
+	Region: UK
+	Languages: English
+	Disc Serial: BCES-00458#
+
+	Ringcode Information:
+		Layer 0 (Outer) Mastering Code (laser branded/etched): A0101650359-A911	1000
+		Layer 0 (Outer) Mastering SID Code: IFPI LY26
+		Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 2A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Layer 1 (Inner) Mastering Code (laser branded/etched): A0101650359-B911	1000
+		Layer 1 (Inner) Mastering SID Code: IFPI LY27
+		Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 1A00
+		Label Side Mould SID Code: IFPI 944L
+	Barcode: 
+	Comments: [T:ISN] BCES00458
+	Contents:
+
+The Taxidermist
+Official Soundtrack
+XMB Themes
+Making Of Videos
+
+Version and Editions:
+	Version: 02.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 37 30 39 31 35 30  39 33 37 30 30 00 30 30   0070915093700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: ac577eeaacc6403705e27bbf92c5a2ee
+	Disc ID: 00000000000000ff0002000000000000
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+21010300000000000146A07F00100000
+00CA73FE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+21010300000000000146A07F01358C00
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 27317764096
+	CRC32: cce8b555
+	MD5: 79ed803cc61e82b8ca588ab9441deb26
+	SHA1: ef71e31400c6a5ca54bd5b54cd7dd070bb12a48f
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230309
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO, 00, BDO
