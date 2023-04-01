@@ -1,0 +1,67 @@
+Common Disc Info:
+	Title: Dead Space 2
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 28799
+	Region: Europe
+	Languages: English, French, German
+	Disc Serial: BLES-01190/P
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0101722137-A511	3000
+		Data Side Mastering SID Code: IFPI LY27
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 94G2
+	Barcode: 
+	Comments:
+
+[T:ISN] BLES01190
+[T:EAID] EAX03807583D, EAX03808639D
+
+	Contents: It includes a demo version of <i><b>Dead Space Extraction</b></i>, in German, English, French and Italian.
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Platinum
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 31 31 32 31 30 30 32  30 30 30 30 30 00 30 30   0112100200000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 3672b649bf12557aa1003606dfc5379e
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000007E8FFF00100000
+007E8FFE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 14839447552
+	CRC32: 89df0e24
+	MD5: ae51c10163742ac598179be75709050d
+	SHA1: 00387c545a674bcefb50a60d678b0682e40a53fc
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230309
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
