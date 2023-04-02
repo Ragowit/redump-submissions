@@ -29,7 +29,7 @@ Common Disc Info:
 
 Version and Editions:
 	Version: 01.01
-	Edition/Release: Original
+	Edition/Release: Limited Edition
 
 Extras:
 	Primary Volume Descriptor (PVD):
