@@ -1,0 +1,68 @@
+Common Disc Info:
+	Title: Rock Band
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 47576
+	Region: Europe
+	Languages: English, French, German, Italian, Spanish
+	Disc Serial: BLES-00228
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0100972159-A511	1000
+		Data Side Mastering SID Code: IFPI LY25
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 1A01
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 942K
+	Barcode: 5 030930 059927
+	Comments:
+
+[T:ISN] BLES00228
+[T:VOL] ROCKBAND
+[T:EAID] EAX03805865D (Disc), EAD03805865M (Manual), EAE03805865M (Manual), EAE03805865IS (Case)
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 36 31 33 31 36 30  30 30 30 30 30 00 30 30   8061316000000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: f6ab971d593a6cf491d183c3f9b241d9
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000034D57F00100000
+0034D57E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 4943773696
+	CRC32: 1322ab02
+	MD5: 74da3f4c0fee2d0543d21e350ca81653
+	SHA1: 9a2dbd040a20366996df534580ac5da9abd8a967
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230309
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
