@@ -1,0 +1,70 @@
+Common Disc Info:
+	Title: MotorStorm: Apocalypse
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 70717
+	Region: Europe
+	Languages: Danish, Dutch, English, Finnish, French, German, Italian, Korean, Norwegian, Polish, Portuguese, Russian, Spanish, Swedish
+	Disc Serial: BCES-00484
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0101734698-A511	2000
+		Data Side Mastering SID Code: IFPI LY24
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 6A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 94F9
+	Barcode: 
+	Comments:
+
+[T:ISN] BCES00484
+Russian title: MotorStorm Апокалипсис
+Voices: Dutch, English, French, German, Italian, Polish, Portuguese, Russian, Spanish
+
+Disc ID: 9154884
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Promo
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 31 33 30 31 35 34  30 35 36 30 30 00 30 30   1013015405600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 9d72c9a54084164bc81d63431d7ceab8
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+110101000000000000A849BF00100000
+00A849BE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 20439760896
+	CRC32: 8f59c3ff
+	MD5: 4383513876cadec84223349a29201f1f
+	SHA1: 484f16d2db895694b1d83b524d7d9ffcb05e7031
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230309
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
