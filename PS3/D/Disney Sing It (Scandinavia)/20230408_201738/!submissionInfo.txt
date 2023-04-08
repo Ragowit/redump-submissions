@@ -1,0 +1,63 @@
+Common Disc Info:
+	Title: Disney Sing It
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 28530
+	Region: Scandinavia
+	Languages: Danish, English, Norwegian, Swedish
+	Disc Serial: BLES-00380
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0101008417-A511	1000
+		Data Side Mastering SID Code: IFPI LY24
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 1A01
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 949K
+	Barcode: 8 717418 181345
+	Comments: [T:ISN] BLES00380
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 39 32 34 30 39 35  39 34 34 30 30 00 30 30   8092409594400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 0a3320fd0b852b57928853be21320389
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000004E369F00100000
+004E369E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 8350138368
+	CRC32: 829e6513
+	MD5: c3ec694ab64cb0621435a18e12294962
+	SHA1: 0aa67de30713b6c517a89bf41da91911f22751df
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230309
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
