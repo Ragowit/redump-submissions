@@ -1,0 +1,63 @@
+Common Disc Info:
+	Title: Aliens vs. Predator
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 12234
+	Region: USA
+	Languages: English, French, German, Italian, Spanish
+	Disc Serial: BLUS-30340
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): BPSS-058100A1	1
+		Data Side Mastering SID Code: IFPI L324
+		Data Side Toolstamp or Mastering Code (engraved/stamped): A01
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI QWXK
+	Barcode: 0 10086 69038 5
+	Comments: [T:ISN] BLUS30340
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 31 32 31 35 31 31 32  36 30 30 30 30 00 30 30   9121511260000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: e893cd05ba4c15ce140bbc72742a26df
+	Disc ID: 00000000000000ff00020003XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000004347BF00100000
+004347BE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 6882721792
+	CRC32: 9645e9d6
+	MD5: 8f9e0cbcd82591441dc1716cbe994cb1
+	SHA1: 0a6f1ec60e2276a31df56bcc06b42345bb6f49bf
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230309
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
