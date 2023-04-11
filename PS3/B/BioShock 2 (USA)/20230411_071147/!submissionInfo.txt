@@ -1,0 +1,67 @@
+Common Disc Info:
+	Title: BioShock 2
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 11739
+	Region: USA
+	Languages: English, French, Spanish
+	Disc Serial: BLUS-30420GH
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): BPSS-054240A1	8
+		Data Side Mastering SID Code: IFPI L321
+		Data Side Toolstamp or Mastering Code (engraved/stamped): A02
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI QWY8
+	Barcode: 7 10425 37555 2
+	Comments:
+
+[T:ISN] BLUS30420
+<b>2K Games ID</b>: 37552-1, 37552-1GH
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Greatest Hits
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 31 32 30 38 30 30 32  35 33 36 30 30 00 30 30   9120800253600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 10f1376849d3231717a5155249db51b7
+	Disc ID: 00000000000000ff00020003XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000005AC7FF00100000
+005AC7FE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 10036969472
+	CRC32: 99d1f612
+	MD5: 1603f4cd3f7556fe2b603b7a01d404fd
+	SHA1: 77d916aad7b183ad794ed02ab0c3109ca6826dff
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230309
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
