@@ -1,0 +1,69 @@
+Common Disc Info:
+	Title: Rock Band 3
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 47922
+	Region: Europe
+	Languages: English, French, German, Italian, Spanish
+	Disc Serial: BLES-00986
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0101661950-A511	3000
+		Data Side Mastering SID Code: IFPI LY25
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 3A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 94F8
+	Barcode: 
+	Comments:
+
+[T:ISN] BLES00986
+[T:VOL] BAND3
+[T:EAID] EAX03807685D (Disc), EAD03807685M (Manual)
+Disc ID: 5099423
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Promo
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 38 32 38 31 39 35  30 32 36 30 30 00 30 30   0082819502600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 4037589fc1c246b75f2257649c60de5f
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000003BD1FF00100000
+003BD1FE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 5881462784
+	CRC32: c5c10a44
+	MD5: 7e981a0d6513dc1e7092c3d2e7f538e1
+	SHA1: 11e701ff43184f2a2612ba1e7b32965273a5699d
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230309
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
