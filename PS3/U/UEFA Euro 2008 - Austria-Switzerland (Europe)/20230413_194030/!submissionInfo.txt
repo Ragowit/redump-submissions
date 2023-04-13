@@ -1,0 +1,68 @@
+Common Disc Info:
+	Title: UEFA Euro 2008: Austria-Switzerland
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 32391
+	Region: Europe
+	Languages: Dutch, English, French, German, Italian, Portuguese, Russian, Spanish, Swedish
+	Disc Serial: BLES-00227
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0100930178-A511	1000
+		Data Side Mastering SID Code: IFPI LY23
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 1A05
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 94F2
+	Barcode: 5 030945 063865
+	Comments:
+
+[T:ISN] BLES00227
+[T:VOL] UEFA EURO 2008
+[T:EAID] EAX03805931D (Disc), EAR03805931IS (Cover), EAR03805931M (Manual), EAN03805931M (Manual), EAN03805931IS (Cover)
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 33 31 32 30 32 30  37 32 35 30 30 00 30 30   8031202072500.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: (REQUIRED)
+	Disc ID: (REQUIRED)
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000058F15F00100000
+0058F15E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 9790226432
+	CRC32: 62842c8a
+	MD5: f627944ea93e92db557e6046521153cd
+	SHA1: c0f31973de2de728e58ee333f9903d412fcfa4a8
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
