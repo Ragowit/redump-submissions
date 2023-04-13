@@ -1,0 +1,68 @@
+Common Disc Info:
+	Title: Sniper: Ghost Warrior
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 31974
+	Region: Europe
+	Languages: English, French, German, Italian, Polish, Russian, Spanish
+	Disc Serial: BLES-01281
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0101763018-A511	1000
+		Data Side Mastering SID Code: IFPI LY24
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 943K
+	Barcode: 5 907813 593116
+	Comments:
+
+[T:ISN] BLES01281
+[T:VOL] SNIPER: GHOST WARRIOR
+Voices: English, French, German, Russian
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 33 32 35 31 30 31  36 33 37 30 30 00 30 30   1032510163700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 402ae7b48bb770b942f3ae4f0d55e953
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000031A51F00100000
+0031A51E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 4515758080
+	CRC32: cd3c9046
+	MD5: 457bf4d212102c099334672e6fc83258
+	SHA1: 985d82913b3599906aa360d038535e313b3a088b
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230309
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
