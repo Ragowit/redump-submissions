@@ -1,0 +1,70 @@
+Common Disc Info:
+	Title: Dead Space
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 6571
+	Region: Europe
+	Languages: Czech, English, Hungarian, Polish, Russian
+	Disc Serial: BLES-00308
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0101000487-A511	1000
+		Data Side Mastering SID Code: IFPI LY25
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 1A09
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 94F6
+	Barcode: 
+	Comments:
+
+[T:ISN] BLES00308
+[T:EAID] EAX03806251D (Disc), EAR03806251IS (Cover), EANX3806251IS (Cover)
+Language selection via Language Selector
+Voice: English, Russian
+Disc ID: 0073176
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Promo
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 39 30 33 32 33 31  39 30 30 30 30 00 30 30   8090323190000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 2a6cf20b87f545d9f3e317d173d5c1ff
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000004DC0DF00100000
+004DC0DE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 8288403456
+	CRC32: 632d2dc7
+	MD5: ad5edc447d8875cf26b54240907c9446
+	SHA1: 586aba4d6625932b812722257534c1d9615fe5e6
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
