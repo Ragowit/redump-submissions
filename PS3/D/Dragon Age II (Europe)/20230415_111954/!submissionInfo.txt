@@ -1,0 +1,70 @@
+Common Disc Info:
+	Title: Dragon Age II
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 30871
+	Region: Europe
+	Languages: English, French, German, Italian, Polish, Russian, Spanish
+	Disc Serial: BLES-01084
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0101736515-A511	1000
+		Data Side Mastering SID Code: IFPI LY24
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 94F9
+	Barcode: 
+	Comments:
+
+[T:ISN] BLES01084
+[T:EAID] EAX03807584D (Disc), EAR03807584IS (Cover), EAR03807584M (Manual), EAR03807584K (Advert)
+Voices: English, French, German
+Language selection via console's System Language.
+Disc ID: 5102604
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Promo
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 39 31 31 30 35 31  37 35 39 30 30 00 30 30   0091105175900.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: d15484750933b848818acddfc5a58183
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000043EB7F00100000
+0043EB7E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 6968573952
+	CRC32: 748c3cbf
+	MD5: dc7f97a89d2a2df31d5ed86bb30bd610
+	SHA1: fc5d221c3c4573ce5d22ec570500e0ac651346fc
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
