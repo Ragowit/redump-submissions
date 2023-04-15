@@ -1,0 +1,74 @@
+Common Disc Info:
+	Title: Nickelodeon SpongeBob SquarePants: Plankton's Robotic Revenge
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 58009
+	Region: Europe
+	Languages: Dutch, English, French, German, Italian, Spanish, Swedish
+	Disc Serial: BLES-01911
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0102176642-A511	1000
+		Data Side Mastering SID Code: IFPI LY24
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 944M
+	Barcode: 
+	Comments:
+
+[T:ISN] BLES01911
+[T:VOL] SBSP_EU
+[T:ACT] 76750101EU (Disc), 76750202GM (Cover), 76750983EU (Disc)
+Dutch title: Nickelodeon SpongeBob SquarePants: Planktons Mechanische Wraak
+French title: Nickelodeon Bob L'éponge: La Vengeance Robotique de Plankton
+German title: Nickelodeon SpongeBob Schwammkopf: Planktons Fiese Robo-Rache
+Italian title: Nickelodeon SpongeBob: La Vendetta Robotica di Plankton
+Spanish title: Nickelodeon Bob Esponja: La Venganza de Plankton
+Disc ID: 7138478
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Promo
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 38 31 32 31 31 35  33 33 37 30 30 00 30 30   3081211533700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 874314e27feb73d94f2979954a4b0ac8
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000001CE89F00100000
+001CE89E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 1732575232
+	CRC32: b985a494
+	MD5: 204be86d6cb4e32886d2988787ba08e4
+	SHA1: 1375e8f2679b83f055dfc4b9f9ee42bb94f65fac
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
