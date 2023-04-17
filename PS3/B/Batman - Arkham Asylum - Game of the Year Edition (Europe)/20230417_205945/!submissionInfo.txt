@@ -1,0 +1,77 @@
+Common Disc Info:
+	Title: Batman: Arkham Asylum: Game of the Year Edition
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 35888
+	Region: Europe
+	Languages: English, French, German, Italian, Spanish
+	Disc Serial: BLES-00827/P#
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0101520892-A511	4000
+		Data Side Mastering SID Code: IFPI LY24
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 94F7
+	Barcode: 5 051895 159170
+	Comments: [T:ISN] BLES00827
+	Contents:
+
+Includes DLC on Disc:
+- Old fashioned 3D with the colored glasses. NOT Stereoscopic.
+- Totally Insane Map
+- Nocturnal Hunter Map
+- Crime Alley Map
+- Scarecrow Nightmare Map
+Does Not Include DLC on Disc:
+- Joker DLC (Available for free on PSN)
+Save Compatibility:
+- Vanilla saves are NOT compatible with the GOTY edition and vice-versa
+Special Notes:
+- Has a SEPARATE set of Achievements from the vanilla Arkham Asylum Game.
+- There have been several different packaging versions of this game, but the main differences seem to be the case art and whether or not it includes the 3D glasses.
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Platinum
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 31 32 35 31 32 33  33 34 38 30 30 00 30 30   0012512334800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: e3fe084508e5b346aa3d808ab3a83f3f
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000048277F00100000
+0048277E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 7536902144
+	CRC32: 61d9ed23
+	MD5: d617ba002c37879c6b955e1736973f29
+	SHA1: 65ffe96cce661a9c27600c703e60ecc2612ee31d
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
