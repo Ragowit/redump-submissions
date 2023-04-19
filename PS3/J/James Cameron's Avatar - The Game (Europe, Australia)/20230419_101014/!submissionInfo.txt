@@ -1,0 +1,71 @@
+Common Disc Info:
+	Title: James Cameron's Avatar: The Game
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 32036
+	Region: Europe, Australia
+	Languages: Dutch, English, French, German, Italian, Spanish
+	Disc Serial: BLES-00667/P
+
+	Ringcode Information:
+		Data Side Mastering Code (laser branded/etched): A0101439620-A511	4000
+		Data Side Mastering SID Code: IFPI LY24
+		Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Label Side Mould SID Code: IFPI 947M
+	Barcode: 3 307219 905353
+	Comments:
+
+[T:ISN] BLES00667
+German title: James Cameron's Avatar: Das Spiel
+Italian title: James Cameron's Avatar: Il Gioco
+Spanish title: James Cameron's Avatar: El Videojuego
+Voices: English, French, German, Italian, Spanish
+<b>Additional Disc ID:</b> 00000000000000FF00020006XXXXXXXX
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Platinum
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 30 32 31 33 31 33 30  36 33 36 30 30 00 30 30   9021313063600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 9eb07586b9aa2662d7802803c4d473ed
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000002CA65F00100000
+002CA65E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 3845324800
+	CRC32: 87aa45d2
+	MD5: 8f44605783c31e4a235cd070512245af
+	SHA1: 9e484107d2b233cdf3efc055ee2ddd9529e24283
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
