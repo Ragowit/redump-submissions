@@ -1,0 +1,78 @@
+Common Disc Info:
+	Title: Uncharted 3: Drake's Deception: Game of the Year Edition
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-50
+	Category: Games
+	Fully Matching ID: 32191
+	Region: Europe
+	Languages: Czech, Danish, Dutch, English, Finnish, French, German, Greek, Italian, Norwegian, Polish, Portuguese, Russian, Spanish, Swedish, Turkish
+	Disc Serial: BCES-01670
+
+	Ringcode Information:
+		Layer 0 (Outer) Mastering Code (laser branded/etched): A0101958169-A911	1000
+		Layer 0 (Outer) Mastering SID Code: IFPI LY24
+		Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 1A00
+		Data Side Mould SID Code: 
+		Data Side Additional Mould: 
+		Layer 1 (Inner) Mastering Code (laser branded/etched): A0101958169-B911	1000
+		Layer 1 (Inner) Mastering SID Code: IFPI LY27
+		Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 2A00
+		Label Side Mould SID Code: IFPI 945J
+	Barcode: 7 11719 20614 9
+	Comments:
+
+[T:ISN] BCES01670
+French title: Uncharted 3: L'Illusion de Drake
+Greek title: Uncharted 3: Η Εξαπάτηση του Drake
+Italian title: Uncharted 3: L'Inganno di Drake
+Polish title: Uncharted 3: Oszustwo Drake’a
+Russian title: Uncharted 3: Иллюзии Дрейка
+Spanish title: Uncharted 3: La Traición de Drake
+-
+Voices: Dutch, English, French, German, Italian, Polish, Portuguese, Russian, Spanish, Turkish
+Language selection via Language Selector.
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 30 34 31 34 30 35 31  39 31 37 30 30 00 30 30   2041405191700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: e4d227b5458e7520996210637ce7795c
+	Disc ID: 00000000000000ff0002000000000000
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+210103000000000001E9CA1F00100000
+00CA73FE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+210103000000000001E9CA1F01358C00
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 49217077248
+	CRC32: 6b4391d7
+	MD5: ad2a6bf83ceff6fee96fcdf82ff9f3bf
+	SHA1: 421e9bcdc77f3b3a456e677f6bb27df882057b34
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO, 00, BDO
