@@ -1,0 +1,66 @@
+Common Disc Info:
+	Title: Death's Door
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 5
+	Media Type: BD-ROM-50
+	Category: Games
+	Region: Europe
+	Languages: 
+	Disc Serial: PPSA-05304
+
+	Ringcode Information:
+
+Layer 0 (Inner) Mastering Code (laser branded/etched): PPSA-05304/02.00	A0103373719-B911 1000
+Layer 0 (Inner) Mastering SID Code: IFPI LY26
+Layer 0 (Inner) Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Outer) Mastering Code (laser branded/etched): PPSA-05304/02.00	A0103373719-A911 1000
+Layer 1 (Outer) Mastering SID Code: IFPI LY27
+Layer 1 (Outer) Toolstamp or Mastering Code (engraved/stamped): 1A00
+Label Side Mould SID Code: IFPI 944J
+
+	Barcode: 5 060760 888688
+	Comments: [T:ISN] PPSA05304
+	Contents: 
+
+Version and Editions:
+	Version: 02.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 31 31 31 31 36 31 37 34  34 31 33 30 30 00 30 30   1111617441300.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042445532
+29050300010000000328DDDF00100000
+01089BFE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042445532
+29050300010000000328DDDF02F76400
+03EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 40008351744
+	CRC32: 3b4c5bde
+	MD5: 333c2f0482cdc8cfdb26981eb1504465
+	SHA1: a7072e7c4a141f4f5fb253256c954a8a535da333
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDU
