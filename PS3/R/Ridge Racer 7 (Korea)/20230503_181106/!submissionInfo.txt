@@ -1,0 +1,71 @@
+Common Disc Info:
+	Title: Ridge Racer 7
+	Foreign Title (Non-latin): 릿지 레이서 7
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 101734
+	Region: Korea (Republic of Korea)
+	Languages: English, Japanese
+	Disc Serial: BCKS 10039
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BCKS-10001	2
+Data Side Mastering SID Code: IFPI L279
+Data Side Toolstamp or Mastering Code (engraved/stamped): 01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 453N
+
+	Barcode: 8 809083 644536
+	Comments:
+
+[T:ISN] BCKS10001
+[T:JID] V-0604817
+Voices: English
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: BigHit Series
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 37 30 32 30 39 30 30 32  36 30 39 30 30 00 30 30   7020900260900.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 
+	Disc ID: 
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000004D7FBF00100000
+004D7FBE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 8254259200
+	CRC32: 2bd54df0
+	MD5: 0937449da611223d555fdfacb78ac2d0
+	SHA1: fdcd5ef872bdd5724287da2b86ce931d37ca3d54
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO

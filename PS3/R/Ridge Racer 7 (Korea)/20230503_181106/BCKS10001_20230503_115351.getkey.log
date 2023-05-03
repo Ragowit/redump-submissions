@@ -1,0 +1,35 @@
+
+GetKey r2
+Load keys
+Test unit ready: return value of ioctl indicates success
+Read pic: return value of ioctl indicates success
+get dec key
+  establish session keys:
+    do send key: return value of ioctl indicates success
+    do report key: return value of ioctl indicates success
+    calculate session keys
+    do send key: return value of ioctl indicates success
+  get data
+    do unknown e1:
+    unknown e1 cdb: e1005400b3a41af0fdde91d7
+    return value of ioctl indicates success
+    do unknown e0:
+    unknown e0 cdb: e00034007f79347e800231b3
+    ioctl indicates command failed: -1
+  get data failed
+get_dec_key failed, key was not dumped
+
+PIC:
+10020000444901080000200042444f01
+1101010000000000004d7fbf00100000
+004d7fbe000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING
+
+WARNING: Not everything was correctly dumped (d1 missing)
