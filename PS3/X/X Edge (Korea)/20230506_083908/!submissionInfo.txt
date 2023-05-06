@@ -1,0 +1,71 @@
+Common Disc Info:
+	Title: X Edge
+	Foreign Title (Non-latin): 크로스 에지
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 101571
+	Region: Korea (Republic of Korea)
+	Languages: Korean
+	Disc Serial: BLKS 20112
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BLKS-20112	1
+Data Side Mastering SID Code: IFPI L279
+Data Side Toolstamp or Mastering Code (engraved/stamped): 02
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 4535
+
+	Barcode: 8 809131 960717
+	Comments:
+
+[T:ISN] BLKS20112
+[T:VOL] X EDGE
+Voices: Japanese
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 30 32 30 34 30 34 30  33 35 32 30 30 00 30 30   9020404035200.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: a27914aa4e88d9c94308630269a83301
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000006BA99F00100000
+006BA99E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 12302745600
+	CRC32: 33fdedda
+	MD5: 3edd0787c72b714ad59fb4daf2682e4d
+	SHA1: 27e38b724fd2cfcd60f50f66bcc47bdb4f83c41f
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
