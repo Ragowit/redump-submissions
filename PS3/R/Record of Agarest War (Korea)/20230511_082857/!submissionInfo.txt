@@ -1,0 +1,70 @@
+Common Disc Info:
+	Title: Record of Agarest War
+	Foreign Title (Non-latin): 아가레스트 전기
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 101562
+	Region: Korea (Republic of Korea)
+	Languages: Korean
+	Disc Serial: BLKS 20140
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BLKS-20063	2
+Data Side Mastering SID Code: IFPI L279
+Data Side Toolstamp or Mastering Code (engraved/stamped): 03
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 453G
+
+	Barcode: 8 809131 960816
+	Comments:
+
+[T:ISN] BLKS20063
+Voices: Japanese
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: BigHit Series
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 32 32 31 30 39 33  36 35 31 30 30 00 30 30   8022109365100.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: d3eec5354e439f19e27de1312fc8db81
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000008A123F00100000
+008A123E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 16384131072
+	CRC32: 693c8b64
+	MD5: c477d492922c5c6b99c12e22efe0b62e
+	SHA1: 017d33ee10cea18a6cdfbcbd3b5bf890c424ccd3
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
