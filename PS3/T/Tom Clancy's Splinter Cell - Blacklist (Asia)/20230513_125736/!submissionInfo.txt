@@ -1,0 +1,73 @@
+Common Disc Info:
+	Title: Tom Clancy's Splinter Cell: Blacklist
+	Foreign Title (Non-latin): スプリンターセル　ブラックリスト
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 33460
+	Region: Asia
+	Languages: Chinese, English, Japanese, Korean
+	Disc Serial: BLKS 20429
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BLJM-61057	1
+Data Side Mastering SID Code: IFPI L279
+Data Side Toolstamp or Mastering Code (engraved/stamped): 02
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 453N
+
+	Barcode: 8 809182 562441
+	Comments:
+
+[T:ALTF] 縱橫諜海：黑名單 (Chinese)
+[T:ISN] BLJM61057
+Voices: English
+Traditional Chinese only.
+Regions dumped: Asia, Korea
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 37 31 37 30 31 31  34 31 35 30 30 00 30 30   3071701141500.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: ed26dc9b8b74dfa80fa455eb6cc0997e
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000006974BF00100000
+006974BE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 12006588416
+	CRC32: bf767996
+	MD5: 1859dd0e4a348e4c74659e87eb5b4397
+	SHA1: 73574ad3eadf09899307b7bc2ea0d73bf36f742a
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
