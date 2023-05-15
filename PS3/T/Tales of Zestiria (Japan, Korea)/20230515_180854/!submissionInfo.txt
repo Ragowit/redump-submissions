@@ -1,0 +1,80 @@
+Common Disc Info:
+	Title: Tales of Zestiria
+	Foreign Title (Non-latin): テイルズ　オブ　ゼスティリア
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-50
+	Category: Games
+	Fully Matching ID: 52884
+	Region: Japan, Korea
+	Languages: Japanese
+	Disc Serial: BLKS 97002
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): BLJS-93020 L0	2
+Layer 0 (Outer) Mastering SID Code: IFPI L279
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 08
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Inner) Mastering Code (laser branded/etched): BLJS-93020 L1	1
+Layer 1 (Inner) Mastering SID Code: IFPI L279
+Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 05
+Label Side Mould SID Code: 453G
+
+	Barcode: 8 809072 365541
+	Comments:
+
+[T:ALTF] 테일즈 오브 제스티리아
+[T:ISN] BLJS93020
+[T:VOL] TOZ
+PS3/BD-Video Hybrid Disc
+BD-Video Protection: AACS (MKB version 50)
+Media Key: 7BEEC111A68717D0B7EF75E5017B50CB
+Volume ID: C749B83C1FFCD3CF37DDED9CAD958B4A
+Volume Unique Key: 1B8942A52160F0598F589F7A3CAFE5BC
+Unit Key File Hash: ADA234D79F1025C89944F40CD8E41A6BA29C3EEE
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 34 31 31 32 35 30 39 33  36 35 39 30 30 00 30 30   4112509365900.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 76fc2aa482b98dc56b2dcc85412f90ca
+	Disc ID: 00000000000000ff0002000000000000
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+210103000000000001A51EFF00100000
+009C971E000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+210103000000000001A51EFF016368E0
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 27689353216
+	CRC32: 1c73c13c
+	MD5: 23b6df86c12cc065784341392f07f158
+	SHA1: 19aecee4cac485469e3db2ba457fa538137da540
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO, 00, BDO
