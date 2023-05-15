@@ -1,0 +1,71 @@
+Common Disc Info:
+	Title: Apdojeog Yuhui: Mugen Souls Z
+	Foreign Title (Non-latin): 압도적유희 무겐소울즈 Z
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 101549
+	Region: Korea (Republic of Korea)
+	Languages: Korean
+	Disc Serial: BLKS 20444
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BLKS-20444	1
+Data Side Mastering SID Code: IFPI L279
+Data Side Toolstamp or Mastering Code (engraved/stamped): 01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 453N
+
+	Barcode: 8 809131 961318
+	Comments:
+
+[T:ISN] BLKS20444
+[T:VOL] MUGEN SOULS Z
+Voices: Japanese
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 37 30 35 31 30 31  37 33 35 30 30 00 30 30   3070510173500.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 6db154c742b1009639d036a9ef03bb1d
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000004D475F00100000
+004D475E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 8224702464
+	CRC32: 3358d8a1
+	MD5: fc53881c312546532e7761a34e2ecb09
+	SHA1: 530b25863821399f762eff530d785e6ae3758f7c
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
