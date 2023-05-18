@@ -1,0 +1,70 @@
+Common Disc Info:
+	Title: Saints Row 2
+	Foreign Title (Non-latin): 세인츠 로우 2
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 101166
+	Region: Korea (Republic of Korea)
+	Languages: English, Korean
+	Disc Serial: BLKS 20076
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BLKS-20076	1
+Data Side Mastering SID Code: IFPI L280
+Data Side Toolstamp or Mastering Code (engraved/stamped): 02
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 4538
+
+	Barcode: 8 809118 911220
+	Comments:
+
+[T:ISN] BLKS20076
+Voices: English
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 39 30 34 31 38 33  30 30 30 30 30 00 30 30   8090418300000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 47a1e0956f434c9a67b85504bcf59a12
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000004A135F00100000
+004A135E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 7794786304
+	CRC32: 307554bf
+	MD5: 6a6445313f9135508070f9994542f642
+	SHA1: 1b1a4c477be7094766378219e28d0c76844e93c3
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
