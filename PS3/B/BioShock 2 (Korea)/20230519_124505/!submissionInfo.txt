@@ -1,0 +1,70 @@
+Common Disc Info:
+	Title: BioShock 2
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 75482
+	Region: Korea (Republic of Korea)
+	Languages: English, Korean
+	Disc Serial: BLKS 20146
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BLKS-20146	1
+Data Side Mastering SID Code: IFPI L279
+Data Side Toolstamp or Mastering Code (engraved/stamped): 04
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 453P
+
+	Barcode: 5 026555 403634
+	Comments:
+
+[T:ISN] BLKS20146
+<b>2K Games ID</b>: 5403634/DVD
+Voice: English
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 31 32 32 33 30 30 30  39 35 33 30 30 00 30 30   9122300095300.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 1ef50ceb25ff37b7aa225402bbeeebdd
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000005CB2DF00100000
+005CB2DE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 10294329344
+	CRC32: 9d0b6af7
+	MD5: 90ee6df6f393df16cc364518203a748e
+	SHA1: 909c94e7876ff6f6c28f87bb6c73e97f6327de4a
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
