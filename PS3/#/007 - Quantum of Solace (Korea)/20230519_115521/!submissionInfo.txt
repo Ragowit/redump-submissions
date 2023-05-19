@@ -1,0 +1,66 @@
+Common Disc Info:
+	Title: 007: Quantum of Solace
+	Foreign Title (Non-latin): 퀀텀 오브 솔러스
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 101547
+	Region: Korea (Republic of Korea)
+	Languages: Korean
+	Disc Serial: BLKS 20088
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BLKS-20088	1
+Data Side Mastering SID Code: IFPI L279
+Data Side Toolstamp or Mastering Code (engraved/stamped): 01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 4531
+
+	Barcode: 8 809202 846223
+	Comments: [T:ISN] BLKS20088
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 31 31 31 33 30 34 33  36 31 33 30 30 00 30 30   8111304361300.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 6882c7d1cf1d0824eb68209191aa323e
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000059835F00100000
+0059835E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 9866772480
+	CRC32: 3d8f0e2a
+	MD5: a3e3a740df8e92c9a70ada496e1cbf44
+	SHA1: c96dc00fefd8798478d7d853f02d850a5a1cac49
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
