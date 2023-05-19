@@ -9,7 +9,7 @@ Common Disc Info:
 	Fully Matching ID: 33299
 	Region: Japan, Korea
 	Languages: Japanese
-	Disc Serial: (REQUIRED, IF EXISTS)
+	Disc Serial: BLKS 20346
 
 	Ringcode Information:
 
