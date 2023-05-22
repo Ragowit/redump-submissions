@@ -1,0 +1,72 @@
+Common Disc Info:
+	Title: Beyond: Two Souls
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-50
+	Category: Games
+	Fully Matching ID: 101346
+	Region: Korea (Republic of Korea)
+	Languages: Chinese, English, Korean
+	Disc Serial: BCKS 15014
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): BCAS-25017 L0	3
+Layer 0 (Outer) Mastering SID Code: IFPI L280
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Inner) Mastering Code (laser branded/etched): BCAS-25017 L1	2
+Layer 1 (Inner) Mastering SID Code: IFPI L280
+Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 02
+Label Side Mould SID Code: 453M
+
+	Barcode: 8 809338 092570
+	Comments:
+
+[T:ISN] BCAS25017
+Voices: English
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 38 32 38 30 34 34  30 31 36 30 30 00 30 30   3082804401600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: b60b5f55fcdf7a3b896cfb9bf46edea7
+	Disc ID: 00000000000000ff0002000000000000
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+21010300000000000179395F00100000
+00CA73FE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+21010300000000000179395F01358C00
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 34108801024
+	CRC32: bd937c05
+	MD5: d760fa5b5868a4ed79643e30c0a779e6
+	SHA1: 4762bf8fe9e532701068b90c53e517ff390ade38
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO, 00, BDO
