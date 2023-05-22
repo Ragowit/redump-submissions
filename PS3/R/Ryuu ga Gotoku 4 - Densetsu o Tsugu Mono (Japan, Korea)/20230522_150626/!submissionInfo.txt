@@ -1,0 +1,73 @@
+Common Disc Info:
+	Title: Ryuu ga Gotoku 4: Densetsu o Tsugu Mono
+	Foreign Title (Non-latin): 龍が如く４　～伝説を継ぐもの～
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 33234
+	Region: Japan, Korea
+	Languages: Japanese
+	Disc Serial: BCKS 10111
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BLJM-60208	1
+Data Side Mastering SID Code: IFPI L279
+Data Side Toolstamp or Mastering Code (engraved/stamped): 05
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 453L
+
+	Barcode: 8 809083 647124
+	Comments:
+
+[T:ALTF] 용과 같이 4 -전설을 잇는 자-
+[T:ISN] BLJM60208
+[T:VOL] SOUL
+[T:JID] V-0907126SO
+[T:SID] 681-10238 (Disc), 681-10239 (Manual), 681-10240 (Package), 681-10241 (Enquête), 681-10264 (Advertisement Card), 681-10269 (Guidebook Information)
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 32 31 30 30 36 33  30 30 30 30 30 00 30 30   0021006300000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 35371c6683f2ac8b68ec194af2c0a5f3
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+110101000000000000BE0A7F00100000
+00BE0A7E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 23359389696
+	CRC32: 29de66d7
+	MD5: bfd7e6e5a025126cde27b3a264c75e9b
+	SHA1: 2f6da02e1abde2eb626247ccd185e182ce7b8fd5
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
