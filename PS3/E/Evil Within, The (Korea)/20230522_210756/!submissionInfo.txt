@@ -1,0 +1,72 @@
+Common Disc Info:
+	Title: The Evil Within
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 101347
+	Region: Korea (Republic of Korea)
+	Languages: Korean
+	Disc Serial: BCKS 10276
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BCKS-10276	1
+Data Side Mastering SID Code: IFPI L280
+Data Side Toolstamp or Mastering Code (engraved/stamped): 03
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 453L
+
+	Barcode: 8 809338 094376
+	Comments:
+
+[T:ISN] BCKS10276
+[T:VOL] THE EVIL WITHIN
+Voices: English
+"The Fighting Chance Pack" - with DLC code.
+Case says 한국어버전 (Korean Version).
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 34 30 38 31 36 30 32 32  39 32 32 30 30 00 30 30   4081602292200.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 1e24af5cbb701fd7ebbe0774f4ebd1de
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000004354FF00100000
+004354FE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 6889668608
+	CRC32: 8fbaead5
+	MD5: 8021f4a7c92a6b10d21a3af8e789ca3d
+	SHA1: d222aa43c856381b3ba2dafa98537028f2df340a
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
