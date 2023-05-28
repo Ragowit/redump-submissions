@@ -1,0 +1,74 @@
+Common Disc Info:
+	Title: UFC Undisputed 2010
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-50
+	Category: Games
+	Fully Matching ID: 45303
+	Region: USA, Asia
+	Languages: English, French
+	Disc Serial: BLKS 25005
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): BLAS-55006 L0	2
+Layer 0 (Outer) Mastering SID Code: IFPI L280
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Inner) Mastering Code (laser branded/etched): BLAS-55006 L1	1
+Layer 1 (Inner) Mastering SID Code: IFPI L279
+Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 02
+Label Side Mould SID Code: 453J
+
+	Barcode: 8 809118 911626
+	Comments:
+
+[T:ISN] BLUS30483
+[T:VOL] UFC_UNDISPUTED_2010
+7 52919 99155 8 (USA), 4 005209 133333 (Asia), 8 809118 911626 (Korea)
+Regions dumped: USA, Asia, Korea
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 34 32 30 30 34 30  30 30 30 30 30 00 30 30   0042004000000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 0057e7e55a702dc39f3b9285e636a991
+	Disc ID: 00000000000000ff0002000000000000
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+210103000000000001D05DFF00100000
+00CA73FE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+210103000000000001D05DFF01358C00
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 45804945408
+	CRC32: 96d8eaff
+	MD5: 106ae879e730ddf4cf5b9567e0705bee
+	SHA1: 688e022a0df9e6e9b38e353a7db00b9baea2a0ff
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO, 00, BDO
