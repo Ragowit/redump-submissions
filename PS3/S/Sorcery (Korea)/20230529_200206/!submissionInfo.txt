@@ -1,0 +1,71 @@
+Common Disc Info:
+	Title: Sorcery
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 101564
+	Region: Korea (Republic of Korea)
+	Languages: Chinese, English, Korean
+	Disc Serial: BCKS 10216
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BCAS-20235	1
+Data Side Mastering SID Code: IFPI L280
+Data Side Toolstamp or Mastering Code (engraved/stamped): 01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 453G
+
+	Barcode: 8 809083 649715
+	Comments:
+
+[T:ISN] BCAS20235
+[T:VOL] SORCERY
+PlayStation Move Required
+Traditional Chinese only.
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 30 34 30 35 31 38 35  36 30 34 30 30 00 30 30   2040518560400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 4bd0164989b8ce5ebc0a355662f5e780
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+110101000000000000418B7F00100000
+00418B7E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 6649806848
+	CRC32: 2457addc
+	MD5: 7fb5eda5de3612aecb9e853369ac28c4
+	SHA1: 259fea35f1bc861112cd51afaa9f218b7721dec6
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
