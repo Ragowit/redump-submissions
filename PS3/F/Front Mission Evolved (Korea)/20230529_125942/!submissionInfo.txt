@@ -1,0 +1,65 @@
+Common Disc Info:
+	Title: Front Mission Evolved
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 102023
+	Region: Korea (Republic of Korea)
+	Languages: English, French, German, Italian, Spanish
+	Disc Serial: BCKS 10128
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BCAS-20137	1
+Data Side Mastering SID Code: IFPI L280
+Data Side Toolstamp or Mastering Code (engraved/stamped): 01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 453M
+
+	Barcode: 8 809083 647629
+	Comments: [T:ISN] BLUS30395
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 37 32 37 30 30 35  31 34 30 30 30 00 30 30   0072700514000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 1ecd5c5e429f31a2fc3e7eb68eee6fbc
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000005D6D7F00100000
+005D6D7E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 10392174592
+	CRC32: 10eeaa89
+	MD5: 200d346c9693c828890e7b123d164671
+	SHA1: 6ddcbb9cdd2bb11a2da42b67a731ad8057397d9a
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
