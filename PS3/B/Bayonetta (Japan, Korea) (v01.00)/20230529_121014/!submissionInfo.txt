@@ -1,0 +1,73 @@
+Common Disc Info:
+	Title: Bayonetta
+	Foreign Title (Non-latin): ベヨネッタ
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 81313
+	Region: Japan, Korea
+	Languages: English, French, German, Italian, Japanese, Spanish
+	Disc Serial: BCKS 10100
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BLJM-60174	2
+Data Side Mastering SID Code: IFPI L279
+Data Side Toolstamp or Mastering Code (engraved/stamped): 04
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 453K
+
+	Barcode: 8 809083 646790
+	Comments:
+
+[T:ISN] BLJM60174
+[T:SID] 681-10205 (Disc), 681-10206 (Manual), 681-10207 (Cover), 681-10208 (Enquete), 681-10209 (Advert)
+<b>Korean Title</b>: 베요네타
+Voice: English
+Language selection via console's System Language or Options menu.
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 30 39 32 30 30 31 31  38 30 32 30 30 00 30 30   9092001180200.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: (REQUIRED)
+	Disc ID: (REQUIRED)
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000068D9FF00100000
+0068D9FE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 11925454848
+	CRC32: f5cb34d9
+	MD5: 0767e8d3f205f5900f854bf0270d3b27
+	SHA1: 77956a6a3a282f043286e2df0693cb8c079a2aa3
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
