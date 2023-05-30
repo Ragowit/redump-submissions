@@ -1,0 +1,71 @@
+Common Disc Info:
+	Title: Fracture
+	Foreign Title (Non-latin): 프랙쳐
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 101555
+	Region: Korea (Republic of Korea)
+	Languages: English, French, German, Italian, Japanese, Korean, Spanish
+	Disc Serial: BLKS 20025
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BLKS-20025	1
+Data Side Mastering SID Code: IFPI L280
+Data Side Toolstamp or Mastering Code (engraved/stamped): 03
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 4536
+
+	Barcode: 8 809202 846209
+	Comments:
+
+[T:ISN] BLKS20025
+[T:VOL] FRACTURE
+Voices: English
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 38 31 39 31 33 30  30 30 30 30 30 00 30 30   8081913000000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 0dbddb903698dabf9e7cfd315bde96c9
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000032A1DF00100000
+0032A1DE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 4648271872
+	CRC32: 4f3b0424
+	MD5: 6efd5c82c81449732b1e3e257c28d7c1
+	SHA1: 34a17aeb817bc19acf3a87d483b1a7ad5dad17af
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
