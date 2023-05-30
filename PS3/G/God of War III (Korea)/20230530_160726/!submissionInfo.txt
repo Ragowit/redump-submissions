@@ -1,0 +1,68 @@
+Common Disc Info:
+	Title: God of War III
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-50
+	Category: Games
+	Fully Matching ID: 101306
+	Region: Korea (Republic of Korea)
+	Languages: Korean
+	Disc Serial: BCKS 15003
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): BCKS-15003 L0	1
+Layer 0 (Outer) Mastering SID Code: IFPI L280
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Inner) Mastering Code (laser branded/etched): BCKS-15003 L1	1
+Layer 1 (Inner) Mastering SID Code: IFPI L279
+Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 02
+Label Side Mould SID Code: 453T
+
+	Barcode: 8 809083 647148
+	Comments: [T:ISN] BCKS15003
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 32 32 33 30 31 32  37 34 33 30 30 00 30 30   0022301274300.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 042068f71c4f3933b16bee3d2fefb59a
+	Disc ID: 00000000000000ff0002000000000000
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+210103000000000001934B3F00100000
+00CA73FE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+210103000000000001934B3F01358C00
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 37607833600
+	CRC32: 375e39b0
+	MD5: 4d0e20a9dcaf171f831d7aff23c5fd8e
+	SHA1: 1376d57797da2ae98dae18bc20ce472072010da4
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO, 00, BDO
