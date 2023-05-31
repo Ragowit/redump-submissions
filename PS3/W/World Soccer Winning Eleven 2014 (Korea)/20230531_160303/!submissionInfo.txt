@@ -1,0 +1,70 @@
+Common Disc Info:
+	Title: World Soccer Winning Eleven 2014
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 101570
+	Region: Korea (Republic of Korea)
+	Languages: Korean
+	Disc Serial: BLKS 20438
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BLKS-20438	1
+Data Side Mastering SID Code: IFPI L279
+Data Side Toolstamp or Mastering Code (engraved/stamped): 01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 453T
+
+	Barcode: 4 988602 166040
+	Comments:
+
+[T:ISN] BLKS20438
+[T:KIN] VT070-K1
+Commentary Voice: English
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.03
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 38 32 32 32 32 32  32 30 30 30 30 00 30 30   3082222220000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 16d4d7bf642211fe0583d9270fd82a25
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000044017F00100000
+0044017E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 6980108288
+	CRC32: 932c6cfd
+	MD5: 78bc552efe3627662486ef1eb8f2dfa1
+	SHA1: 18204aba947d1e09766cd79d64a4c92ea0fdfe92
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
