@@ -1,0 +1,72 @@
+Common Disc Info:
+	Title: Space Hulk
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 101565
+	Region: Korea (Republic of Korea)
+	Languages: Chinese, English, Japanese, Korean
+	Disc Serial: BLKS 20514
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BLKS-20514	1
+Data Side Mastering SID Code: IFPI L279
+Data Side Toolstamp or Mastering Code (engraved/stamped): 01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 
+
+	Barcode: 8 809244 480485
+	Comments:
+
+[T:ISN] BLKS20514
+[T:VOL] BLKS-20514
+Traditional Chinese only.
+Voices: English
+Unreadable digit after "453" mould SID, omitted from the ringcode field as it's incomplete.
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 36 30 33 31 35 31 35 32  35 34 30 30 30 00 30 30   6031515254000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 82a7d14d9bad1f6c50381a280b72482e
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000019197F00100000
+0019197E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 1221328896
+	CRC32: 96106157
+	MD5: 52ecf1d65f9f76c77691c19f1c34cf2a
+	SHA1: 9968d1447a0ddb11fd7e25c37dda2330808c3577
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
