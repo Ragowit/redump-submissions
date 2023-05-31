@@ -1,0 +1,70 @@
+Common Disc Info:
+	Title: Jeoldae Yogyeok Wars: Metropolis Defenders
+	Foreign Title (Non-latin): 절대요격 Wars: Metropolis Defenders
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 101557
+	Region: Korea (Republic of Korea)
+	Languages: Korean
+	Disc Serial: BLKS 20512
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BLKS-20512	1
+Data Side Mastering SID Code: IFPI L279
+Data Side Toolstamp or Mastering Code (engraved/stamped): 01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 453T
+
+	Barcode: 8 809244 481710
+	Comments:
+
+[T:ISN] BLKS20512
+Voices: Japanese
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 35 30 38 32 38 30 32 30  30 30 30 30 30 00 30 30   5082802000000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 69b1990f45da8958dc2f0b1aa8c49af1
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000018299F00100000
+0018299E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 1095565312
+	CRC32: efd2cc19
+	MD5: d764a35bc09bfc706801f77770de475e
+	SHA1: 4b220d919675aeb5784ec3f2fc4483d7770447ce
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
