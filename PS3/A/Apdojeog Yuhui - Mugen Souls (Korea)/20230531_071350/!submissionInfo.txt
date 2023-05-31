@@ -1,0 +1,71 @@
+Common Disc Info:
+	Title: Apdojeog Yuhui: Mugen Souls
+	Foreign Title (Non-latin): 압도적유희 무겐소울즈
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 101548
+	Region: Korea (Republic of Korea)
+	Languages: Korean
+	Disc Serial: BLKS 20385
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BLKS-20385	2
+Data Side Mastering SID Code: IFPI L279
+Data Side Toolstamp or Mastering Code (engraved/stamped): 01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 453J
+
+	Barcode: 8 809131 961257
+	Comments:
+
+[T:ISN] BLKS20385
+[T:VOL] MUGENSOULS
+Voices: Japanese
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 30 38 30 36 30 31 32  38 30 38 30 30 00 30 30   2080601280800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 897944090df74769da2619e213740566
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+110101000000000000303C9F00100000
+00303C9E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 4326752256
+	CRC32: 6895605b
+	MD5: a201933b8b5e1a91bcdf8f05084fb610
+	SHA1: 28010683d63ef090d93c72fdd6b1e0ece2f5bb8f
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230413
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
