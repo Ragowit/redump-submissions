@@ -1,0 +1,63 @@
+Common Disc Info:
+	Title: R.B.I. Baseball 2016
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 4
+	Media Type: BD-ROM-25
+	Category: Games
+	Region: USA
+	Languages: 
+	Disc Serial: CUSA-03618
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): B4SS-028230A1	1
+Data Side Mastering SID Code: IFPI L325
+Data Side Toolstamp or Mastering Code (engraved/stamped): A02
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI QWYB
+
+	Barcode: 8 65790 00016 2
+	Comments: [T:ISN] CUSA03618
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 36 30 32 31 39 31 37 31  33 35 36 30 30 00 30 30   6021917135600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+110101000100000000CA721F00100000
+00CA721E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 25024331776
+	CRC32: e3fbd136
+	MD5: f6ef04e8036291452529de751a69404f
+	SHA1: 54ed322f089eca5c25c54e0f6f09cfa49df4d8fb
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
