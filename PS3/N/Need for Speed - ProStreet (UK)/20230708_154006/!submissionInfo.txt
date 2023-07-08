@@ -1,0 +1,65 @@
+Common Disc Info:
+	Title: Need for Speed: ProStreet
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 28996
+	Region: UK
+	Languages: English
+	Disc Serial: BLES-00175
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0100878664-A511	1000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 2A10
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94F3
+
+	Barcode: 5 030930 059361
+	Comments: [T:ISN] BLES00175
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 37 31 30 31 33 30 36 34  33 34 38 30 30 00 30 30   7101306434800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 0cdfb70e2b0fda458853c8986bba3631
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000003E59DF00100000
+003E59DE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 6221135872
+	CRC32: cb47cc42
+	MD5: 5c9115abd52f181d63fbce634258ef41
+	SHA1: 5314c2fad737e65005f6cd3cbb54cb71d410ca9e
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
