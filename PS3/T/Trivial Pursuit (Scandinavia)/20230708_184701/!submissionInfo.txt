@@ -1,0 +1,69 @@
+Common Disc Info:
+	Title: Trivial Pursuit
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Region: Scandinavia
+	Languages: Danish, Finnish, Norwegian, Swedish
+	Disc Serial: BLES-00535
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101311892-A511	2000
+Data Side Mastering SID Code: IFPI LY23
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 941I
+
+	Barcode: 5 030938 069416
+	Comments:
+
+[T:ISN] BLES00535
+[T:VOL] TRIVIALPURSUIT
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 30 36 32 33 31 33 34  39 34 36 30 30 00 30 30   9062313494600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 0a996c0e4ed17d7abc29d2da1eeb1621
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000001A4CDF00100000
+001A4CDE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 1382481920
+	CRC32: 31b3f95f
+	MD5: a4230d78c0dfa970893dd75918e50354
+	SHA1: 38bd1a8238ba8d0bd35c80e471d9490a4ba0f472
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
