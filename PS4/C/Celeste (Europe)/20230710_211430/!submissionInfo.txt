@@ -1,0 +1,63 @@
+Common Disc Info:
+	Title: Celeste
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 4
+	Media Type: BD-ROM-25
+	Category: Games
+	Region: Europe
+	Languages: 
+	Disc Serial: CUSA-11235
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0103432482-A511 2000
+Data Side Mastering SID Code: IFPI LY26
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 945L
+
+	Barcode: 5 056635 602046
+	Comments: [T:ISN] CUSA11235
+	Contents: 
+
+Version and Editions:
+	Version: 02.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 33 30 33 30 37 32 33 30  31 30 36 30 30 00 30 30   3030723010600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+110101000100000000CA721F00100000
+00CA721E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 25024331776
+	CRC32: 1c1143be
+	MD5: 60c43f762eb41f54cae0b2242708434f
+	SHA1: 9495cb95c4b1b80f58b7e261303b453da2a874ae
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
