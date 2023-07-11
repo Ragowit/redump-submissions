@@ -1,0 +1,66 @@
+Common Disc Info:
+	Title: Star Ocean: The Divine Force
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 5
+	Media Type: BD-ROM-66
+	Category: Games
+	Region: Europe
+	Languages: 
+	Disc Serial: PPSA-06251
+
+	Ringcode Information:
+
+Layer 0 (Inner) Mastering Code (laser branded/etched): PPSA-06251/01.00	A0103402047-B911 2000
+Layer 0 (Inner) Mastering SID Code: IFPI LY25
+Layer 0 (Inner) Toolstamp or Mastering Code (engraved/stamped): 2A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Outer) Mastering Code (laser branded/etched): PPSA-06251/01.00	A0103402047-A911 2000
+Layer 1 (Outer) Mastering SID Code: IFPI LY27
+Layer 1 (Outer) Toolstamp or Mastering Code (engraved/stamped): 2A00
+Label Side Mould SID Code: IFPI 948M
+
+	Barcode: 5 021290 094338
+	Comments: [T:ISN] PPSA06251
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 30 31 32 30 34 30 38 30  32 30 38 30 30 00 30 30   0120408020800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042445532
+29050300010000000365631F00100000
+01089BFE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042445532
+29050300010000000365631F02F76400
+03EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 48131276800
+	CRC32: 3722fa0f
+	MD5: ebc98fd0f11dda99e152cffff7425b99
+	SHA1: c28266a309150fc8b1a49bdbe56ece9664cf0b1f
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDU
