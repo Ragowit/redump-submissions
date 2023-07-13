@@ -1,0 +1,66 @@
+Common Disc Info:
+	Title: The Rumble Fish 2
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 5
+	Media Type: BD-ROM-66
+	Category: Games
+	Region: USA
+	Languages: 
+	Disc Serial: PPSA-09140
+
+	Ringcode Information:
+
+Layer 0 (Inner) Mastering Code (laser branded/etched): P5DL 021610	A0103423843-B911 5000
+Layer 0 (Inner) Mastering SID Code: IFPI LY27
+Layer 0 (Inner) Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Outer) Mastering Code (laser branded/etched): P5DL 021610	A0103423843-A911 1000
+Layer 1 (Outer) Mastering SID Code: IFPI LY24
+Layer 1 (Outer) Toolstamp or Mastering Code (engraved/stamped): 2A00
+Label Side Mould SID Code: IFPI 948K
+
+	Barcode: 8 10105 67350 0
+	Comments: [T:ISN] PPSA09140
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 32 30 38 31 34 31 35 35  31 33 39 37 38 00 30 30   2081415513978.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042445532
+29050300010000000328DDDF00100000
+01089BFE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042445532
+29050300010000000328DDDF02F76400
+03EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 40008351744
+	CRC32: 8a979341
+	MD5: d644e36e8a37eccf8a2c8b4c4e03c399
+	SHA1: 06844ee44f983786bc49216db4205da62245ce4e
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDU
