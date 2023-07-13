@@ -1,0 +1,63 @@
+Common Disc Info:
+	Title: Undead Darlings: No Cure for Love
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 4
+	Media Type: BD-ROM-25
+	Category: Games
+	Region: USA
+	Languages: 
+	Disc Serial: CUSA-19573
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): B4SS 145090	A0103409368-A511 1000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 944M
+
+	Barcode: 8 10105 67190 2
+	Comments: [T:ISN] CUSA19573
+	Contents: 
+
+Version and Editions:
+	Version: 02.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 32 30 34 32 32 31 34 34  36 32 30 30 30 00 30 30   2042214462000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010001000000004A36BF00100000
+004A36BE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 7813332992
+	CRC32: 2bb7a27b
+	MD5: 6f795110e6c1616cdd82b01ea4021d70
+	SHA1: 934aeb27982dd450114a0792b45b5af105d1ff2a
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
