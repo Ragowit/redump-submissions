@@ -1,0 +1,63 @@
+Common Disc Info:
+	Title: Dungreed
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 4
+	Media Type: BD-ROM-25
+	Category: Games
+	Region: USA
+	Languages: 
+	Disc Serial: CUSA-14985
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): B4SS-087120A1	3
+Data Side Mastering SID Code: IFPI L322
+Data Side Toolstamp or Mastering Code (engraved/stamped): A01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI QWZR
+
+	Barcode: 8 52961 00828 7
+	Comments: [T:ISN] CUSA14985
+	Contents: 
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 30 30 36 30 32 31 30 33  32 33 30 30 30 00 30 30   0060210323000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010001000000001C2B7F00100000
+001C2B7E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 1633419264
+	CRC32: c09819f2
+	MD5: 0db7ca6d0f62f3f239711921c40776ea
+	SHA1: 247da2243a43ed7b4a9293a7e70e9776d701e3a9
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
