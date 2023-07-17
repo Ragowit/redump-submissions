@@ -1,0 +1,66 @@
+Common Disc Info:
+	Title: The Binding of Isaac: Repentance
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 5
+	Media Type: BD-ROM-66
+	Category: Games
+	Region: USA
+	Languages: 
+	Disc Serial: PPSA-03311
+
+	Ringcode Information:
+
+Layer 0 (Inner) Mastering Code (laser branded/etched): P5DL-004310B1	1
+Layer 0 (Inner) Mastering SID Code: IFPI L322
+Layer 0 (Inner) Toolstamp or Mastering Code (engraved/stamped): A03
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Outer) Mastering Code (laser branded/etched): P5DL-004310A1	1
+Layer 1 (Outer) Mastering SID Code: IFPI L323
+Layer 1 (Outer) Toolstamp or Mastering Code (engraved/stamped): A02
+Label Side Mould SID Code: IFPI QWYY
+
+	Barcode: 8 52961 00853 9
+	Comments: [T:ISN] PPSA03311
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 31 30 38 32 37 31 38 30  36 31 38 32 33 00 30 30   1082718061823.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042445532
+29050300010000000328DDDF00100000
+01089BFE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042445532
+29050300010000000328DDDF02F76400
+03EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 40008351744
+	CRC32: 5c78d66f
+	MD5: 493fa9de59a369e58e516beb17995ead
+	SHA1: 45ef33295c778a45b3436cf3786963e0b9a7352d
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDU
