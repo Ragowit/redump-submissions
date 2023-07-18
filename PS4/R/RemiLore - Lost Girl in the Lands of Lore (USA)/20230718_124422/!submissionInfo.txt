@@ -1,0 +1,63 @@
+Common Disc Info:
+	Title: RemiLore: Lost Girl in the Lands of Lore
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 4
+	Media Type: BD-ROM-25
+	Category: Games
+	Region: USA
+	Languages: 
+	Disc Serial: CUSA-12895
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): B4SS-072900A1	1
+Data Side Mastering SID Code: IFPI L322
+Data Side Toolstamp or Mastering Code (engraved/stamped): A01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI QWY7
+
+	Barcode: 8 52961 00806 5
+	Comments: [T:ISN] CUSA12895
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 38 31 31 32 36 30 39 35  30 34 34 30 30 00 30 30   8112609504400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010001000000001BB77F00100000
+001BB77E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 1572601856
+	CRC32: 473cbfd4
+	MD5: d7843cad3fc3c64a177a47dcf96d8c72
+	SHA1: bb2429c828bd5b68423356b4041b50768a55651f
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
