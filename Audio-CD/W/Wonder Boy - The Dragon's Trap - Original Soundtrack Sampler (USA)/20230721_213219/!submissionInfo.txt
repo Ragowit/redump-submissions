@@ -1,0 +1,126 @@
+Common Disc Info:
+	Title: Wonder Boy: The Dragon's Trap: Original Soundtrack Sampler
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Audio CD
+	Media Type: CD-ROM
+	Category: Bonus Discs
+	Fully Matching ID: 67341
+	Region: USA
+	Languages: 
+	Disc Serial: 
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): 001-19288-1 Wonder Boy	2D42100007
+Data Side Mastering SID Code: IFPI LT029
+Data Side Toolstamp or Mastering Code (engraved/stamped): 
+Data Side Mould SID Code: IFPI TBE15
+Data Side Additional Mould: 
+Label Side Mould SID Code: 
+
+	Barcode: 
+	Error Count: 0
+	Comments:
+
+<b>Universal Hash (SHA-1)</b>: 9cf3f96b047dcb6609e0b61fe642c3534c60ef60
+<b>Ring non-zero data start</b>: +0
+Comes with the Physical release version of the game "Wonder Boy: The Dragon's Trap" for PS4 and NSW, released by Nicalis.
+
+	Contents: 
+
+Version and Editions:
+	Version: 
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD): Disc has no PVD
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="Audio CD (Track 01).bin" size="11021472" crc="4c4f1a94" md5="427251c77d0993df448c9179688a27fb" sha1="033cdef37e265c279836c7b75e794353b8601fbf" />
+<rom name="Audio CD (Track 02).bin" size="4172448" crc="b3f6ae82" md5="2992689a3f0981e63867a79807ca83cc" sha1="4fdac3ba00bad5505811060472c4e87aabc5ac6e" />
+<rom name="Audio CD (Track 03).bin" size="13893264" crc="efae8f05" md5="717ef331126d0c5cc15a144066ed9edb" sha1="4fc3aaaeaf4d8347e0eaeee472ca25f53f8360fe" />
+<rom name="Audio CD (Track 04).bin" size="7691040" crc="18a1fed2" md5="7eb113b1803ff34668fd3224a1495595" sha1="d116b93118f43b084fad5b305ea55d9734a64a5f" />
+<rom name="Audio CD (Track 05).bin" size="17214288" crc="ff04c51a" md5="296a93e7c45ebf9416b77db4ec1d49c8" sha1="f6b2097791f2e62c689880e1e4a9039b04517a02" />
+<rom name="Audio CD (Track 06).bin" size="27240864" crc="fcec502c" md5="54ba2834449ac7cb9ea651622d3a8381" sha1="cd1480a810c05ca9bfaf78628cd127dfb6464cef" />
+<rom name="Audio CD (Track 07).bin" size="13806240" crc="119835cc" md5="bf1b11d70451167937206d50d51690ce" sha1="e521f5d528772130ef9b7bd99fb16a7e5a5e8723" />
+<rom name="Audio CD (Track 08).bin" size="28080528" crc="966c8dc5" md5="757a03401d0cfcd98e324319f3787345" sha1="59ffb7be6240c4f914313ce410e6283944000b06" />
+<rom name="Audio CD (Track 09).bin" size="23428272" crc="11169dcb" md5="f6bc2d5026dccc53edb8179aee7c6a68" sha1="76d105ca24f079489d435d628aea2e5b369b0e31" />
+<rom name="Audio CD (Track 10).bin" size="9085776" crc="7b2a5cb8" md5="ed0f15ca251c709b7b0e1abede988ccb" sha1="4c0db862ce95529558b2f7027b104df247bd9376" />
+<rom name="Audio CD (Track 11).bin" size="15205680" crc="8c4b133f" md5="59d820f5e0fff081d8b90e8dfd4ccf70" sha1="715f57e6a8d08b86b5a5b0d16872937df4228fe6" />
+<rom name="Audio CD (Track 12).bin" size="24084480" crc="ccd2e244" md5="620847130cbefd1b1c38ae8876c48c0c" sha1="a503ad1c0dec7cdaca4ccedc557064f408e976c8" />
+
+	Cuesheet:
+
+TITLE "Wonder Boy: The Dragon's Trap Original Soundtrack Sampler"
+PERFORMER "Shinichi Sakamoto (Re-imagined by: Michael Geyre)"
+FILE "Audio CD (Track 01).bin" BINARY
+  TRACK 01 AUDIO
+    TITLE "The Last Dungeon"
+    PERFORMER "Shinichi Sakamoto (Re-imagined by: Michael Geyre)"
+    INDEX 01 00:00:00
+FILE "Audio CD (Track 02).bin" BINARY
+  TRACK 02 AUDIO
+    TITLE "And now"
+    PERFORMER "Shinichi Sakamoto (Re-imagined by: Michael Geyre)"
+    INDEX 01 00:00:00
+FILE "Audio CD (Track 03).bin" BINARY
+  TRACK 03 AUDIO
+    TITLE "Monster-Town"
+    PERFORMER "Shinichi Sakamoto (Re-imagined by: Michael Geyre)"
+    INDEX 01 00:00:00
+FILE "Audio CD (Track 04).bin" BINARY
+  TRACK 04 AUDIO
+    TITLE "It's a Treasure Box"
+    PERFORMER "Shinichi Sakamoto (Re-imagined by: Michael Geyre)"
+    INDEX 01 00:00:00
+FILE "Audio CD (Track 05).bin" BINARY
+  TRACK 05 AUDIO
+    TITLE "Mind of Hero - Beach"
+    PERFORMER "Shinichi Sakamoto (Re-imagined by: Michael Geyre)"
+    INDEX 01 00:00:00
+FILE "Audio CD (Track 06).bin" BINARY
+  TRACK 06 AUDIO
+    TITLE "Desert Zone"
+    PERFORMER "Shinichi Sakamoto (Re-imagined by: Michael Geyre)"
+    INDEX 01 00:00:00
+FILE "Audio CD (Track 07).bin" BINARY
+  TRACK 07 AUDIO
+    TITLE "The Monster's Lair - Pyramid"
+    PERFORMER "Shinichi Sakamoto (Re-imagined by: Michael Geyre)"
+    INDEX 01 00:00:00
+FILE "Audio CD (Track 08).bin" BINARY
+  TRACK 08 AUDIO
+    TITLE "Adventure Zone"
+    PERFORMER "Shinichi Sakamoto (Re-imagined by: Michael Geyre)"
+    INDEX 01 00:00:00
+FILE "Audio CD (Track 09).bin" BINARY
+  TRACK 09 AUDIO
+    TITLE "The Monster's Lair - Tower"
+    PERFORMER "Shinichi Sakamoto (Re-imagined by: Michael Geyre)"
+    INDEX 01 00:00:00
+FILE "Audio CD (Track 10).bin" BINARY
+  TRACK 10 AUDIO
+    TITLE "Vs. Dragon Zombie"
+    PERFORMER "Shinichi Sakamoto (Re-imagined by: Michael Geyre)"
+    INDEX 01 00:00:00
+FILE "Audio CD (Track 11).bin" BINARY
+  TRACK 11 AUDIO
+    TITLE "Endless War"
+    PERFORMER "Shinichi Sakamoto (Re-imagined by: Michael Geyre)"
+    INDEX 01 00:00:00
+FILE "Audio CD (Track 12).bin" BINARY
+  TRACK 12 AUDIO
+    TITLE "The Dragon's Trap - Staff Roll"
+    PERFORMER "Shinichi Sakamoto (Re-imagined by: Michael Geyre)"
+    INDEX 01 00:00:00
+
+	Write Offset: 0
+
+Dumping Info:
+	Dumping Program: redumper v2023.07.09 build_183
+	Manufacturer: PLEXTOR
+	Model: DVDR PX-712A
+	Firmware: 1.09 (03/31/06 10:00)
