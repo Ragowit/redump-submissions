@@ -1,0 +1,63 @@
+Common Disc Info:
+	Title: Wonder Boy: The Dragon's Trap
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 4
+	Media Type: BD-ROM-25
+	Category: Games
+	Region: USA
+	Languages: 
+	Disc Serial: CUSA-10655
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): B4SS-062040A1	3
+Data Side Mastering SID Code: IFPI L325
+Data Side Toolstamp or Mastering Code (engraved/stamped): A01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI QWXN
+
+	Barcode: 8 67528 00039 0
+	Comments: [T:ISN] CUSA10655
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 37 31 31 32 37 31 37 33  30 30 35 30 30 00 30 30   7112717300500.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+110101000100000000CA721F00100000
+00CA721E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 25024331776
+	CRC32: 23f807e2
+	MD5: 01086c7059dfed68e07afab73af094b5
+	SHA1: 01891032ccf9f8562499e80041b853696901ff28
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
