@@ -1,0 +1,72 @@
+Common Disc Info:
+	Title: Gran Turismo 5
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 28087
+	Region: Europe
+	Languages: Dutch, English, French, German, Greek, Italian, Japanese, Polish, Portuguese, Russian, Spanish, Turkish
+	Disc Serial: BCES-00569/A
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102002484-A511	2000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94G1
+
+	Barcode: 7 11719 26483 5
+	Comments:
+
+[T:ISN] BCES00569
+[T:VOL] GRANTURSIMO
+<b>Additional Disc ID:</b> 00000000000000ff0002000aXXXXXXXX
+Turkish, Greek Language are only available via Game Options and the first start of the Game.
+The other Languages are only available via console System Menu.
+
+	Contents: 
+
+Version and Editions:
+	Version: 04.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 30 35 32 34 31 33 35  32 31 30 30 30 00 30 30   2052413521000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 07ae3df769dc4ab6e59f5431280b752d
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000009648DF00100000
+009648DE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 18023383040
+	CRC32: 3797af52
+	MD5: c1a10f16bdf5d153f3ef3a8cecfe14e6
+	SHA1: 5207bd579ae5bed4249ec5629f07ff444ff5ed5f
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
