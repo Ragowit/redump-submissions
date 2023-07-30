@@ -1,0 +1,65 @@
+Common Disc Info:
+	Title: Madden NFL 09
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 31891
+	Region: Europe
+	Languages: English
+	Disc Serial: BLES-00285
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0100969782-A511	3000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 949J
+
+	Barcode: 5 030930 065997
+	Comments: [T:ISN] BLES00285
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 36 31 37 32 31 35  32 33 36 30 30 00 30 30   8061721523600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: d5ba7a328410aa5fedad5791193949c7
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000045963F00100000
+0045963E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 7192313856
+	CRC32: be906153
+	MD5: 2c61adcbc8972602ab71dfda7f7126e8
+	SHA1: bc72ae3e3a228d30e84f1bc1aa139a5321a91a4e
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
