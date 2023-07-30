@@ -1,0 +1,74 @@
+Common Disc Info:
+	Title: Heavy Rain: Move Edition
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-50
+	Category: Games
+	Fully Matching ID: 77748
+	Region: Europe
+	Languages: Danish, English, Finnish, Norwegian, Polish, Russian, Swedish
+	Disc Serial: BCES-00802/E
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): A0101650358-A911	10000
+Layer 0 (Outer) Mastering SID Code: IFPI LY24
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 3A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Inner) Mastering Code (laser branded/etched): A0101650358-B911	6000
+Layer 1 (Inner) Mastering SID Code: IFPI LY24
+Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 2A00
+Label Side Mould SID Code: IFPI 945M
+
+	Barcode: 7 11719 22884 4
+	Comments:
+
+[T:ISN] BCES00802
+Russian title: Heavy Rain Для Move
+VO, Subtitles and Menu language selection via Language Selector
+Voices: English, Polish, Russian
+
+	Contents: 
+
+Version and Editions:
+	Version: 02.00
+	Edition/Release: Essentials
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 37 30 39 31 34 32  30 34 33 30 30 00 30 30   0070914204300.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 51dd6435a56627f66a8e9d861a47b1bd
+	Disc ID: 00000000000000ff0002000000000000
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+2101030000000000015ADCDF00100000
+00CA73FE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+2101030000000000015ADCDF01358C00
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 30033772544
+	CRC32: d655f16e
+	MD5: 84f86a48a3100ca86d039612ecacebc6
+	SHA1: 011466e16afe82adf70e5f2443ff48e6214c3e3b
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
