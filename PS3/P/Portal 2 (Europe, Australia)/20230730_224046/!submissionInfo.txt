@@ -1,0 +1,72 @@
+Common Disc Info:
+	Title: Portal 2
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 31536
+	Region: Europe, Australia
+	Languages: Chinese, Danish, Dutch, English, Finnish, French, German, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Russian, Spanish, Swedish
+	Disc Serial: BLES-01222
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101757988-A511	6000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 3A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 946J
+
+	Barcode: 5 030930 102081 >
+	Comments:
+
+[T:ISN] BLES01222
+[T:VID] VAX03808210D (BLES-01222), VAX03808210D/ANZ (BLES-01222/ANZ)
+Additional language: Simplified Chinese
+Voices: English, French, German, Russian, Spanish
+<b>Additional Disc ID:</b> 00000000000000FF00020006XXXXXXXX
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 33 31 36 31 38 30  34 30 30 30 30 00 30 30   1031618040000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 831b1e22d004cdda46ca3f9479350d79
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000003DA97F00100000
+003DA97E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 6128664576
+	CRC32: fbc620f5
+	MD5: 31a0006eb6494adb55664eef7a6c587a
+	SHA1: 9d925b2ff00e4f41b732aa67458ecb22dc1df464
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
