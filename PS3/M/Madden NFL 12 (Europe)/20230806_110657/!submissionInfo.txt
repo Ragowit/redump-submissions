@@ -1,0 +1,65 @@
+Common Disc Info:
+	Title: Madden NFL 12
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 54428
+	Region: Europe
+	Languages: English
+	Disc Serial: BLES-01320
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101826241-A511	1000
+Data Side Mastering SID Code: IFPI LY27
+Data Side Toolstamp or Mastering Code (engraved/stamped): 3A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 942L
+
+	Barcode: 5 030930 102890 >
+	Comments: [T:ISN] BLES01320
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 37 32 35 32 31 32  35 30 39 30 30 00 30 30   1072521250900.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: fd2882a99fff46ad998838ef9e054390
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000038F2FF00100000
+0038F2FE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 5496111104
+	CRC32: dfc6a47d
+	MD5: 9397585ce356cad1529655ce219581b4
+	SHA1: fdf1b77be5366a555169bccd0a3f4ff2848d7002
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
