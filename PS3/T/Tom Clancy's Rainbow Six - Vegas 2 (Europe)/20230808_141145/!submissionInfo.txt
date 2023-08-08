@@ -1,0 +1,69 @@
+Common Disc Info:
+	Title: Tom Clancy's Rainbow Six: Vegas 2
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 29669
+	Region: Europe
+	Languages: English, French, German, Italian, Spanish
+	Disc Serial: BLES-00237
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0100921839-A511	1000
+Data Side Mastering SID Code: IFPI LY23
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A03
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94F4
+
+	Barcode: 3 307210 413529
+	Comments:
+
+[T:ISN] BLES00237
+[T:VOL] RAINBOW SIX VEGAS 2
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 32 31 33 30 38 33  39 34 35 30 30 00 30 30   8021308394500.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: d2d5a7f81a6dd57d013833d15aed48e2
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000004E621F00100000
+004E621E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 8372944896
+	CRC32: 00ce3b81
+	MD5: 2005f12761225758f810b24d1077e6e8
+	SHA1: f3639e1131476c46e20bb297a74f080f6ed77bdf
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
