@@ -1,0 +1,70 @@
+Common Disc Info:
+	Title: Assassin's Creed II
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 54429
+	Region: UK
+	Languages: English, Italian
+	Disc Serial: BLES-00670
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101431195-A511	2000
+Data Side Mastering SID Code: IFPI LY26
+Data Side Toolstamp or Mastering Code (engraved/stamped): 4A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 949K
+
+	Barcode: 3 307211 666474
+	Comments:
+
+[T:ISN] BLES00670
+[T:VOL] ACII
+Language selection via Options Menu and System settings
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 31 30 31 37 31 35 32  35 30 31 30 30 00 30 30   9101715250100.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 23a5534f199f763ac459d80aa41b56a7
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000003F2A9F00100000
+003F2A9E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 6330580992
+	CRC32: 60be4917
+	MD5: 830f1c7ea9e2a01cf510d437cb7ed26f
+	SHA1: 7286873191d4497063dc27b677df112fb9dd85df
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
