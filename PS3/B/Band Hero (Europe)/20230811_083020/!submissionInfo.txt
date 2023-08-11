@@ -1,0 +1,65 @@
+Common Disc Info:
+	Title: Band Hero
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 26235
+	Region: Europe
+	Languages: English, French, German, Italian, Spanish
+	Disc Serial: BLES-00711
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101363069-A511	2000
+Data Side Mastering SID Code: IFPI LY25
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A08
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 946L
+
+	Barcode: 
+	Comments: [T:ISN] BLES00711
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Bundled with Band Kit (Guitar Controller, Drum Set & Microphone)
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 30 38 31 38 30 38 33  39 35 30 30 30 00 30 30   9081808395000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 7a7b1f63182483ab920585be4e792cab
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000044675F00100000
+0044675E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 7033520128
+	CRC32: 452ec1b8
+	MD5: 43af92aadf18a2b6ede93ded0743e47f
+	SHA1: 43640952bcb7f7d824f59c9b967aefa8c4379735
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
