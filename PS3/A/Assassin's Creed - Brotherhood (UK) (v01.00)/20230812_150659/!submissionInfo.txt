@@ -1,0 +1,70 @@
+Common Disc Info:
+	Title: Assassin's Creed: Brotherhood
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 58040
+	Region: UK
+	Languages: English, Italian
+	Disc Serial: BLES-00910
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101684007-A511	2000
+Data Side Mastering SID Code: IFPI LY25
+Data Side Toolstamp or Mastering Code (engraved/stamped): 7A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 949K
+
+	Barcode: 3 307217 
+	Comments:
+
+[T:ISN] BLES00910
+[T:VOL] ACBHOOD
+Language selection via Options Menu
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 31 30 31 32 31 32 33  38 30 37 30 30 00 30 30   0101212380700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: e20f9eebb80b419875375bdba14dae28
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000047D39F00100000
+0047D39E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 7492927488
+	CRC32: b69ccb44
+	MD5: 11bd42094c40cda659919a2846d2dd17
+	SHA1: 93c2d0b8b0f1fdc9dca80ca3710f821f7228b41c
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
