@@ -1,0 +1,79 @@
+Common Disc Info:
+	Title: Mass Effect 2
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 29821
+	Region: USA, Asia
+	Languages: English, French, German, Italian, Russian, Spanish
+	Disc Serial: BLUS-30650
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BPSS-110650A1	1
+Data Side Mastering SID Code: IFPI L322
+Data Side Toolstamp or Mastering Code (engraved/stamped): A07
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI QWYT
+
+	Barcode: 0 14633 19504 0
+	Comments:
+
+[T:ISN] BLUS30650
+[T:VOL] MASSEFFECT2
+[T:EAID] 1980603502, 5004641
+Cover ID: BLUS-41000, BLAS 50548A
+Electronic Arts Cover ID: 1980604401
+Language selection via System settings
+Voice: English, French, German, Italian
+<b>Additional Disc ID:</b> 00000000000000FF00020001XXXXXXXX
+
+	Contents:
+
+Digital Manual
+Interactive Back-Story by Dark Horse Comics
+Bonus Missions: Kasumi: Stolen Memories, Overlord, Lair of the Shadow Broker
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 36 32 34 31 39 33  32 30 37 30 30 00 30 30   0062419320700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 2559e21478c8f3a411605b1e5725c287
+	Disc ID: 00000000000000ff00020003XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000007152DF00100000
+007152DE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 13062569984
+	CRC32: 2fa6821f
+	MD5: a26cac4a95a6c6e772ffb54e4195ec8b
+	SHA1: e85f7099e3a02a7a890cc95bdc880827bd103290
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
