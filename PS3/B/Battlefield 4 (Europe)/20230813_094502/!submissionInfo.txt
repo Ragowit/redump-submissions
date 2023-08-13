@@ -1,0 +1,73 @@
+Common Disc Info:
+	Title: Battlefield 4
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 31289
+	Region: Europe
+	Languages: English, French, German, Italian, Polish, Russian, Spanish
+	Disc Serial: BLES-01832
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102213388-A511	3000
+Data Side Mastering SID Code: IFPI LY27
+Data Side Toolstamp or Mastering Code (engraved/stamped): 7A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94G3
+
+	Barcode: 5 030932 111739 >
+	Comments:
+
+[T:ISN] BLES01832
+[T:VOL] BF4
+[T:EAID] 100262803501 (Disc), 101024601601 (Cover), 100263005001 (Manual)
+---
+Language selection via System settings.
+Voices are selectable via Options Menu.
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 31 30 30 35 31 35 35  31 32 36 30 30 00 30 30   3100515512600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 7d2fd982c4f1e04550b787ca7087058d
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000069685F00100000
+0069685E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 12000100352
+	CRC32: 0619bf64
+	MD5: 7b91fd66b56970b4a78daadb713139e4
+	SHA1: 8ab03ee77c196eb46372dd8a4d0a4233fc5dedcd
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
