@@ -1,0 +1,81 @@
+Common Disc Info:
+	Title: DanceStar Party
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 29444
+	Region: Europe, Australia
+	Languages: Danish, Dutch, English, Finnish, French, German, Italian, Norwegian, Polish, Portuguese, Russian, Spanish, Swedish
+	Disc Serial: BCES-01247
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101841739-A511	1000
+Data Side Mastering SID Code: IFPI LY26
+Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 941K
+
+	Barcode: 7 11719 18669 4
+	Comments:
+
+[T:ISN] BCES01247
+[T:VOL] SINGSTAR
+
+	Contents:
+
+PlayStation Move press kit contents:
+PC - <a href="http://redump.org/disc/102851/">PlayStation Move: Media Assets</a>
+PS3 - <a href="http://redump.org/disc/105981/">After Hours Athletes</a>
+PS3 - <a href="http://redump.org/disc/103043/">Carnival Island</a>
+PS3 - <a href="http://redump.org/disc/29444/">DanceStar Party</a>
+PS3 - <a href="http://redump.org/disc/105979/">EyePet & Friends</a>
+PS3 - LittleBigPlanet 2: Move Pack (No disc, disc-shaped paper card with online voucher code)
+PS3 - <a href="http://redump.org/disc/105980/">Medieval Moves</a>
+PS3 - <a href="http://redump.org/disc/103044/">Move Fitness</a>
+PS3 - <a href="http://redump.org/disc/105982/">Move Mind Benders</a>
+PS3 - <a href="http://redump.org/disc/103045/">Start the Party! Save the World</a>
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 38 33 31 31 33 33  33 34 38 30 30 00 30 30   1083113334800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 803a8ec5854f5f430925b97be7526977
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000009D4CFF00100000
+009D4CFE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 18965069824
+	CRC32: ddce0c06
+	MD5: 2eaffbeac80690c57d20c13450475c53
+	SHA1: 490d087d0949113f2bdec3179c019a56a591c1c0
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
