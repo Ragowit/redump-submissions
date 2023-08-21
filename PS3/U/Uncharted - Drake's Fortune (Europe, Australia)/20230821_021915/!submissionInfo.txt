@@ -1,0 +1,74 @@
+Common Disc Info:
+	Title: Uncharted: Drake's Fortune
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 28612
+	Region: Europe, Australia
+	Languages: Danish, Dutch, English, Finnish, French, German, Italian, Norwegian, Portuguese, Spanish, Swedish
+	Disc Serial: BCES-00065/E
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0100881190-A511	27000
+Data Side Mastering SID Code: IFPI LY25
+Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 944L
+
+	Barcode: 7 11719 24514 8
+	Comments:
+
+[T:ISN] BCES00065
+German title: Uncharted: Drakes Schicksal
+Spanish title: Uncharted: El Tesoro de Drake
+Language selection via Options Menu
+Voice (Options Menu): English, French, German, Spanish, Italian, Dutch, Portuguese
+<b>Additional Disc ID:</b> 00000000000000FF00020003XXXXXXXX
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Essentials
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 37 31 30 32 34 30 35 31  39 31 37 30 30 00 30 30   7102405191700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 9253d026918378b3120cbb9f71cd67a9
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+110101000000000000B8A87F00100000
+00B8A87E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 22636920832
+	CRC32: cc9ec754
+	MD5: 51a3e96d1b5ffa8bef104796fef58f3d
+	SHA1: a7cd744629aab3a83931d677bb77b6004dfd6617
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-08-21 02:19:15
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
