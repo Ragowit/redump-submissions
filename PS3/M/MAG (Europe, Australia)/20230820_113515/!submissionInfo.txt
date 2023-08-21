@@ -1,0 +1,71 @@
+Common Disc Info:
+	Title: MAG
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 31528
+	Region: Europe, Australia
+	Languages: Danish, Dutch, English, Finnish, French, German, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Russian, Spanish, Swedish
+	Disc Serial: BCES-00558
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101482503-A511	4000
+Data Side Mastering SID Code: IFPI LY25
+Data Side Toolstamp or Mastering Code (engraved/stamped): 4A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 946K
+
+	Barcode: 7 11719 14715 2
+	Comments:
+
+[T:ISN] BCES00558
+[T:VOL] MAG
+<b>Additional Disc ID:</b> 00000000000000FF00020006XXXXXXXX
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 31 32 31 30 30 32 33  38 31 33 30 30 00 30 30   9121002381300.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 8f1ffbb0984adb604f12c5d4859927d8
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000081833F00100000
+0081833E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 15235416064
+	CRC32: 8e4d6a0f
+	MD5: 213d4bcc59b57cc970f258ccdf2dc835
+	SHA1: e32aa3e7618e255a746a009e391a36945be07bc3
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-08-20 11:35:15
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
