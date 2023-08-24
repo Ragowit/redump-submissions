@@ -1,0 +1,70 @@
+Common Disc Info:
+	Title: FIFA 09
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 6528
+	Region: Europe
+	Languages: Danish, Dutch, English, Norwegian, Swedish
+	Disc Serial: BLES-00314
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0100998125-A511	1000
+Data Side Mastering SID Code: IFPI LY25
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A04
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 948K
+
+	Barcode: 5 030935 071191 >
+	Comments:
+
+[T:ISN] BLES00314
+[T:VOL] FIFA 09
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 39 30 36 30 34 32  32 31 38 30 30 00 30 30   8090604221800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 84c9e8abe150d9915f8edee854e72f15
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000043293F00100000
+0043293E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 6866731008
+	CRC32: 92f42d67
+	MD5: 6acd6d0148558c29b74f65d064c29445
+	SHA1: 2fb3adeef268be11c3a19941ce429535288c4a4c
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-08-24 05:58:28
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
