@@ -1,0 +1,73 @@
+Common Disc Info:
+	Title: Dungeon Siege III
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 30866
+	Region: Europe
+	Languages: English, French, German, Italian, Spanish
+	Disc Serial: BLES-01161/LE
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101790025-A511	1000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 945L
+
+	Barcode: 5 021290 048027 >
+	Comments:
+
+[T:ISN] BLES01161
+[T:VOL] DUNGEON SIEGE III
+Voices: German, English and French.
+
+Case says "Nordic Edition".
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Limited Edition
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 35 30 33 31 37 31  35 34 34 30 30 00 30 30   1050317154400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 69c4c6f377aae1b8e9cacce683f020a7
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000036119F00100000
+0036119E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 5109514240
+	CRC32: 84b15784
+	MD5: 7cb291b359a9109ac72b62134ffe4dda
+	SHA1: 77407bc5b2698a8e846fc1bbaf0dab4a45443965
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-08-25 01:52:10
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
