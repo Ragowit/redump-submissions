@@ -1,0 +1,71 @@
+Common Disc Info:
+	Title: LEGO Marvel Super Heroes
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 36266
+	Region: Europe
+	Languages: Danish, Dutch, English, French, German, Italian, Polish, Russian, Spanish
+	Disc Serial: BLES-01831
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102211639-A511	1000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 948K
+
+	Barcode: 5 051895 239452 >
+	Comments:
+
+[T:ISN] BLES01831
+<b>ID above barcode</b>: 1000395695 / 5000170684
+Voice: English, French, German, Spanish
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 39 32 37 31 38 33  37 34 34 30 30 00 30 30   3092718374400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: c9b6c494b88de22f77957708ef407a74
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000004E751F00100000
+004E751E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 8382906368
+	CRC32: 1c9f1737
+	MD5: b90df6e3e27f290dad2a3a1485e36f4f
+	SHA1: 5ddeca04ca84dc8c3bbe5cd00510a5ad0b584678
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-08-25 07:33:17
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
