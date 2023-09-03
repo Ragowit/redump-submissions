@@ -1,0 +1,72 @@
+Common Disc Info:
+	Title: Grand Theft Auto IV
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 18596
+	Region: Europe
+	Languages: English, French, German, Italian, Spanish
+	Disc Serial: BLES-00229/P
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0100935837-A511	13000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 942K
+
+	Barcode: 5 026555 403009
+	Comments:
+
+[T:ISN] BLES00229
+[T:VOL] GRAND THEFT AUTO IV
+<b>Rockstar Games ID</b>: 5400213/BLU
+Language selection via Options Menu
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.05
+	Edition/Release: Platinum
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 33 33 31 31 31 30  30 30 30 30 30 00 30 30   8033111000000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 9aa0f22a6bf4b468a25644d69ab4a57b
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000064185F00100000
+0064185E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 11287068672
+	CRC32: 016113c2
+	MD5: 1c602c74887b98cfd9fb0ed99c6eac2e
+	SHA1: fe054205f7845693906874934edd288eaeafb3f9
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-09-03 07:59:01
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
