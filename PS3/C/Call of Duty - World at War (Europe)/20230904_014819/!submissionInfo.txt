@@ -1,0 +1,71 @@
+Common Disc Info:
+	Title: Call of Duty: World at War
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 18565
+	Region: Europe
+	Languages: English, French
+	Disc Serial: BLES-00354
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101012176-A511	1000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1D01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94G2
+
+	Barcode: 5 030917 060519
+	Comments:
+
+[T:ISN] BLES00354
+[T:VOL] COD_WAW
+[T:ACT] 83279.101.00 (Disc), 83279.202.SC (Cover)
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 39 32 38 31 35 35  30 30 30 30 30 00 30 30   8092815500000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 7e9dee863f56ee45746e9eb5c0e948db
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000006A393F00100000
+006A393E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 12109611008
+	CRC32: 9ba897b7
+	MD5: 4d108a505ba217c398d5a900afc48075
+	SHA1: 1f4550088ecd0d88673b83c5176088acd1e91885
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-09-04 01:48:19
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
