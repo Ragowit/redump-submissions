@@ -1,0 +1,74 @@
+Common Disc Info:
+	Title: Crysis 3
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 31293
+	Region: Europe
+	Languages: Czech, English, French, German, Italian, Polish, Russian, Spanish, Turkish
+	Disc Serial: BLES-01649#
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102083108-A511	1000
+Data Side Mastering SID Code: IFPI LY27
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94G2
+
+	Barcode: 5 030945 109624 >
+	Comments:
+
+[T:ISN] BLES01649
+[T:VOL] CRYSIS 3 
+[T:EAID] EAX03809962D, EAD03809963IS (Cover)
+---
+Language selection via Language Selector
+Voices: English, German, Spanish, French, Italian, Polish, Russian and Turkish (no Czech).
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 31 31 38 30 32 35  38 34 38 30 30 00 30 30   3011802584800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: c5033950fafe802717c6d2201f8bc6ac
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000055249F00100000
+0055249E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 9280225280
+	CRC32: 655ce082
+	MD5: 083ef327c76d40ce21b83eedaded61dc
+	SHA1: a507f982961e6e308da4d6803ffa4ff6c1dc70d3
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-09-07 02:06:35
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
