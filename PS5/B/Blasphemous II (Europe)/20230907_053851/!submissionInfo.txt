@@ -1,0 +1,67 @@
+Common Disc Info:
+	Title: Blasphemous II
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 5
+	Media Type: BD-ROM-66
+	Category: Games
+	Region: Europe
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: PPSA-13579
+
+	Ringcode Information:
+
+Layer 0 (Inner) Mastering Code (laser branded/etched): PPSA-13579/02.00	A0103448773-B911 3000
+Layer 0 (Inner) Mastering SID Code: IFPI LY26
+Layer 0 (Inner) Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Outer) Mastering Code (laser branded/etched): PPSA-13579/02.00	A0103448773-A911 1000
+Layer 1 (Outer) Mastering SID Code: IFPI LY28
+Layer 1 (Outer) Toolstamp or Mastering Code (engraved/stamped): 2A00
+Label Side Mould SID Code: IFPI 943J
+
+	Barcode: 4 041417 870721
+	Comments: [T:ISN] PPSA13579
+	Contents: 
+
+Version and Editions:
+	Version: 02.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 33 30 36 30 32 31 37 34  33 35 37 30 30 00 30 30   3060217435700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042445532
+29050300010000000328DDDF00100000
+01089BFE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042445532
+29050300010000000328DDDF02F76400
+03EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 40008351744
+	CRC32: dff1ec8d
+	MD5: 315672a90412f9fb75c58be308a80f1d
+	SHA1: e70cd4266d37c1adbe1401d02d4d67935cc8f85b
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-09-07 05:38:51
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDU
