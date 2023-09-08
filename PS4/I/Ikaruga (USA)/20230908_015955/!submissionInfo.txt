@@ -1,0 +1,68 @@
+Common Disc Info:
+	Title: Ikaruga
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 4
+	Media Type: BD-ROM-25
+	Category: Games
+	Region: USA
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: CUSA-16874
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): B4SS 096400	A0103380505-A511 1000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 944M
+
+	Barcode: 8 52961 00824 9
+	Comments:
+
+[T:ISN] CUSA16874
+Nicalis ID: IKARU-PS4-NA-LAD1 (Disc), IKARU-PS4-NA-CSH2 (Case), IKARU-PS4-MNL2 (Manual)
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 39 30 37 31 36 30 36 35  37 33 30 30 30 00 30 30   9071606573000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010001000000001A901F00100000
+001A901E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 1417740288
+	CRC32: 242cebaa
+	MD5: 6c6243a5ecf2847104976f9206bbcb21
+	SHA1: 1ecd80b37d4dbc87583b63868cd35b134572043c
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-09-08 01:59:55
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
