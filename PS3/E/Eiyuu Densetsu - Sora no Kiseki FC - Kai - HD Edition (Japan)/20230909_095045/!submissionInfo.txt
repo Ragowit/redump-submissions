@@ -1,0 +1,71 @@
+Common Disc Info:
+	Title: Eiyuu Densetsu: Sora no Kiseki FC: Kai: HD Edition
+	Foreign Title (Non-latin): 英雄伝説　空の軌跡FC：改　ＨＤ　Ｅｄｉｔｉｏｎ
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 98251
+	Region: Japan
+	Languages: Japanese
+	Disc Serial: BLJM 85004
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BLJM-85004	1
+Data Side Mastering SID Code: IFPI L280
+Data Side Toolstamp or Mastering Code (engraved/stamped): 02
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 453R
+
+	Barcode: 4 956027 125683
+	Comments:
+
+[T:ISN] BLJM85004
+[T:VOL] PSPED6FCKAI
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 31 30 32 39 31 31 30  39 30 30 30 30 00 30 30   2102911090000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 9855fb498041171e0854324d768f2ac7
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000035F21F00100000
+0035F21E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 5092999168
+	CRC32: 90cc8da9
+	MD5: daf38e8aa248d6516d03649d3608ce7b
+	SHA1: d42cb26fb0f4228fa46c99f47ea3b1c4213b8a2d
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-09-09 09:50:45
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
