@@ -1,0 +1,72 @@
+Common Disc Info:
+	Title: Eiyuu Densetsu: Sora no Kiseki SC: Kai: HD Edition
+	Foreign Title (Non-latin): 英雄伝説 空の軌跡SC：改 HD EDITION
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 56218
+	Region: Japan
+	Languages: Japanese
+	Disc Serial: BLJM 85005
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BLJM-85005	1
+Data Side Mastering SID Code: IFPI L279
+Data Side Toolstamp or Mastering Code (engraved/stamped): 01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 453X
+
+	Barcode: 4 956027 125720
+	Comments:
+
+[T:ISN] BLJM85005
+[T:VOL] SORASC_KAI
+Game disc installs full game onto HDD. Disc isn't required afterwards. Disc also includes digital OST, and themes.
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 32 32 30 30 35 30  30 30 30 30 30 00 30 30   3022005000000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: e704c61518d56cddfefd9ab43b6817c7
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000003D7DBF00100000
+003D7DBE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 6105726976
+	CRC32: c8f9266b
+	MD5: 693440ad53b4933aa9ff32e6bf4ee008
+	SHA1: 75da579be61df8b030554420c96417efeac87fcc
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-09-09 11:06:12
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
