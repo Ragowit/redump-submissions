@@ -1,0 +1,73 @@
+Common Disc Info:
+	Title: Buzz! Quiz TV: Special Edition
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 102780
+	Region: Scandinavia
+	Languages: Danish, English, Finnish, Norwegian, Swedish
+	Disc Serial: BCES-00304
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101002407-A511	2000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 943J
+
+	Barcode: 
+	Comments:
+Barcode is probably 7 11719 75895 2 based upon the number at the back of the manual.
+
+[T:ALT] Buzz!: TV Visa Special Edition
+[T:ISN] BCES00304
+[T:VOL] BUZZ_QTV
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Special Edition
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 39 30 38 31 34 34  35 31 31 30 30 00 30 30   8090814451100.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: ac5a6bb824d4ef6cbdaaf704cdc1e009
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000007CC4BF00100000
+007CC4BE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 14598668288
+	CRC32: cea9a1b9
+	MD5: ee077e414aaa06507b1dfaa7cdb8bc96
+	SHA1: 54b4278e77684a3b0f2ded97fbe1b7621135a59c
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-09-17 19:02:32
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
