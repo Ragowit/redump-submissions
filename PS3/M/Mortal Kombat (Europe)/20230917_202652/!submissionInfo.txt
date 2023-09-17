@@ -1,0 +1,72 @@
+Common Disc Info:
+	Title: Mortal Kombat
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 28059
+	Region: Europe
+	Languages: English, French, German, Italian, Portuguese, Spanish
+	Disc Serial: BLES-01132
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101754239-A511	3000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 8A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 945J
+
+	Barcode: 5 051892 024075
+	Comments:
+
+[T:ISN] BLES01132
+<b>Disc ID (Promo)</b>: 2024075
+<b>Warner Bros. ID</b>: (s11)
+<b>ID above barcode</b>: 1000289881 / 5000138420, 1000356189 / 5000150754
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 33 30 39 30 38 34  34 34 33 30 30 00 30 30   1030908444300.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 7c39854ebbfa47568d91e5fec96441e1
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000059517F00100000
+0059517E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 9840623616
+	CRC32: 24b49a53
+	MD5: c04253e060cf75831765b3500a2eac06
+	SHA1: bc803bd3249ed0c6bd1a785d5397a16e5b41e4f7
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-09-17 20:26:52
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
