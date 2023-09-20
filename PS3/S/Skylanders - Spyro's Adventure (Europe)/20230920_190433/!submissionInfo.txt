@@ -1,0 +1,70 @@
+Common Disc Info:
+	Title: Skylanders: Spyro's Adventure
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 31803
+	Region: Europe
+	Languages: Danish, Dutch, English, Finnish, French, German, Italian, Norwegian, Spanish, Swedish
+	Disc Serial: BLES-01272
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101843897-A511	1000
+Data Side Mastering SID Code: IFPI LY25
+Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 948J
+
+	Barcode: 
+	Comments:
+
+[T:ISN] BLES01272
+[T:VOL] SPYRO
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 39 30 32 31 36 32  33 32 31 30 30 00 30 30   1090216232100.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 7cc63c7e231fc83fa8a169d1bec87f33
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000005CE8BF00100000
+005CE8BE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 10322575360
+	CRC32: 43bb3dd1
+	MD5: 09eadca64d15f56651f975f1e3b44c11
+	SHA1: 41dbd7c8989e758da8cfe2bb757b104f84d0032b
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-09-20 19:04:33
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
