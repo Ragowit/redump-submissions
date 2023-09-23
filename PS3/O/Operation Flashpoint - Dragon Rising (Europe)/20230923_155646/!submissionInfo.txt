@@ -1,0 +1,66 @@
+Common Disc Info:
+	Title: Operation Flashpoint: Dragon Rising
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 28499
+	Region: Europe
+	Languages: English, French, German, Italian, Spanish
+	Disc Serial: BLES-00597
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101386889-A511	3000
+Data Side Mastering SID Code: IFPI LY23
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94F5
+
+	Barcode: 5 024866 339437
+	Comments: [T:ISN] BLES00597
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 30 39 30 36 30 30 30  30 30 30 30 30 00 30 30   9090600000000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 91f65ab2acd7db75da5e113401952679
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000057993F00100000
+0057993E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 9609805824
+	CRC32: 50c5a403
+	MD5: edcba8afbed98204c82ee62cb531f590
+	SHA1: eccdfdd5834b75ca42a317c880eb0be7267f0fe4
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-09-23 15:56:46
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
