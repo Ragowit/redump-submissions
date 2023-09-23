@@ -1,0 +1,66 @@
+Common Disc Info:
+	Title: Borderlands
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 31402
+	Region: Europe, Australia
+	Languages: English, French, German, Italian, Spanish
+	Disc Serial: BLES-00697
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101408789-A511	1000
+Data Side Mastering SID Code: IFPI LY27
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 945J
+
+	Barcode: 5 026555 401050
+	Comments: [T:ISN] BLES00697
+	Contents: 
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 30 39 32 39 31 30 32  30 32 33 30 30 00 30 30   9092910202300.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 562450440cad4f0aa5dffd3436e39844
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000002BD55F00100000
+002BD55E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 3735748608
+	CRC32: dc27f34c
+	MD5: e4a091bfb9f5b799eb94ea11392a2442
+	SHA1: 4e536f5bf5bdc76daca1045462f80c3757771694
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-09-23 08:42:30
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
