@@ -29,7 +29,7 @@ Label Side Mould SID Code: IFPI 941I
 
 Version and Editions:
 	Version: 01.01
-	Edition/Release: Original
+	Edition/Release: Platinum
 
 Extras:
 	Primary Volume Descriptor (PVD):
