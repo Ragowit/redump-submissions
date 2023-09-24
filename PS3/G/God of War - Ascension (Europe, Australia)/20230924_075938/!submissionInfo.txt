@@ -1,0 +1,69 @@
+Common Disc Info:
+	Title: God of War: Ascension
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-50
+	Category: Games
+	Fully Matching ID: 31280
+	Region: Europe, Australia
+	Languages: Dutch, English, French, German, Greek, Italian, Polish, Portuguese, Russian, Spanish, Turkish
+	Disc Serial: BCES-01741
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): A0102090795-A911	2000
+Layer 0 (Outer) Mastering SID Code: IFPI LY26
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 5A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Inner) Mastering Code (laser branded/etched): A0102090795-B911	2000
+Layer 1 (Inner) Mastering SID Code: IFPI LY26
+Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 5A00
+Label Side Mould SID Code: IFPI 943I
+
+	Barcode: 
+	Comments: [T:ISN] BCES01741
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 32 30 34 30 33 34  32 32 38 30 30 00 30 30   3020403422800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 4841672f7084abe7d312e299a3cb9104
+	Disc ID: 00000000000000ff0002000000000000
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+2101030000000000019FB75F00100000
+00CA73FE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+2101030000000000019FB75F01358C00
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 39275134976
+	CRC32: 54454795
+	MD5: 7e75160a6c5194a03afe7b91d57de0a5
+	SHA1: eb35602c83b36da25b585586090cc79508b2243f
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-09-24 07:59:38
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
