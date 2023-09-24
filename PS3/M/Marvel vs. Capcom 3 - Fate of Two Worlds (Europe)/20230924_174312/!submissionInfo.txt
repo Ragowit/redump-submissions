@@ -1,0 +1,66 @@
+Common Disc Info:
+	Title: Marvel vs. Capcom 3: Fate of Two Worlds
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 31540
+	Region: Europe
+	Languages: English, French, German, Italian, Japanese, Spanish
+	Disc Serial: BLES-01026
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101714146-A511	1000
+Data Side Mastering SID Code: IFPI LY26
+Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94F6
+
+	Barcode: 5 055060 926956
+	Comments: [T:ISN] BLES01026
+	Contents: 
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 31 32 30 32 30 37 33  32 31 35 30 30 00 30 30   0120207321500.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: d5d6d09c70504953883b7e836123c009
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000002965FF00100000
+002965FE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 3408920576
+	CRC32: e987d48b
+	MD5: e8341e24963850a4500a2c9848b84f4f
+	SHA1: 2201e83e70aee751e19ea29d65099bc4eedda6e2
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-09-24 17:43:12
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
