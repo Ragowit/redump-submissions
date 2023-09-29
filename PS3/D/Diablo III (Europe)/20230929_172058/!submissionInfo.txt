@@ -1,0 +1,70 @@
+Common Disc Info:
+	Title: Diablo III
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 31417
+	Region: Europe
+	Languages: English, French, German, Italian, Spanish
+	Disc Serial: BLES-01921
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102144368-A511	3000
+Data Side Mastering SID Code: IFPI LY26
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 942J
+
+	Barcode: 5 030917 126574
+	Comments:
+
+[T:ISN] BLES01921
+[T:VOL] DIABLO_3
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 36 31 33 31 38 31  36 31 39 30 30 00 30 30   3061318161900.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: f69dfb869ea65862bb4e6a25a5af90cf
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000076D07F00100000
+0076D07E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 13799522304
+	CRC32: dbfac2db
+	MD5: 34d92f0d5936915a64f2f44528e6b0da
+	SHA1: 52de0e82e2ee9fa425f63fb2cb3d7c528120c47f
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-09-29 17:20:58
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
