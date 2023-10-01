@@ -1,0 +1,70 @@
+Common Disc Info:
+	Title: Dragon's Dogma: Dark Arisen
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 55077
+	Region: Europe
+	Languages: English, French, German, Italian, Japanese, Spanish
+	Disc Serial: BLES-01794
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102098266-A511	2000
+Data Side Mastering SID Code: IFPI LY27
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 949M
+
+	Barcode: 5 055060 929469
+	Comments:
+
+[T:ISN] BLES01794
+[T:VOL] DRAGONSDOGMADARKARISEN
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 32 31 34 31 31 33  30 30 30 30 30 00 30 30   3021411300000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 8b11f1b3fa03b723e20d16478023f203
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000006E3EDF00100000
+006E3EDE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 12649431040
+	CRC32: 87e29f05
+	MD5: c131ddbf55e581208adff56c59d030d1
+	SHA1: 480681f62c0cfda491530e818fc50e0140046845
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-10-01 16:21:20
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
