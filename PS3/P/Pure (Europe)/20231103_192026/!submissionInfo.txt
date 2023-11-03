@@ -1,0 +1,74 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Pure
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 50933
+	Region: Scandinavia
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BLES-00327
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0100987965-A511	1000
+Data Side Mastering SID Code: IFPI LY25
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 943J
+
+	Barcode: 8 717418 177010
+	Comments:
+
+[T:ISN] BLES00327
+[T:VOL] PURE
+
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 38 31 35 31 30 34  36 35 38 30 30 00 30 30   8081510465800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 74ce7b8d74b2aad8ad507d6bde68fa0f
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000036999F00100000
+0036999E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 5180817408
+	CRC32: 3344628a
+	MD5: d3be3084ede7d8b9b57d126507fb84c6
+	SHA1: 99024dd0167154d982c772f0f72a2699141a4af2
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-11-03 19:20:26
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
