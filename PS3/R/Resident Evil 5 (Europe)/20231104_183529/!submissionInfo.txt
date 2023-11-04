@@ -1,0 +1,77 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Resident Evil 5
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 16386
+	Region: Scandinavia
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BLES-00485
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101070006-A511	1000
+Data Side Mastering SID Code: IFPI LY23
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A10
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 947K
+
+	Barcode: 5 055060 925775
+	Comments:
+
+[T:ISN] BLES-00485      
+[T:VOL] RESIDENT EVIL 5
+
+	Contents:
+
+[T:P]
+PS3 Firmware 2.60
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 30 31 32 33 30 32 35  34 32 34 30 30 00 30 30   9012302542400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: e5d952857da881ae2fe7800601dbdef7
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000006AA53F00100000
+006AA53E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 12166234112
+	CRC32: c20f937a
+	MD5: 908b5f7493c187fb46841ec3a7df7dfd
+	SHA1: de0c3722b10bf4b2ba1c7cad5760fc835d5a54d4
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-11-04 18:35:29
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
