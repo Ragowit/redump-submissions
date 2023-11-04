@@ -3,7 +3,7 @@ Please double-check to ensure that there are no fields that need verification, s
 If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
 
 Common Disc Info:
-	Title: Battlefield: Bad Company
+	Title: Battlefield: Bad Company - Gold Edition
 	Disc Number / Letter: 
 	Disc Title: 
 	System: Sony PlayStation 3
@@ -36,7 +36,7 @@ PS3 Firmware 2.30
 
 Version and Editions:
 	Version: 01.00
-	Edition/Release: Gold Edition
+	Edition/Release: Original
 
 Extras:
 	Primary Volume Descriptor (PVD):
