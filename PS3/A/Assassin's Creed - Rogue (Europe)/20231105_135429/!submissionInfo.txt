@@ -1,0 +1,78 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Assassin's Creed: Rogue
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 52723
+	Region: Europe
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BLES-02061
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102393750-A511 2000
+Data Side Mastering SID Code: IFPI LY25
+Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 943M
+
+	Barcode: 
+	Comments:
+
+[T:ISN] BLES-02061      
+[T:VOL] ACRO
+Promo ID: 5833001
+
+	Contents:
+
+[T:P]
+PS3 Firmware 4.65
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Promo
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 34 30 39 32 31 32 30 35  39 30 39 30 30 00 30 30   4092120590900.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: df9504e840b6e5e89823cc0ecb1d61f1
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000004630DF00100000
+004630DE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 7273381888
+	CRC32: fb0be5c2
+	MD5: 4a266ac8714b8bc0f177df9b4812a03b
+	SHA1: 57c21148fa627258a59d847eac0633e80f35549b
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-11-05 13:54:29
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
