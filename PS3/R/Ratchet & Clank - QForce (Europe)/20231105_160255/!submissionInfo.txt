@@ -1,0 +1,78 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Ratchet & Clank: QForce
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 30696
+	Region: Europe
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BCES-01594
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102044705-A511	1000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 943K
+
+	Barcode: 
+	Comments:
+
+[T:ISN] XCES-00001      
+[T:VOL] RATCHET5_5
+Promo ID: 9292241
+
+	Contents:
+
+[T:P]
+PS3 Firmware 4.25
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Promo
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 31 30 31 36 31 39 33  30 34 32 30 30 00 30 30   2101619304200.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: ae5ae3b8f9b85f5eb6b24bedabee97c1
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000003A209F00100000
+003A209E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 5654249472
+	CRC32: 6e9e6326
+	MD5: 7117dffd48d432b87bf411ae2d4cf415
+	SHA1: 4e94788e408c4f14d3e1b60ed64472e31b159535
+
+Dumping Info:
+	Dumping Program: DiscImageCreator 20230606
+	Date: 2023-11-05 16:02:55
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02
+	Reported Disc Type: 00, BDO
