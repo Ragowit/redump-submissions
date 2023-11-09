@@ -3,7 +3,7 @@ Please double-check to ensure that there are no fields that need verification, s
 If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
 
 Common Disc Info:
-	Title: Hunted: The Demon's Forge
+	Title: Hunted: The Demon's Forge - Special Edition
 	Disc Number / Letter: 
 	Disc Title: 
 	System: Sony PlayStation 3
