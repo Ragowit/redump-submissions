@@ -1,0 +1,56 @@
+=== 2023-11-19 22:39:37 ========================================================
+redumper v2023.11.18 build_261 [Nov 18 2023, 22:44:43]
+
+arguments: bd --drive=D:\ --speed=16 --retries=20 --image-path=ISO\PS3 --image-name=BUZZ_BOB
+
+drive path: D:\
+drive: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+drive configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+drive read speed: 6464 KB
+
+current profile: BD-ROM
+
+image path: ISO\PS3
+image name: BUZZ_BOB
+
+*** DUMP
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 1
+    channel length: 74.5nm
+    polarity: 1
+    BCA: no
+    PSN last { PSN: 6992767, hPSN: 0x6AB37F }
+    AUN { PSN: [1048576 .. 6992766], length: 5944192, hPSN: [0x100000 .. 0x6AB37E] }
+
+                                                     
+
+media errors: 
+  SCSI: 0
+
+*** REFINE (time check: 2696s)
+
+
+*** HASH
+
+dat:
+<rom name="BUZZ_BOB.iso" size="12173705216" crc="387c7492" md5="fb89d8666240b0fa14b05dd160ce499f" sha1="c151877634b9c69342844c63ac886f0feb4974f4" />
+
+*** INFO
+
+ISO9660 [BUZZ_BOB.iso]:
+  volume identifier: BUZZ_BOB
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 30 33 31 30 31 33 31  36 35 37 30 30 00 30 30   9031013165700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+*** END
