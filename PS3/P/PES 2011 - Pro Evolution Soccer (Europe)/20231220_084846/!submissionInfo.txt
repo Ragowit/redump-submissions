@@ -1,0 +1,73 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: PES 2011: Pro Evolution Soccer
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 81319
+	Region: Scandinavia
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BLES-01021
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101650656-A511	2000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 3A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 943M
+
+	Barcode: 4 012927 052280
+	Comments: [T:ISN] BLES-01021
+	Contents:
+
+[T:P]
+PS3 Firmware 3.41
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 38 31 33 32 33 35  39 30 30 30 30 00 30 30   0081323590000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 456f228d338f48cbf657bd57752f49de
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000004C69BF00100000
+004C69BE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 8108507136
+	CRC32: 8aa8e914
+	MD5: 7e5f3a518911acd6af0d1410d9fa387a
+	SHA1: 9eea941927bd28efc59aa7bc2964c52b01a46601
+
+Dumping Info:
+	Dumping Program: Redumper v2023.12.20 build_300
+	Date: 2023-12-20 08:48:46
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
