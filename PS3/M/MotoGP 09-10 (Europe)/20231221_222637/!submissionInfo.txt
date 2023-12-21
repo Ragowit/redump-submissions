@@ -1,0 +1,73 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: MotoGP 09/10
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 55567
+	Region: Europe
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BLES-00756
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101517107-A511	3000
+Data Side Mastering SID Code: IFPI LY26
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 947M
+
+	Barcode: 5 055060 926109
+	Comments: [T:ISN] BLES-00756
+	Contents:
+
+[T:P]
+PS3 Firmware 3.15
+
+Version and Editions:
+	Version: 01.03
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 31 32 36 31 30 31  34 30 30 30 30 00 30 30   0012610140000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 173b469216a8d7b27d318dc56352daab
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000002D62DF00100000
+002D62DE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 3944153088
+	CRC32: a6c0d921
+	MD5: 55d950eb4bbfbc8826779f6ba9cde59d
+	SHA1: 0b5fc7c75fb2ea7409a75a21aeeb77a95ce088ee
+
+Dumping Info:
+	Dumping Program: Redumper v2023.12.20 build_300
+	Date: 2023-12-21 22:26:37
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
