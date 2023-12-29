@@ -1,0 +1,71 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Middle-Earth: Shadow of War
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 4
+	Media Type: BD-ROM-50
+	Category: Games
+	Fully Matching ID: 71162
+	Region: Europe
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: CUSA-04402
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): A0102896502-A911 2000
+Layer 0 (Outer) Mastering SID Code: IFPI LY25
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 9A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Inner) Mastering Code (laser branded/etched): A0102896502-B911 2000
+Layer 1 (Inner) Mastering SID Code: IFPI LY26
+Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 9A00
+Label Side Mould SID Code: IFPI 947J
+
+	Barcode: 5 051892 206969 >
+	Comments: [T:ISN] CUSA04402
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 38 32 32 32 31 33  34 35 34 30 30 00 30 30   3082221345400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+210103000100000001E2843F00100000
+00CA73FE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+210103000100000001E2843F01358C00
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 48240918528
+	CRC32: a8ef3d08
+	MD5: 057e0001ae63c6c6df4c877ce0412aea
+	SHA1: adbda054db5e92204cd1705420440f3d666a2227
+
+Dumping Info:
+	Dumping Program: Redumper v2023.12.25 build_302
+	Date: 2023-12-29 18:53:47
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
