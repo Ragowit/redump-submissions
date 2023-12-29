@@ -1,0 +1,71 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: The Elder Scrolls V: Skyrim - Special Edition
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 4
+	Media Type: BD-ROM-50
+	Category: Games
+	Fully Matching ID: 42587
+	Region: Europe
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: CUSA-05486
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): A0102732040-A911 1000
+Layer 0 (Outer) Mastering SID Code: IFPI LY27
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Inner) Mastering Code (laser branded/etched): A0102732040-B911 4000
+Layer 1 (Inner) Mastering SID Code: IFPI LY26
+Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 1A00
+Label Side Mould SID Code: IFPI 943I
+
+	Barcode: 5 055856 411543
+	Comments: [T:ISN] CUSA05486
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 31 30 33 30 31 33 31  36 34 38 30 30 00 30 30   3103013164800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+210103000100000001DA207F00100000
+00CA73FE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+210103000100000001DA207F01358C00
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 47114878976
+	CRC32: 4ffed723
+	MD5: 742e5763a19e9d58b530cfb470881fda
+	SHA1: ba9fed0c58f7d750732b79db0412554fecdf1b97
+
+Dumping Info:
+	Dumping Program: Redumper v2023.12.25 build_302
+	Date: 2023-12-29 09:50:19
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
