@@ -1,0 +1,73 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: White Knight Chronicles: International Edition
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 11764
+	Region: USA
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BCUS-98146
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BPSS-071890A1	4
+Data Side Mastering SID Code: IFPI L324
+Data Side Toolstamp or Mastering Code (engraved/stamped): A06
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI QWYV
+
+	Barcode: 7 11719 81462 7
+	Comments: [T:ISN] BCUS-98146
+	Contents:
+
+[T:P]
+PS3 Firmware 3.01
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 31 31 32 37 30 33 30  30 30 30 30 30 00 30 30   9112703000000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 85b348f30088298b89761cf19dc9e27f
+	Disc ID: 00000000000000ff00020003XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000064F63F00100000
+0064F63E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 11403395072
+	CRC32: 653883bb
+	MD5: 9c8dd28a2e6e9c645b7dd3659be0c7e5
+	SHA1: 7f3817aa984c30961ddffb38a6f1f3831fd89ad3
+
+Dumping Info:
+	Dumping Program: Redumper v2024.01.10 build_313
+	Date: 2024-01-20 18:52:04
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
