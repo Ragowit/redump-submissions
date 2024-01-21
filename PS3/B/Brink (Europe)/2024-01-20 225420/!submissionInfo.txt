@@ -1,0 +1,77 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Brink
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 28489
+	Region: Europe
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BLES-00817
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101758656-A511	2000
+Data Side Mastering SID Code: IFPI LY25
+Data Side Toolstamp or Mastering Code (engraved/stamped): 3A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 942K
+
+	Barcode: 0 093155 124417
+	Comments:
+
+[T:ISN] BLES-00817
+[T:VOL] BRINK_EU1
+
+	Contents:
+
+[T:P]
+PS3 Firmware 3.60
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 33 31 37 31 37 35  34 35 39 30 30 00 30 30   1031717545900.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 3693fcd58fbd4b61824ee683c71343a1
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000003D231F00100000
+003D231E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 6058213376
+	CRC32: 432ee280
+	MD5: 1a75d1ca8911dbe9f66461a9157e535e
+	SHA1: dfca881aa2a57da45bcc44314278b36636d3705e
+
+Dumping Info:
+	Dumping Program: Redumper v2024.01.10 build_313
+	Date: 2024-01-20 22:54:20
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
