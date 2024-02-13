@@ -1,0 +1,78 @@
+Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Resistance: Fall of Man
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 10621
+	Region: USA
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BCUS-98107
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0100753665-A511	1000
+Data Side Mastering SID Code: IFPI LY23
+Data Side Toolstamp or Mastering Code (engraved/stamped): 
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 
+
+	Barcode: 7 11719 81072 8
+	Comments:
+
+[T:ISN] BCUS-98107
+[T:VOL] RESISTANCE_1
+There's no label side code, nor a toolstamp.
+
+	Contents:
+
+[T:P]
+PS3 Firmware 1.02
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 36 31 30 31 32 32 31 33  35 30 38 30 30 00 30 30   6101221350800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: b1aa11e20a5593af0ed6afd636ea4a81
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000009C473F00100000
+009C473E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 18827837440
+	CRC32: fcad0730
+	MD5: 7cf6377251b448fc2fafe1d3cd79438e
+	SHA1: 7b0c245b0af0f28437c067e8289e135e5844b270
+
+Dumping Info:
+	Dumping Program: Redumper v2024.02.06 build_314
+	Date: 2024-02-13 19:04:47
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
