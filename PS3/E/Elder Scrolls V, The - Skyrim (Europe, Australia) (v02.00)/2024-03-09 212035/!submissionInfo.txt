@@ -1,0 +1,73 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Elder Scrolls V:, TheSkyrim
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 55439
+	Region: Europe
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BLES-01329#
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101897259-A511	4000
+Data Side Mastering SID Code: IFPI LY25
+Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 948K
+
+	Barcode: 0 093155 141223
+	Comments: [T:ISN] BLES-01329
+	Contents:
+
+[T:P]
+PS3 Firmware 3.73
+
+Version and Editions:
+	Version: 02.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 31 30 33 31 31 34 34  33 34 34 30 30 00 30 30   1103114434400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: c7c2954f5caa4ff6bddbb2d7ef07e1f5
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000034425F00100000
+0034425E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 4866637824
+	CRC32: b237c590
+	MD5: 1058ee8e243376c9aa9bbaf2091abf3b
+	SHA1: 8a5a2e621bf0f51b1cf358061dd97e4503503b5f
+
+Dumping Info:
+	Dumping Program: Redumper v2024.02.06 build_314
+	Date: 2024-03-09 21:20:35
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
