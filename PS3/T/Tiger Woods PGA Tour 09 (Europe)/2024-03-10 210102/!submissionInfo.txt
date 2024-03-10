@@ -1,0 +1,73 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Tiger Woods PGA Tour 09
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 29901
+	Region: Europe
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BLES-00295
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0100975611-A511	1000
+Data Side Mastering SID Code: IFPI LY23
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A03
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94F7
+
+	Barcode: 5 030930 065720 >
+	Comments: [T:ISN] BLES-00295
+	Contents:
+
+[T:P]
+PS3 Firmware 2.35
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 37 31 32 30 30 30  38 30 34 30 30 00 30 30   8071200080400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 2e3fe2a6807b4a56928a4d36a5317111
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000003F545F00100000
+003F545E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 6352470016
+	CRC32: a1c5a893
+	MD5: 13f95fefdd7937835ef31e9d782cac57
+	SHA1: e88768bfb1e84b0ea759ac7f317fdbc6ff169546
+
+Dumping Info:
+	Dumping Program: Redumper v2024.02.06 build_314
+	Date: 2024-03-10 21:01:02
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
