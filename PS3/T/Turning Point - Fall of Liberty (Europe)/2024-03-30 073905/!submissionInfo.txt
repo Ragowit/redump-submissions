@@ -1,0 +1,74 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Turning Point: Fall of Liberty
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 29902
+	Region: Europe
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BLES-00196
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0100919135-A511	1000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 2A02
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94F6
+
+	Barcode: 5 024866 335781
+	Comments: [T:ISN] BLES-00196
+	Contents:
+
+[T:P]
+PS3 Firmware 2.10
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 32 31 32 30 32 33  31 35 38 30 30 00 30 30   8021202315800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: d614ab8099566a7fb37c7d2abcebd720
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000003CD49F00100000
+003CD49E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 6017056768
+	CRC32: 2c18836e
+	MD5: d8a8a56ab496773a62a25bc238d9e024
+	SHA1: 2e9e4332561f4e95e2767e844809b87d4475a422
+
+Dumping Info:
+	Frontend Version: 3.1.4-ccf2166b725a68810649721d7ae4f5afb3be1b62
+	Dumping Program: Redumper v2024.02.06 build_314
+	Date: 2024-03-30 07:39:05
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
