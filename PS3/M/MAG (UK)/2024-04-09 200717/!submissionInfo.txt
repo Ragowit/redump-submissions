@@ -1,0 +1,79 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: MAG
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 36107
+	Region: UK
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BCES-00818
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101482500-A511	2000
+Data Side Mastering SID Code: IFPI LY25
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 945L
+
+	Barcode: 7 11719 14645 2
+	Comments:
+
+[T:ISN] BCES-00818
+[T:VOL] MAG, MAG_ (ISO)
+Manual and inlay is BCES-00558, dunno if it was shipped this way or if a previous owner fixed a loose disc with another case. The skeleton file was 576 MB and is excluded from the logs.
+
+	Contents:
+
+[T:P]
+PS3 Firmware 3.01
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 31 32 31 30 30 32 33  38 31 33 30 30 00 30 30   9121002381300.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 9bf22a1cc032eef5c9305c72a5106a0e
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000081833F00100000
+0081833E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 15235416064
+	CRC32: f6a06636
+	MD5: 81a4bdc5259144e35a0c295c8d8cc9a3
+	SHA1: 8d89e9a68f9ea272ade4701890ba4fab860c1c19
+
+Dumping Info:
+	Frontend Version: 3.1.5-771483ac146302cf6634037db23cd336b0d1c97a
+	Dumping Program: Redumper v2024.04.07 build_317
+	Date: 2024-04-09 20:07:17
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
