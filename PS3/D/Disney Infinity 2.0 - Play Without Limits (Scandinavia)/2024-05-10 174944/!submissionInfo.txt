@@ -1,0 +1,78 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Disney Infinity 2.0: Play Without Limits
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Region: Scandinavia
+	Languages: Danish, English, Finnish, Norwegian, Swedish
+	Disc Serial: BLES-02065
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102365172-A511 1000
+Data Side Mastering SID Code: IFPI LY27
+Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 943K
+
+	Barcode: 8 717418 435356
+	Comments:
+
+[T:ISN] BLES-02065
+[T:VOL] IN2
+
+	Contents:
+
+[T:P]
+PS3 Firmware 4.60
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 34 30 37 32 38 31 37 32  32 32 35 30 30 00 30 30   4072817222500.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 5083655b66928e444d7cf824e495fa2b
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000005B121F00100000
+005B121E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 10075832320
+	CRC32: bb320c19
+	MD5: 106b0a37e67f1b1c517eaacac1cf6a6e
+	SHA1: 219d9957ccc8196663019c9e4caa8542aa9f905f
+
+Dumping Info:
+	Frontend Version: 3.1.8-96f826994adbbdb46ba3cb84a10bf6be38ab1a07
+	Dumping Program: Redumper v2024.05.06 build_325
+	Date: 2024-05-10 17:49:44
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
