@@ -1,0 +1,74 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Skylanders: SuperChargers
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 62608
+	Region: Scandinavia
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BLES-02172
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102549486-A511 5000
+Data Side Mastering SID Code: IFPI LY26
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 946L
+
+	Barcode: 
+	Comments: [T:ISN] BLES-02172
+	Contents:
+
+[T:P]
+PS3 Firmware 4.75
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Starter Pack
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 35 30 37 32 39 31 37 35  38 35 34 30 30 00 30 30   5072917585400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 24e5e75e85c38c3e4b637409b86aa115
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000005CF29F00100000
+005CF29E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 10327752704
+	CRC32: 9b8a58d2
+	MD5: 1bc461d99771f87949e65f428f007813
+	SHA1: d37ecb9380ad8963ca4902a282e6d9bbf3bb32f6
+
+Dumping Info:
+	Frontend Version: 3.1.8-96f826994adbbdb46ba3cb84a10bf6be38ab1a07
+	Dumping Program: Redumper v2024.05.06 build_325
+	Date: 2024-05-11 11:03:21
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
