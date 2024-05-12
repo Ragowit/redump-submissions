@@ -1,0 +1,78 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: NHL 08
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 37624
+	Region: USA
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BLUS-30062
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BPSS-011470A1	2
+Data Side Mastering SID Code: IFPI L323
+Data Side Toolstamp or Mastering Code (engraved/stamped): A01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI QWXZ
+
+	Barcode: 0 14633 35692 2
+	Comments:
+
+[T:ISN] BLUS-30062
+[T:VOL] NHL2008
+
+	Contents:
+
+[T:P]
+PS3 Firmware 1.82
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 37 30 38 30 39 30 35 34  31 30 38 30 30 00 30 30   7080905410800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 0ef31aa66df6e3029cbdf23a968f9a70
+	Disc ID: 00000000000000ff00020003XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000039A7FF00100000
+0039A7FE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 5591007232
+	CRC32: 747d3266
+	MD5: ce7aac45f1912cbf169d6239cf9ed6da
+	SHA1: c127cf24a507582e6b5861b31d941f17f308da17
+
+Dumping Info:
+	Frontend Version: 3.1.8-96f826994adbbdb46ba3cb84a10bf6be38ab1a07
+	Dumping Program: Redumper v2024.05.11 build_326
+	Date: 2024-05-12 18:47:24
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
