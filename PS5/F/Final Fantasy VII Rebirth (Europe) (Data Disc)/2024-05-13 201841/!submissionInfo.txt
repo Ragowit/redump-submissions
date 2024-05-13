@@ -1,0 +1,72 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Final Fantasy VII Rebirth
+	Disc Number / Letter: 
+	Disc Title: Data Disc
+	System: Sony PlayStation 5
+	Media Type: BD-ROM-66
+	Category: Games
+	Fully Matching ID: 112485
+	Region: Europe
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: PPSA-08669
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): PPSA-08669/01.01	A0103471493-A911 3000
+Layer 0 (Outer) Mastering SID Code: IFPI LY26
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 3A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Inner) Mastering Code (laser branded/etched): PPSA-08669/01.01	A0103471493-B911 3000
+Layer 1 (Inner) Mastering SID Code: IFPI LY26
+Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 5A00
+Label Side Mould SID Code: IFPI 941J
+
+	Barcode: 5 021290 098404
+	Comments: [T:ISN] PPSA08668
+	Contents: 
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 34 30 31 30 35 32 32 35  35 30 39 30 30 00 30 30   4010522550900.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042445532
+290503000100000003682E1F00100000
+01089BFE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042445532
+290503000100000003682E1F02F76400
+03EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 48506142720
+	CRC32: d98607fd
+	MD5: 7c42310ecbf7693315319a4e16bd02b0
+	SHA1: ad8fceb34e86ac1c1e2547789a1f2d03e9b88bf2
+
+Dumping Info:
+	Frontend Version: 3.1.8-96f826994adbbdb46ba3cb84a10bf6be38ab1a07
+	Dumping Program: Redumper v2024.05.11 build_326
+	Date: 2024-05-13 20:18:41
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
