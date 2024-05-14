@@ -1,0 +1,72 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Monster Boy and the Cursed Kingdom
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 5
+	Media Type: BD-ROM-66
+	Category: Games
+	Region: USA
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: PPSA-02787
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): P5DL 026720	A0103436822-A911 1000
+Layer 0 (Outer) Mastering SID Code: IFPI LY23
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Inner) Mastering Code (laser branded/etched): P5DL 026720	A0103436822-B911 1000
+Layer 1 (Inner) Mastering SID Code: IFPI LY23
+Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 3A00
+Label Side Mould SID Code: IFPI 946J
+
+	Barcode: 8 10893 03005 9
+	Comments: [T:ISN] PPSA02787
+	Contents: 
+
+Version and Editions:
+	Version: 02.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 31 30 33 32 38 31 33 34  35 34 35 30 30 00 30 30   1032813454500.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042445532
+29050300010000000328DDDF00100000
+01089BFE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042445532
+29050300010000000328DDDF02F76400
+03EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 40008351744
+	CRC32: 20a41d3a
+	MD5: f2e12db9e9c8bf28d6951ed78df47362
+	SHA1: 104c756b8d6a615eaca3b2c9dc3d93fe32cc98a6
+
+Dumping Info:
+	Frontend Version: 3.1.8-96f826994adbbdb46ba3cb84a10bf6be38ab1a07
+	Dumping Program: Redumper v2024.05.11 build_326
+	Date: 2024-05-14 15:17:24
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
