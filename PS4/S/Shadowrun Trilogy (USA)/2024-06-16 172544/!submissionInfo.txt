@@ -1,0 +1,74 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Shadowrun Trilogy
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 4
+	Media Type: BD-ROM-25
+	Category: Games
+	Region: USA
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: CUSA-39405
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): B4SS 153180	A0103437656-A511 2000
+Data Side Mastering SID Code: IFPI LY27
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 944M
+
+	Barcode: 8 10105 67329 6
+	Comments: [T:ISN] CUSA-39405
+	Contents:
+
+<b>Games</b>:
+Shadowrun Returns
+Shadowrun: Dragonfall - Director's Cut
+Shadowrun: Hong Kong - Extended Edition
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 32 31 30 31 38 31 33 35  39 34 35 30 30 00 30 30   2101813594500.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010001000000006319BF00100000
+006319BE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 11153571840
+	CRC32: 9f5b7df0
+	MD5: fe253b93dffe0eb9cc588559ac6c279b
+	SHA1: 3ee6278bd7bbaa108aa9a70ad211fd289317726b
+
+Dumping Info:
+	Frontend Version: 3.1.9-70114ee59e42811664dce687b81da967d88fbf62
+	Dumping Program: Redumper v2024.05.27 build_371
+	Date: 2024-06-16 17:25:44
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
