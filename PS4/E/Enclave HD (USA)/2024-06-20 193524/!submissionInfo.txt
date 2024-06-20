@@ -1,0 +1,73 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Enclave HD
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 4
+	Media Type: BD-ROM-25
+	Category: Games
+	Region: USA
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: CUSA-29494
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): B4SS 160810	A0103452964-A511 1000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 944J
+
+	Barcode: 8 10105 67315 9
+	Comments:
+
+[T:ISN] CUSA-29494
+[T:VOL] ENCLAVEHD
+
+	Contents: 
+
+Version and Editions:
+	Version: 02.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 33 30 37 32 37 30 35 30  33 34 38 30 30 00 30 30   3072705034800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+110101000100000000CA721F00100000
+00CA721E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 25024331776
+	CRC32: 8361cdf2
+	MD5: 1c0b0fea83506ac7b130c0f81b103439
+	SHA1: baf7d8cce0ffb8dc1b4e5d193135bbb73d65df60
+
+Dumping Info:
+	Frontend Version: 3.2.0-de1032a09991e1f82617ddbc38a6937fc23cf2e7
+	Dumping Program: Redumper v2024.05.27 build_371
+	Date: 2024-06-20 19:35:24
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
