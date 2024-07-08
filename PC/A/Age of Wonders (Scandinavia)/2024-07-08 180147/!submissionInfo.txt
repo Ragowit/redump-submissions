@@ -1,0 +1,69 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Age of Wonders
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Games
+	Region: Scandinavia
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: 
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): SDC	177571	010514107
+Data Side Mastering SID Code: 
+Data Side Toolstamp or Mastering Code (engraved/stamped): 
+Data Side Mould SID Code: IFPI 6813
+Data Side Additional Mould: 
+Label Side Mould SID Code: 
+
+	Barcode: 5 743211 775712
+	Error Count: 0
+	Comments: [T:VOL] AOW
+	Contents:
+
+[T:X]
+Acrobat Reader 4.0
+
+Version and Editions:
+	Version: 1.0
+	Edition/Release: PC Best Buy
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 31 30 35 30 37 31 32 34  31 34 33 32 35 08 32 30   1050712414325.20
+0340 : 30 31 30 35 30 37 31 32  34 33 34 32 36 39 FC 00   01050712434269..
+0350 : 00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0360 : 00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="AOW.bin" size="385775040" crc="42f56b2b" md5="58ce6416ac58f71e72b8c4070e3edf63" sha1="f707da0b2f095ad39dea028eefb34856699b82d2" />
+
+	Cuesheet:
+
+FILE "AOW.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+	Write Offset: -22
+
+Dumping Info:
+	Frontend Version: 3.2.0-de1032a09991e1f82617ddbc38a6937fc23cf2e7
+	Dumping Program: Redumper v2024.07.07 build_388
+	Date: 2024-07-08 18:01:47
+	Manufacturer: PLEXTOR
+	Model: DVDR PX-712A
+	Firmware: 1.09 (03/31/06 10:00)
+	Reported Disc Type: CD-ROM
+	C2 Error Count: 0
