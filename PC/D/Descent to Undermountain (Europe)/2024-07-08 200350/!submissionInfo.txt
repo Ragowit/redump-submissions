@@ -1,0 +1,70 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Descent to Undermountain
+	Disc Number / Letter: 
+	Disc Title: 
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Games
+	Fully Matching ID: 98165
+	Region: Europe
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: CD-W95-189-GEN
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): Sono press ROM V-1083/W95-189GEN B
+Data Side Mastering SID Code: IFPI L024
+Data Side Toolstamp or Mastering Code (engraved/stamped): 
+Data Side Mould SID Code: IFPI 0799
+Data Side Additional Mould: 
+Label Side Mould SID Code: 
+
+	Barcode: 5 026102 210692
+	Error Count: 0
+	Comments:
+
+[T:VOL] dtu
+Game ID: BKL-W95-189-GEN (Jewel Case Front Cover), INL-W95-189-GEN (Jewel Case Back Inlay), FG-W95-189-E (Box)
+
+	Contents: 
+
+Version and Editions:
+	Version: 1.2a
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 31 39 39                199
+0330 : 38 30 33 31 32 30 31 34  36 31 31 00 00 04 31 39   80312014611...19
+0340 : 39 38 30 33 31 32 30 31  34 36 31 31 00 00 04 32   980312014611...2
+0350 : 39 39 38 30 33 31 32 30  31 34 36 30 38 00 00 04   9980312014608...
+0360 : 31 39 39 38 30 33 31 32  30 31 34 36 30 38 00 00   19980312014608..
+0370 : 04 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="dtu.bin" size="542253600" crc="7f58f7da" md5="aff25ede804204948f39bf8e9a5e8933" sha1="4379de8827fad75add0e8f987b3bb86cccce2a5d" />
+
+	Cuesheet:
+
+FILE "dtu.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+	Write Offset: -12
+
+Dumping Info:
+	Frontend Version: 3.2.0-de1032a09991e1f82617ddbc38a6937fc23cf2e7
+	Dumping Program: Redumper v2024.07.07 build_388
+	Date: 2024-07-08 20:03:50
+	Manufacturer: PLEXTOR
+	Model: DVDR PX-712A
+	Firmware: 1.09 (03/31/06 10:00)
+	Reported Disc Type: CD-ROM
+	C2 Error Count: 0
