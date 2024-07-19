@@ -1,0 +1,78 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Tony Hawk's Proving Ground
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 30887
+	Region: Scandinavia
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BLES-00130
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0100868399-A511	1000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A04
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94F7
+
+	Barcode: 5 030917 050824
+	Comments:
+
+[T:ISN] BLES-00130
+[T:VOL] THPG
+
+	Contents:
+
+[T:P]
+PS3 Firmware 1.93
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 37 30 39 31 37 31 36 31  33 30 35 30 30 00 30 30   7091716130500.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: cb5361962cb28eb33a375b1cf349b22a
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000004C56BF00100000
+004C56BE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 8098545664
+	CRC32: aa7d1286
+	MD5: 00c0b93d051538453f15c4b7aa8c352a
+	SHA1: fddf8196ef960a109d2187b23ecdb61099019ac5
+
+Dumping Info:
+	Frontend Version: 3.2.0-de1032a09991e1f82617ddbc38a6937fc23cf2e7
+	Dumping Program: Redumper v2024.07.07 build_388
+	Date: 2024-07-19 14:37:02
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
