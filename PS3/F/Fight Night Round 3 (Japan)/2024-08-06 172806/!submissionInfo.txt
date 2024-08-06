@@ -1,0 +1,75 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Fight Night Round 3
+	Foreign Title (Non-latin): ファイトナイト　ラウンド３
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 100769
+	Region: Japan
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BLJM 60092
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BLJM-60020	4
+Data Side Mastering SID Code: IFPI L279
+Data Side Toolstamp or Mastering Code (engraved/stamped): 02
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 4536
+
+	Barcode: 4 938833 008800
+	Comments: [T:ISN] BLJM-60020
+	Contents:
+
+[T:P]
+PS3 Firmware 1.51
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: EA Best Hits
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 37 30 31 30 36 30 36 32  35 33 34 30 30 00 30 30   7010606253400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 30ed82c2d4cca3bc3f301ce53a0ee5cb
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+110101000000000000324F3F00100000
+00324F3E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 4604952576
+	CRC32: 0b1f939d
+	MD5: 5dc2f374695fad8b82ca018bbfa062f3
+	SHA1: 65c91bf39558e681693508c88d769499d78b6a40
+
+Dumping Info:
+	Frontend Version: 3.2.1-00089b799c0d1e34c6a4aac4a7a4863c69810421
+	Dumping Program: Redumper v2024.07.31 build_396
+	Date: 2024-08-06 17:28:06
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
