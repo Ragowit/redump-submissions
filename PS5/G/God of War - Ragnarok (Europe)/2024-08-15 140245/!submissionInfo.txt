@@ -1,0 +1,79 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: God of War: Ragnarok
+	Foreign Title (Non-latin): God of War: Ragnarök
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 5
+	Media Type: BD-ROM-100
+	Category: Games
+	Region: Scandinavia
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: PPSA-08330
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): PPSA-08330/01.00	A0103408025-A311 1000
+Layer 0 (Outer) Mastering SID Code: IFPI LY28
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 7A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 Mastering Code (laser branded/etched): PPSA-08330/01.00	A0103408025-B311 3000
+Layer 1 Mastering SID Code: IFPI LY27
+Layer 1 Toolstamp or Mastering Code (engraved/stamped): 13A00
+Label Side Mould SID Code: IFPI 949M
+Layer 2 (Inner) Mastering Code (laser branded/etched): PPSA-08330/01.00	A0103408025-C311 5000
+Layer 2 (Inner) Mastering SID Code: IFPI LY26
+Layer 2 (Inner) Toolstamp or Mastering Code (engraved/stamped): 8A00
+
+	Barcode: 7 11719 41029 4
+	Comments: [T:ISN] PPSA-08330
+	Contents: 
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 32 30 39 30 37 31 32 31  37 33 33 30 30 00 30 30   2090712173300.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901180000200042445532
+390507000100000004FEBD1F00100000
+01089BFE000000000000000000000000
+00000000000000000000000000000000
+00000000444901190001200042445532
+390507000100000004FEBD1F02F76400
+03EFFFFE000000000000000000000000
+00000000000000000000000000000000
+000000004449011A0002200042445532
+390507000100000004FEBD1F04100000
+05089BFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 98778546176
+	CRC32: 90fc7859
+	MD5: 35481898fa65c1d67ec1b901c3d6e104
+	SHA1: af65b875d64aaa4d2678dde119b156422b7a6a94
+
+Dumping Info:
+	Frontend Version: 3.2.1-00089b799c0d1e34c6a4aac4a7a4863c69810421
+	Dumping Program: Redumper v2024.07.31 build_396
+	Date: 2024-08-15 14:02:45
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
