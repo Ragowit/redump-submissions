@@ -1,0 +1,78 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Spider-Man: Shattered Dimensions
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 58001
+	Region: Europe
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BLES-00946
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101629711-A511	2000
+Data Side Mastering SID Code: IFPI LY27
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 946L
+
+	Barcode: 
+	Comments:
+
+[T:ISN] BLES-00946
+Promo ID: 7089930
+
+	Contents:
+
+[T:P]
+PS3 Firmware 3.40
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Promo
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 37 30 36 31 38 30  35 33 33 30 30 00 30 30   0070618053300.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 9fcb66d4d7963281eca5a712eff14111
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000074441F00100000
+0074441E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 13457489920
+	CRC32: 1bf391d3
+	MD5: 1821a2ddbc48c8d1669121cec6a75287
+	SHA1: 4b173fd7b328972d70cabf81f02549bdd612584d
+
+Dumping Info:
+	Frontend Version: 3.2.1-00089b799c0d1e34c6a4aac4a7a4863c69810421
+	Dumping Program: Redumper v2024.07.31 build_396
+	Date: 2024-08-18 15:04:44
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
