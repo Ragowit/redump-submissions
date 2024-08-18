@@ -1,0 +1,78 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Transformers: The Game
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 56557
+	Region: Europe
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BLES-00092
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0100830246-A511	1000
+Data Side Mastering SID Code: IFPI LY23
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A0
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94E2
+
+	Barcode: 
+	Comments:
+
+[T:ISN] BLES-00092
+Promo ID: 7046452
+
+	Contents:
+
+[T:P]
+PS3 Firmware 1.80
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Promo
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 37 30 36 30 31 30 32 35  32 34 34 30 30 00 30 30   7060102524400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 0606b7e40a3c63587968a2b144290e2f
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000027163F00100000
+0027163E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 3098673152
+	CRC32: 1f2828bc
+	MD5: 6b85adf8e6f74e1549fc83a69719cc72
+	SHA1: cd249f96b5d2582534a4bd6816d1a1616ac1bf5e
+
+Dumping Info:
+	Frontend Version: 3.2.1-00089b799c0d1e34c6a4aac4a7a4863c69810421
+	Dumping Program: Redumper v2024.07.31 build_396
+	Date: 2024-08-18 19:02:37
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
