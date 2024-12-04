@@ -11,7 +11,7 @@ Common Disc Info:
 	Media Type: BD-ROM-25
 	Category: Games
 	Fully Matching ID: 96800
-	Region: SPACE! (CHANGE THIS)
+	Region: Scandinavia
 	Languages: SILENCE! (CHANGE THIS)
 	Disc Serial: BCES-00829
 
