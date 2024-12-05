@@ -1,0 +1,69 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Grand Theft Auto IV & Episodes from Liberty City
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 36999
+	Region: Europe
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BLES-01128
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101673120-A511	2000
+Data Side Mastering SID Code: IFPI LY27
+Data Side Toolstamp or Mastering Code (engraved/stamped): 3A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 946I
+
+	Barcode: 5 026555 405645
+	Comments:
+
+[T:ISN] BLES-01128
+[T:VOL] GRAND THEFT AUTO: COMPLETE, GRAND_THEFT_AUTO__COMPLETE (ISO)
+
+	Contents:
+
+[T:P]
+PS3 Firmware 3.42
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 39 32 32 30 38 33  32 30 30 30 30 00 30 30   0092208320000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 195e853dc90c0ac95c82ef8c80d73834
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC): 
+
+Size & Checksum:
+	Size: 19656146944
+	CRC32: ee150e83
+	MD5: 346523bfe6de784ffd40a3ae05f48848
+	SHA1: 582ea547fcb0799187f1e059e9c6f45603aa85d0
+
+Dumping Info:
+	Frontend Version: 3.2.4-e72336a835c61df8636d15b0f4d768ec2c567446
+	Dumping Program: Redumper v2024.11.03 build_438
+	Date: 2024-12-05 16:24:18
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
