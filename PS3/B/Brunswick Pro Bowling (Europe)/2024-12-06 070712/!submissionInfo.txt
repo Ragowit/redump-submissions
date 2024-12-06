@@ -1,0 +1,65 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Brunswick Pro Bowling
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 55164
+	Region: Scandinavia
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BLES-01130
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101733845-A511	1000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 949K
+
+	Barcode: 8 023171 024639
+	Comments: [T:ISN] BLES-01130
+	Contents:
+
+[T:P]
+PS3 Firmware 3.55
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 31 32 31 30 32 34  30 30 35 30 30 00 30 30   1012102400500.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 40c0f32d7c3e6d5f87b65de9b8a162f4
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC): 
+
+Size & Checksum:
+	Size: 2046885888
+	CRC32: 999df9cd
+	MD5: 8457a6d060be77fe22b0a8d21b001463
+	SHA1: 555cb5db77241d5bb32df85710c3ff8ed37fc78c
+
+Dumping Info:
+	Frontend Version: 3.2.4-e72336a835c61df8636d15b0f4d768ec2c567446
+	Dumping Program: Redumper v2024.11.03 build_438
+	Date: 2024-12-06 07:07:12
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
