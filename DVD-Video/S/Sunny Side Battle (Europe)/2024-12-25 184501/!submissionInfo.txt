@@ -1,0 +1,64 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Sunny Side Battle
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: DVD-Video
+	Media Type: DVD-ROM-5
+	Category: Bonus Discs
+	Fully Matching ID: 53242
+	Region: Scandinavia
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: 
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): Technicolor	DTP34492 03 ANIMR0/A
+Data Side Mastering SID Code: IFPILR80
+Data Side Toolstamp or Mastering Code (engraved/stamped): 
+Data Side Mould SID Code: IFPI UG03
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI UG07
+
+	Barcode: 3 391891 977852
+	Comments: [T:VOL] NARUTO SHIPPUDEN - SUNNY SIDE BA, NARUTO_SHIPPUDEN___SUNNY_SIDE_BA (ISO)
+	Contents: 
+
+Version and Editions:
+	Version: 
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 34 30 37 32 33 31 34 34  39 34 31 30 30 04 32 30   4072314494100.20
+0340 : 31 34 30 37 32 33 31 34  34 39 34 31 30 30 04 30   14072314494100.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Copy Protection:
+	Copy Protection:
+
+Region: 1 2 3 4 5 6 7 8
+Copyright Protection System Type: No
+
+Size & Checksum:
+	Size: 808189952
+	CRC32: e2a38280
+	MD5: 95e497e568ae86a3b10ba536772fbc25
+	SHA1: 5d77cce8de9bfd8f2c312a361670aa6cf8e1485e
+
+Dumping Info:
+	Frontend Version: 3.2.4-e72336a835c61df8636d15b0f4d768ec2c567446
+	Dumping Program: Redumper v2024.11.03 build_438
+	Date: 2024-12-25 18:45:01
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: DVD-ROM
