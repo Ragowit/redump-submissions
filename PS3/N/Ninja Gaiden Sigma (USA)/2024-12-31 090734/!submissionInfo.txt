@@ -1,0 +1,65 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Ninja Gaiden Sigma
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 10889
+	Region: USA
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BLUS-30036
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BPSS-009340A1	3
+Data Side Mastering SID Code: IFPI L322
+Data Side Toolstamp or Mastering Code (engraved/stamped): A03
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI QWX4
+
+	Barcode: 0 18946 01050 2
+	Comments: [T:ISN] BLUS-30036
+	Contents:
+
+[T:P]
+PS3 Firmware 1.70
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 37 30 35 30 37 32 32 34  35 30 30 30 30 00 30 30   7050722450000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 5e0d7d56f80e5cc7885fd94e521c0496
+	Disc ID: 00000000000000ff00020003XXXXXXXX
+	Permanent Information & Control (PIC): 
+
+Size & Checksum:
+	Size: 12308709376
+	CRC32: 7b7e2582
+	MD5: 43d622fe39dab2233047a29aa301722a
+	SHA1: 49c3e5c653a2ca5c88e6882ff85cacf10c12a977
+
+Dumping Info:
+	Frontend Version: 3.2.4-e72336a835c61df8636d15b0f4d768ec2c567446
+	Dumping Program: Redumper v2024.11.03 build_438
+	Date: 2024-12-31 09:07:34
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
