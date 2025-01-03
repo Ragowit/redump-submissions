@@ -1,0 +1,65 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: LittleBigPlanet 2
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 31408
+	Region: Scandinavia
+	Languages: SILENCE! (CHANGE THIS)
+	Disc Serial: BCES-00850
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101713620-A511	2000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 946J
+
+	Barcode: 7 11719 17237 6
+	Comments: [T:ISN] BCES-00850
+	Contents:
+
+[T:P]
+PS3 Firmware 3.50
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 31 32 30 39 31 38 33  35 33 34 30 30 00 30 30   0120918353400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 5ef6c5c0a75f02c911c582e3c1085527
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC): 
+
+Size & Checksum:
+	Size: 20585512960
+	CRC32: e4f7de21
+	MD5: 8323b486f0e8f6e24302ede504a68596
+	SHA1: 7faddf990f6a988c1bfee20f91f789de4b9e3a40
+
+Dumping Info:
+	Frontend Version: 3.2.4-e72336a835c61df8636d15b0f4d768ec2c567446
+	Dumping Program: Redumper v2024.11.03 build_438
+	Date: 2025-01-03 12:23:27
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
