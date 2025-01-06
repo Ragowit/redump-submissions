@@ -1,0 +1,84 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Final Fantasy XIII
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-50
+	Category: Games
+	Fully Matching ID: 13902
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-00783/P
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): A0101504045-A911	12000
+Layer 0 (Outer) Mastering SID Code: IFPI LY26
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 3A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Inner) Mastering Code (laser branded/etched): A0101504045-B911	26000
+Layer 1 (Inner) Mastering SID Code: IFPI LY24
+Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 1A00
+Label Side Mould SID Code: IFPI 948J
+
+	Barcode: 5 021290 042766
+	Error Count: 0
+	Comments:
+
+[T:ISN] MRTC-00003
+[T:VOL] FFXIII_EN
+
+	Contents:
+
+[T:P]
+PS3 Firmware 2.80
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Platinum
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 31 32 32 35 31 36 30  37 35 37 30 30 00 30 30   9122516075700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 9e0f303b98aadf7f1d92d0f6f1b93dff
+	Disc ID: 00000000000000ff0002000000000000
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+210103000000000001E08BDF00100000
+00CA73FE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+210103000000000001E08BDF01358C00
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 47976480768
+	CRC32: 33710e00
+	MD5: d06c406652d91a608c48b442be3ed96a
+	SHA1: a58f6484b745e4309c5aba40e65a6d7862749487
+
+Dumping Info:
+	Frontend Version: 3.3.0-679b40de7c089c3705ef008fbb720f6a4eabc6f1
+	Dumping Program: Redumper v2024.11.03 build_438
+	Date: 2025-01-06 09:31:52
+	Parameters: bd --verbose --drive=D:\ --retries=20 --image-path=ISO\%SYS\FFXIII_EN --image-name=FFXIII_EN
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
