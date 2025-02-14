@@ -1,0 +1,77 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: World Soccer Winning Eleven 2013
+	Foreign Title (Non-latin): ワールドサッカー ウイニングイレブン 2013
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 67813
+	Region: Japan
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLJM 60522
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BLJM-60522	3
+Data Side Mastering SID Code: IFPI L280
+Data Side Toolstamp or Mastering Code (engraved/stamped): 01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 453M
+
+	Barcode: 4 988602 162998
+	Error Count: 0
+	Comments: [T:ISN] BLJM-60522
+	Contents:
+
+[T:P]
+PS3 Firmware 4.21
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 30 38 30 38 31 31 30  32 30 30 30 30 00 30 30   2080811020000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 40a38bd81baf2f6cac4874942a8211ab
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000004C917F00100000
+004C917E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 8129347584
+	CRC32: e78fce7a
+	MD5: a7125fed3efa0eaf1d06d88a14e3abb5
+	SHA1: 6c5e795020b0d644f5f214991449620f67dbff80
+
+Dumping Info:
+	Frontend Version: 3.3.0-679b40de7c089c3705ef008fbb720f6a4eabc6f1
+	Dumping Program: Redumper Unknown Version
+	Date: 2025-02-14 17:38:25
+	Parameters: bd --verbose --drive=D:\ --retries=20 --image-path=ISO\PS3\PS3VOLUME --image-name=PS3VOLUME
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
