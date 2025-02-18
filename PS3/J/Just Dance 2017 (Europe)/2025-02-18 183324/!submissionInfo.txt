@@ -1,0 +1,81 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Just Dance 2017
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 68447
+	Region: Scandinavia
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-02231
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102713144-A511 2000
+Data Side Mastering SID Code: IFPI LY26
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 942M
+
+	Barcode: 3 307215 967348
+	Error Count: 0
+	Comments:
+
+[T:ISN] BLES-02231
+[T:VOL] JustDance2017
+
+	Contents:
+
+[T:P]
+PS3 Firmware 4.80
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 36 30 37 32 39 31 31 33  34 30 39 30 30 00 30 30   6072911340900.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 1418d5c1f1c2fecfe739dc3a7821e4fa
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000069391F00100000
+0069391E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 11975327744
+	CRC32: 5108cf03
+	MD5: 89e186a8b378cb4b2d686a4663c7870b
+	SHA1: ce9eb97bfbc3e862772fb18cdb8e0a90dabc0512
+
+Dumping Info:
+	Frontend Version: 3.3.0-679b40de7c089c3705ef008fbb720f6a4eabc6f1
+	Dumping Program: Redumper Unknown Version
+	Date: 2025-02-18 18:33:24
+	Parameters: bd --verbose --drive=D:\ --retries=20 --image-path=ISO\PS3\JustDance2017 --image-name=JustDance2017
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
