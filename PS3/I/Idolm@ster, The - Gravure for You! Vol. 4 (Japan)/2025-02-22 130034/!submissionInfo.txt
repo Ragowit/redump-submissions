@@ -1,0 +1,81 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Idolm@ster, The: Gravure for You! Vol. 4
+	Foreign Title (Non-latin): アイドルマスター グラビアフォーユー！ VOL.4
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 66710
+	Region: Japan
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLJS 10141
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BLJS-10141	1
+Data Side Mastering SID Code: IFPI L280
+Data Side Toolstamp or Mastering Code (engraved/stamped): 01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 453G
+
+	Barcode: 
+	Error Count: 0
+	Comments:
+
+[T:ISN] BLJS-10141
+[T:VOL] GRAVURE_FOR_YOU_04
+
+	Contents:
+
+[T:P]
+PS3 Firmware 3.73
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 30 31 32 35 31 35 30  30 30 30 30 30 00 30 30   2012515000000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 40c35b9fe5f90fac849e7b71997e3f42
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000001CCD5F00100000
+001CCD5E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 1718288384
+	CRC32: 3c3e4826
+	MD5: c4389c509849aee5a9c06ed578166a3c
+	SHA1: f6fe8b64016c0dc540f98f28baf7f5f8449895ef
+
+Dumping Info:
+	Frontend Version: 3.3.0-679b40de7c089c3705ef008fbb720f6a4eabc6f1
+	Dumping Program: Redumper Unknown Version
+	Date: 2025-02-22 13:00:34
+	Parameters: bd --verbose --drive=D:\ --retries=20 --image-path=ISO\PS3\GRAVURE_FOR_YOU_04 --image-name=GRAVURE_FOR_YOU_04
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
