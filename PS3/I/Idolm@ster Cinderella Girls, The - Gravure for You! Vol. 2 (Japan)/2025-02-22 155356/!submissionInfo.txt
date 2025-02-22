@@ -1,0 +1,81 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Idolm@ster Cinderella Girls, The: Gravure for You! Vol. 2
+	Foreign Title (Non-latin): アイドルマスター シンデレラガールズ グラビアフォーユー！ VOL.2
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 66699
+	Region: Japan
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLJS 10303
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BLJS-10303	1
+Data Side Mastering SID Code: IFPI L280
+Data Side Toolstamp or Mastering Code (engraved/stamped): 02
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: 453Y
+
+	Barcode: 
+	Error Count: 0
+	Comments:
+
+[T:ISN] BLJS-10303
+[T:VOL] CINDERELLA_GIRLS_G4U_V02
+
+	Contents:
+
+[T:P]
+PS3 Firmware 4.70
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 35 30 33 31 32 30 31 30  30 30 30 30 30 00 30 30   5031201000000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: ab46f7c5be70a84b8b8e7d1d67188607
+	Disc ID: 00000000000000ff00020001XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000017CBBF00100000
+0017CBBE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 1046347776
+	CRC32: 936c869d
+	MD5: e8e696933aa7deaaaf1fae1320c63670
+	SHA1: baffc6ce41173d4e5808625b10ef97454e59d2a2
+
+Dumping Info:
+	Frontend Version: 3.3.0-679b40de7c089c3705ef008fbb720f6a4eabc6f1
+	Dumping Program: Redumper Unknown Version
+	Date: 2025-02-22 15:53:56
+	Parameters: bd --verbose --drive=D:\ --retries=20 --image-path=ISO\PS3\CINDERELLA_GIRLS_G4U_V02 --image-name=CINDERELLA_GIRLS_G4U_V02
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
