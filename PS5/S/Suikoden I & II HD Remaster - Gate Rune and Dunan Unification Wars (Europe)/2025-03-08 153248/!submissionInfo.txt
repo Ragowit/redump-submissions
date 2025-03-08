@@ -1,0 +1,77 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Suikoden I & II HD Remaster: Gate Rune and Dunan Unification Wars
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 5
+	Media Type: BD-ROM-66
+	Category: Games
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: PPSA-18305
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): PPSA-18305/01.02	A0103512069-A911 1000
+Layer 0 (Outer) Mastering SID Code: IFPI LY26
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Inner) Mastering Code (laser branded/etched): PPSA-18305/01.02	A0103512069-B911 1000
+Layer 1 (Inner) Mastering SID Code: IFPI LY27
+Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 2A00
+Label Side Mould SID Code: IFPI 94F2
+
+	Barcode: 4 012927 151204
+	Error Count: 0
+	Comments: [T:ISN] PPSA-18305
+	Contents:
+
+<b>Games</b>:
+JP0101-PPSA18305_00-SUIKODENREMASTER
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 34 30 39 30 39 30 33 31  36 35 32 30 30 00 30 30   4090903165200.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042445532
+29050300010000000328DDDF00100000
+01089BFE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042445532
+29050300010000000328DDDF02F76400
+03EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 40008351744
+	CRC32: 342349d6
+	MD5: d84fa3331c1036198e0eb304662dbc97
+	SHA1: 852b5903d1136047633dd63b1dd4184a05a6f176
+
+Dumping Info:
+	Frontend Version: 3.3.0-679b40de7c089c3705ef008fbb720f6a4eabc6f1
+	Dumping Program: Redumper Unknown Version
+	Date: 2025-03-08 15:32:48
+	Parameters: bd --verbose --drive=D:\ --retries=20 --image-path=ISO\PS5\PS5VOLUME --image-name=PS5VOLUME
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
