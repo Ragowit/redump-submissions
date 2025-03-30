@@ -1,0 +1,81 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Mafia II: Director's Cut
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 55745
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-01165/P
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101701776-A511	5000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 943L
+
+	Barcode: 5 026555 406475
+	Error Count: 0
+	Comments:
+
+[T:ISN] BLES-01165
+[T:VOL] MAFIA II DIRECTOR'S CUT
+
+	Contents:
+
+[T:P]
+PS3 Firmware 3.50
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Platinum
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 31 31 30 39 31 31 31  38 32 36 30 30 00 30 30   0110911182600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: ca97e248e92c76365c15a555953f5ccc
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000005AE29F00100000
+005AE29E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 10050928640
+	CRC32: fe88ffd5
+	MD5: 06a30fb73cc58fcd2df6f65a65aaeecc
+	SHA1: c9878856f1c5e8ddf6b57800aeed32e4dc50528d
+
+Dumping Info:
+	Frontend Version: 3.3.0-679b40de7c089c3705ef008fbb720f6a4eabc6f1
+	Dumping Program: Redumper Unknown Version
+	Date: 2025-03-30 14:33:17
+	Parameters: bd --verbose --drive=D:\ --retries=20 "--image-path=ISO\PS3\MAFIA II DIRECTOR'S CUT" "--image-name=MAFIA II DIRECTOR'S CUT"
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
