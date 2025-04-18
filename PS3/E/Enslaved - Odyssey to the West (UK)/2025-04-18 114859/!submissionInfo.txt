@@ -1,0 +1,81 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Enslaved: Odyssey to the West
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 32385
+	Region: UK
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-00990
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101665376-A511	1000
+Data Side Mastering SID Code: IFPI LY27
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94F9
+
+	Barcode: 3 700577 002274
+	Error Count: 0
+	Comments:
+
+[T:ISN] BLES-00990
+[T:VOL] BLES00990
+
+	Contents:
+
+[T:P]
+PS3 Firmware 3.42
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 39 31 31 32 33 30  30 30 30 30 30 00 30 30   0091123000000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 75e2dad875c00f94731d43252d7ce6bf
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000035193F00100000
+0035193E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 4979294208
+	CRC32: f32c48cd
+	MD5: 240bf76e1315d1dc00c0fab8fd8d566e
+	SHA1: cb4428e42091299f5ba3d87b1d0b5233510ac55d
+
+Dumping Info:
+	Frontend Version: 3.3.0-679b40de7c089c3705ef008fbb720f6a4eabc6f1
+	Dumping Program: Redumper Unknown Version
+	Date: 2025-04-18 11:48:59
+	Parameters: bd --verbose --drive=D:\ --retries=20 --image-path=ISO\PS3\BLES00990 --image-name=BLES00990
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
