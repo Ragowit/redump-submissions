@@ -1,0 +1,81 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Ridge Racer Unbounded
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 34371
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-01341
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101937971-A511	2000
+Data Side Mastering SID Code: IFPI LY25
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 944L
+
+	Barcode: 3 391891 961370
+	Error Count: 0
+	Comments:
+
+[T:ISN] BLES-01341
+[T:VOL] RIDGE RACER UNBOUNDED
+
+	Contents:
+
+[T:P]
+PS3 Firmware 4.11
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 30 33 30 38 30 38 34  30 32 39 30 30 00 30 30   2030808402900.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 762f71c571d4254ec78fa2535fd76b3c
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000001DA89F00100000
+001DA89E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 1833238528
+	CRC32: 0a1faa4a
+	MD5: d2d84a7bfc36f82d5791cc57fb6f7b5a
+	SHA1: 413d21389ad33bcf21ec053bd3ef94f3784e2a6c
+
+Dumping Info:
+	Frontend Version: 3.3.0-aefb5a377818c44af87117b2d9b1c526920ba57d
+	Dumping Program: Redumper v2025.04.15 build_549
+	Date: 2025-04-26 09:42:53
+	Parameters: disc --verbose --drive=D:\ --retries=20 "--image-path=ISO\PS3\RIDGE RACER UNBOUNDED" "--image-name=RIDGE RACER UNBOUNDED"
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
