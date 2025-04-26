@@ -1,0 +1,77 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Resident Evil: Revelations
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 28707
+	Region: Scandinavia
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-01773
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102078162-A511	3000
+Data Side Mastering SID Code: IFPI LY27
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 949K
+
+	Barcode: 5 055060 929346
+	Error Count: 0
+	Comments: [T:ISN] BLES-01773
+	Contents:
+
+[T:P]
+PS3 Firmware 4.31
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 31 32 32 32 30 31 32  33 30 32 30 30 00 30 30   2122201230200.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: ac277c576762cc91a9ca08f08ea90a2e
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000006CC61F00100000
+006CC61E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 12451905536
+	CRC32: 5b0c8827
+	MD5: 74ad3778d1383f0eb89ec4e44e9ce39e
+	SHA1: e2e8eb787082e700c671f9aceb8ca5da72aab6bc
+
+Dumping Info:
+	Frontend Version: 3.3.0-aefb5a377818c44af87117b2d9b1c526920ba57d
+	Dumping Program: Redumper v2025.04.15 build_549
+	Date: 2025-04-26 09:22:58
+	Parameters: disc --verbose --drive=D:\ --retries=20 --image-path=ISO\PS3\PS3VOLUME --image-name=PS3VOLUME
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
