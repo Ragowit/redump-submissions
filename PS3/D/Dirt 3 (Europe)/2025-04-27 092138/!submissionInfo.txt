@@ -1,0 +1,77 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Dirt 3
+	Foreign Title (Non-latin): DiRT 3
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 31103
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-01287/E
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101779085-A511	3000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 943J
+
+	Barcode: 5 024866 349788
+	Error Count: 0
+	Comments: [T:ISN] BLES-01287
+	Contents:
+
+[T:P]
+PS3 Firmware 3.60
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Essentials
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 34 32 36 31 33 31  39 30 32 30 30 00 30 30   1042613190200.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 06abfc9015af479f2f31761c0359baef
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+110101000000000000429E9F00100000
+00429E9E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 6794051584
+	CRC32: a17f6dd1
+	MD5: 0ff11b79b25b3d43718d360b49235401
+	SHA1: f6991610ec4de6f638f9dcf896a365efbb81039e
+
+Dumping Info:
+	Frontend Version: 3.3.0-aefb5a377818c44af87117b2d9b1c526920ba57d
+	Dumping Program: Redumper v2025.04.15 build_549
+	Date: 2025-04-27 09:21:38
+	Parameters: disc --verbose --drive=D:\ --retries=20 --image-path=ISO\PS3\PS3VOLUME --image-name=PS3VOLUME
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
