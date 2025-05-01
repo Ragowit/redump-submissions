@@ -1,0 +1,77 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: FIFA Street
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 51910
+	Region: Scandinavia
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-01493
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101923691-A511	3000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 6A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 944M
+
+	Barcode: 5 030945 104872 >
+	Error Count: 0
+	Comments: [T:ISN] BLES-01493
+	Contents:
+
+[T:P]
+PS3 Firmware 4.01
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 30 32 30 37 30 34 34  34 34 34 30 30 00 30 30   2020704444400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: f34dcf84985e4be0e16f866000b73f26
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000035CC1F00100000
+0035CC1E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 5073076224
+	CRC32: b3b0c4f7
+	MD5: 9b595129b1f6f9a1cc185353081bfe02
+	SHA1: 6a4435d8c26afb042cd5e71a8a8a09a87fa4fefb
+
+Dumping Info:
+	Frontend Version: 3.3.0-aefb5a377818c44af87117b2d9b1c526920ba57d
+	Dumping Program: Redumper v2025.04.15 build_549
+	Date: 2025-05-01 12:48:17
+	Parameters: disc --verbose --drive=D:\ --retries=20 --image-path=ISO\PS3\PS3VOLUME --image-name=PS3VOLUME
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
