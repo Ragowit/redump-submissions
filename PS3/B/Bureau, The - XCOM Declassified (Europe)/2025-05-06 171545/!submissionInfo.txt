@@ -1,0 +1,77 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Bureau, The: XCOM Declassified
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 30711
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-01322
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102159639-A511	2000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 943K
+
+	Barcode: 5 026555 412353
+	Error Count: 0
+	Comments: [T:ISN] BLES-01322
+	Contents:
+
+[T:P]
+PS3 Firmware 4.46
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 37 31 34 30 39 33  39 32 36 30 30 00 30 30   3071409392600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 0cfa4eaa4cedbf3ff7082b8517181be7
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000004904FF00100000
+004904FE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 7653031936
+	CRC32: 216fa218
+	MD5: 05e2a969430f4f4d3e1e46e3ec8c948a
+	SHA1: 659d71e62dfa51f2a665f006526b455e652c8232
+
+Dumping Info:
+	Frontend Version: 3.3.0-22a125a838419b7855cb620a43ec5ed2ed1ffc3e
+	Dumping Program: Redumper v2025.05.04 build_565
+	Date: 2025-05-06 17:15:45
+	Parameters: disc --verbose --drive=D:\ --retries=20 --image-path=ISO\PS3\PS3VOLUME --image-name=PS3VOLUME
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
