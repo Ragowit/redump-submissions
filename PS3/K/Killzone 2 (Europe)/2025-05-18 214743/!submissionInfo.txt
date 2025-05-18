@@ -1,0 +1,81 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Killzone 2
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 28063
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BCES-00081
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101058130-A511	1000
+Data Side Mastering SID Code: IFPI LY25
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A02
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 943J
+
+	Barcode: 
+	Error Count: 0
+	Comments:
+
+[T:ISN] BCES-00081
+Promo ID: 9134046
+
+	Contents:
+
+[T:P]
+PS3 Firmware 2.52
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Promo
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 30 31 30 39 31 31 30  36 32 34 30 30 00 30 30   9010911062400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: ec159cbd80dc8cdcc69fef0ec3664e6b
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000007283DF00100000
+007283DE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 13222477824
+	CRC32: d8726664
+	MD5: 262b751985cf5465fff4ce98b3eb47b6
+	SHA1: 2d93e6839836de319094fae1ea6ace810e3e8d4c
+
+Dumping Info:
+	Frontend Version: 3.3.0-79cce37cf6f904fe68e073973e123c47a22fe348
+	Dumping Program: Redumper v2025.05.17 build_583
+	Date: 2025-05-18 21:47:43
+	Parameters: disc --verbose --drive=D:\ --speed=0 --retries=20 --image-path=ISO\PS3\PS3VOLUME --image-name=PS3VOLUME
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
