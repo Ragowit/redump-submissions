@@ -1,0 +1,82 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Middle-Earth: Shadow of Mordor
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 60476
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-01745
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102404888-A511 2000
+Data Side Mastering SID Code: IFPI LY25
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94G5
+
+	Barcode: 
+	Error Count: 0
+	Comments:
+
+[T:ISN] BLES-01745
+[T:VOL] ShadowOfMordor
+Promo ID: 2168670
+
+	Contents:
+
+[T:P]
+PS3 Firmware 4.65
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Promo
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 34 31 30 31 30 32 30 34  30 30 33 30 30 00 30 30   4101020400300.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: b673bcbf88ba5a21dc7daddc56542dc7
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000056C0DF00100000
+0056C0DE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 9496363008
+	CRC32: 5a00a18e
+	MD5: 482425245041568e013dec13dc3f3493
+	SHA1: b54658f0fbaf387d1a1e29914008af3efe4e349b
+
+Dumping Info:
+	Frontend Version: 3.3.0-0fe30d2d4f8940bb7d4022e29b71a9c05e17015f
+	Dumping Program: Redumper v2025.05.21 build_585
+	Date: 2025-05-23 14:26:57
+	Parameters: disc --verbose --drive=D:\ --retries=20 --image-path=ISO\PS3\ShadowOfMordor --image-name=ShadowOfMordor
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
