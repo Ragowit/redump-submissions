@@ -1,0 +1,77 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Dead Space 3
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 30694
+	Region: Scandinavia
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-01733
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102071684-A511	2000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94G2
+
+	Barcode: 5 030933 111271 >
+	Error Count: 0
+	Comments: [T:ISN] BLES-01733
+	Contents:
+
+[T:P]
+PS3 Firmware 4.31
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original - Limited Edition
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 31 32 30 38 30 30 32  30 30 30 30 30 00 30 30   2120800200000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 81cf510ab0b899e18366ffd75a7bc983
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000072215F00100000
+0072215E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 13170835456
+	CRC32: 805af943
+	MD5: effe7dcb06207343f417c2d359a3558e
+	SHA1: d9feb0c3018e58f927384633d9c85017a667d603
+
+Dumping Info:
+	Frontend Version: 3.3.1-14c17bbdf727b90d6268f287c31cd6ec76d9349f
+	Dumping Program: Redumper v2025.05.21 build_585
+	Date: 2025-05-30 15:18:18
+	Parameters: disc --verbose --drive=D:\ --retries=20 --image-path=ISO\PS3\PS3VOLUME --image-name=PS3VOLUME
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
