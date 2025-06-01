@@ -11,7 +11,7 @@ Common Disc Info:
 	Media Type: BD-ROM-50
 	Category: Games
 	Fully Matching ID: 30658
-	Region: Europe
+	Region: UK
 	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
 	Disc Serial: BLES-00246/UK
 
