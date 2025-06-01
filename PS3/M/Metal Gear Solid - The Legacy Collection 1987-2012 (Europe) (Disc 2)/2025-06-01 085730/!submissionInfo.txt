@@ -1,0 +1,80 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Metal Gear Solid: The Legacy Collection 1987-2012
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: Disc 2
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-50
+	Category: Games
+	Fully Matching ID: 37000
+	Region: UK
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-82001/UK
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): A0102150391-A911	3000
+Layer 0 (Outer) Mastering SID Code: IFPI LY25
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Inner) Mastering Code (laser branded/etched): A0102150391-B911	6000
+Layer 1 (Inner) Mastering SID Code: IFPI LY27
+Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 1A00
+Label Side Mould SID Code: IFPI 943M
+
+	Barcode: 4 012927 055922
+	Error Count: 0
+	Comments: [T:ISN] BLES-01419
+	Contents:
+
+[T:P]
+PS3 Firmware 4.40
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original - The Legacy Collection 1987 - 2012
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 35 30 31 30 32 34  39 32 38 30 30 00 30 30   3050102492800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 10f203245d5715cdec04d54561c9cea8
+	Disc ID: 00000000000000ff0002000000000000
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+210103000000000001E5661F00100000
+00C51DBE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+210103000000000001E5661F013AE240
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 47195160576
+	CRC32: 16c3b1a8
+	MD5: 6297866582d976f3a8feebd7404d83e5
+	SHA1: 6aea6cb2e06fa993dbdaee29a1c1596b3a6488fc
+
+Dumping Info:
+	Frontend Version: 3.3.1-14c17bbdf727b90d6268f287c31cd6ec76d9349f
+	Dumping Program: Redumper v2025.05.21 build_585
+	Date: 2025-06-01 08:57:30
+	Parameters: disc --verbose --drive=D:\ --retries=20 --image-path=ISO\PS3\PS3VOLUME --image-name=PS3VOLUME
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM

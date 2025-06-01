@@ -1,0 +1,36 @@
+
+GetKey r2
+Load keys
+Test unit ready: return value of ioctl indicates success
+Read pic: return value of ioctl indicates success
+get dec key
+  establish session keys:
+    do send key: return value of ioctl indicates success
+    do report key: return value of ioctl indicates success
+    calculate session keys
+    do send key: return value of ioctl indicates success
+  get data
+    do unknown e1:
+    unknown e1 cdb: e10054002e99c3bc3e31bfd2
+    return value of ioctl indicates success
+    do unknown e0:
+    unknown e0 cdb: e0003400d02b26158e0c7b44
+    return value of ioctl indicates success
+get_dec_key succeeded!
+
+
+disc_key = 10f203245d5715cdec04d54561c9cea8
+
+disc_id = 00000000000000ff0002000000000000
+PIC:
+10020000444901100000200042444f01
+210103000000000001e5661f00100000
+00c51dbe000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444f01
+210103000000000001e5661f013ae240
+01effffe000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+SUCCESS: Everything was correctly dumped.
