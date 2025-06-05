@@ -1,0 +1,77 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Dragon Quest III: HD-2D Remake
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 5
+	Media Type: BD-ROM-66
+	Category: Games
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: PPSA-20613
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): PPSA-20613/01.01	A0103499827-A911 1000
+Layer 0 (Outer) Mastering SID Code: IFPI LY23
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Inner) Mastering Code (laser branded/etched): PPSA-20613/01.01	A0103499827-B911 1000
+Layer 1 (Inner) Mastering SID Code: IFPI LY24
+Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 2A00
+Label Side Mould SID Code: IFPI 945I
+
+	Barcode: 5 021290 099517
+	Error Count: 0
+	Comments: [T:ISN] PPSA-20613
+	Contents:
+
+<b>Games</b>:
+EP0082-PPSA20613_00-DQ3REU0000000000
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 34 30 38 30 35 30 35 32  38 33 36 37 32 00 30 30   4080505283672.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042445532
+29050300010000000328DDDF00100000
+01089BFE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042445532
+29050300010000000328DDDF02F76400
+03EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 40008351744
+	CRC32: 83f85298
+	MD5: 864b9d205565d2cd0cd9c4fc65fca70b
+	SHA1: 54b0acef1ebb40f79d77c0994a0e5d19991dd0d8
+
+Dumping Info:
+	Frontend Version: 3.3.1-14c17bbdf727b90d6268f287c31cd6ec76d9349f
+	Dumping Program: Redumper v2025.05.21 build_585
+	Date: 2025-06-05 15:52:32
+	Parameters: disc --verbose --drive=D:\ --retries=20 --image-path=ISO\PS5\PS5VOLUME --image-name=PS5VOLUME
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
