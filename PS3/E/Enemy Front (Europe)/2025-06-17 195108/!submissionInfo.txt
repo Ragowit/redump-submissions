@@ -1,0 +1,82 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Enemy Front
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 57814
+	Region: Scandinavia
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-01654
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102323518-A511 1000
+Data Side Mastering SID Code: IFPI LY27
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 944M
+
+	Barcode: 5 907813 598258
+	Error Count: 0
+	Comments:
+
+<b>Logs Link</b>: [Please provide a link to your logs here]
+[T:ISN] BLES-01654
+[T:VOL] ENEMY FRONT
+
+	Contents:
+
+[T:P]
+PS3 Firmware 4.55
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 34 30 33 31 31 31 32 32  35 30 31 30 30 00 30 30   4031112250100.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 72c945960c89b02c9982bdcfdb2ff4d6
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000037F33F00100000
+0037F33E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 5362024448
+	CRC32: 1b9a6c75
+	MD5: 5d7b357d8543137453aeb2cbf1d87d8b
+	SHA1: 1d9fe7596b6018f8a284c1ed3f9865d431b8eb2d
+
+Dumping Info:
+	Frontend Version: 3.3.2-04b4f528bae2bff50c2916f690ab5b8850ff8ead
+	Dumping Program: Redumper v2025.06.12 build_610
+	Date: 2025-06-17 19:51:08
+	Parameters: disc --drive=D:\ --retries=20 "--image-path=ISO\PS3\ENEMY FRONT" "--image-name=ENEMY FRONT"
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
