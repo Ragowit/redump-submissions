@@ -3,10 +3,10 @@ Please double-check to ensure that there are no fields that need verification, s
 If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
 
 Common Disc Info:
-	Title: Soulcalibur V (Original Soundtracks)
+	Title: Soulcalibur V
 	Foreign Title (Non-latin): 
 	Disc Number / Letter: 
-	Disc Title: 
+	Disc Title: Original Soundtracks
 	System: Audio CD
 	Media Type: CD-ROM
 	Category: Bonus Discs
