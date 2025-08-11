@@ -24,7 +24,7 @@ Data Side Mould SID Code:
 Data Side Additional Mould: 
 Label Side Mould SID Code: IFPI 942K
 
-	Barcode: 
+	Barcode: 3 391891 960892
 	Error Count: 0
 	Comments:
 
@@ -38,7 +38,7 @@ PS3 Firmware 3.73
 
 Version and Editions:
 	Version: 01.00
-	Edition/Release: Original
+	Edition/Release: Collector's Edition
 
 Extras:
 	Primary Volume Descriptor (PVD):
