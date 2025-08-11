@@ -1,0 +1,182 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Soulcalibur V (Original Soundtracks)
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Audio CD
+	Media Type: CD-ROM
+	Category: Bonus Discs
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: SCV_ST
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): Sony DADC	A0101907518-0101	11
+Data Side Mastering SID Code: IFPI L551
+Data Side Toolstamp or Mastering Code (engraved/stamped): A01
+Data Side Mould SID Code: IFPI 94W5
+Data Side Additional Mould: 
+Label Side Mould SID Code: 
+Write Offset: +18
+
+	Barcode: 3 391891 960892
+	Error Count: 0
+	Comments:
+
+<b>Logs Link</b>: [Please provide a link to your logs here]
+<b>Universal Hash (SHA-1)</b>: c4b35dfd4ef41e36d861f70ce495839a87451fff
+<b>Ring non-zero data start</b>: +18
+Bundled with Collector's Edition of http://redump.org/disc/31305
+
+	Contents: 
+
+Version and Editions:
+	Version: 
+	Edition/Release: Collector's Edition
+
+Extras:
+	Primary Volume Descriptor (PVD): Disc has no PVD
+
+Tracks and Write Offsets:
+	DAT:
+
+<rom name="Audio CD (Track 01).bin" size="15779568" crc="c2ab6e90" md5="6960e06d2ac2c79c7bd2ff88907104e3" sha1="61911661497c6c3b55f2cc172617305058d5090a" />
+<rom name="Audio CD (Track 02).bin" size="39746448" crc="668b4ab8" md5="1fdc0c35505cad63939b76fb0c99b52b" sha1="a15ab33b63b352e2ebf8f19cbf27744160467f69" />
+<rom name="Audio CD (Track 03).bin" size="39264288" crc="1a5b914a" md5="13f7b9e505ade27f6d644bef965bfb84" sha1="9081d520cac3e4873a3f33ab9a30392488d4cc96" />
+<rom name="Audio CD (Track 04).bin" size="32871552" crc="f2ce4d23" md5="3be49824a3936a56222c6a807a1e93ce" sha1="f6885fce03db3582ac5dcd585a6399ba72dae41d" />
+<rom name="Audio CD (Track 05).bin" size="39934608" crc="194eab2d" md5="bd35e57e91f6b996a867d7f432700535" sha1="4b88b7b4ff7bf016067ce9b53aec8625ce67a83d" />
+<rom name="Audio CD (Track 06).bin" size="24324384" crc="ba176b7a" md5="5468af7234d7039a6a16c4788e54408a" sha1="39b1617c00fa4f5265c2e7e0cdd33c855578af1c" />
+<rom name="Audio CD (Track 07).bin" size="30545424" crc="f307a837" md5="d0f0fc815e3aca7d014d2fd7cf4b99fa" sha1="fc7d5d6b34de2d34f3ceacc1652f004ad127294d" />
+<rom name="Audio CD (Track 08).bin" size="32147136" crc="426f3f13" md5="5424b8ca5ac804d08e4bbf7c986bf2bb" sha1="99a014af3131b23ed20b93ce78e8e0ce0bf10566" />
+<rom name="Audio CD (Track 09).bin" size="26290656" crc="2aa7cdb3" md5="4cc449bc69e4ee05f2df0a2a18cc273e" sha1="715768c4dc22e9522cabf7ce6b1680fd156bbefc" />
+<rom name="Audio CD (Track 10).bin" size="27191472" crc="69391f60" md5="b306bd27ce18e209400a2408e0184883" sha1="eb5525ef3119efc2b1d042e6cfd5819421c5dd9c" />
+<rom name="Audio CD (Track 11).bin" size="40092192" crc="e32cbc42" md5="ed15fd25b82c04f8d184645131876d1c" sha1="a868f6628013059d73c521309bc26320cc012cf2" />
+<rom name="Audio CD (Track 12).bin" size="40292112" crc="a76a885a" md5="4dae75b245aaf05a93458e6d97bc2675" sha1="8517900bda8f327e8c6472eff9acf6d0dbb021e0" />
+<rom name="Audio CD (Track 13).bin" size="49293216" crc="21ccf5cc" md5="73d651ba5eea27cd36665ce4119075d3" sha1="6dbc0ec55c22046aa89281c6473034e68b522ac2" />
+<rom name="Audio CD (Track 14).bin" size="32318832" crc="d5951cf0" md5="79d771ccc75acdad0d5d2eb51da60503" sha1="8a42681e252234b84af1d39d427f043b3b44d448" />
+<rom name="Audio CD (Track 15).bin" size="37380336" crc="2a1db6e6" md5="d75a1860752a948374880b92d80edacb" sha1="ae7f9107ab5e7e7543118b00ca06575a285f369c" />
+<rom name="Audio CD (Track 16).bin" size="40694304" crc="f116a6db" md5="b137ab22cc2cc8b4c85c110dc59cae46" sha1="e2417a1e7492143338e5087ffc8fe3a9e1cdb21e" />
+<rom name="Audio CD (Track 17).bin" size="35583408" crc="cf95da25" md5="72cf999d49ff032469eaf8643ad7f7dc" sha1="3bf233fa72d186b20b4c078134b8987071cfdbf2" />
+
+	Cuesheet:
+
+TITLE "SOULCALIBUR V"
+FILE "Audio CD (Track 01).bin" BINARY
+  TRACK 01 AUDIO
+    TITLE "The Frontier of History"
+    PERFORMER "01"
+    INDEX 01 00:00:00
+FILE "Audio CD (Track 02).bin" BINARY
+  TRACK 02 AUDIO
+    TITLE "Till Fate Writes My Epitaph"
+    PERFORMER "02"
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Audio CD (Track 03).bin" BINARY
+  TRACK 03 AUDIO
+    TITLE "Without the Blessing of Fate"
+    PERFORMER "03"
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Audio CD (Track 04).bin" BINARY
+  TRACK 04 AUDIO
+    TITLE "A High Spirited Tiger"
+    PERFORMER "04"
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Audio CD (Track 05).bin" BINARY
+  TRACK 05 AUDIO
+    TITLE "Sleepless_An Untamed Beast"
+    PERFORMER "05"
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Audio CD (Track 06).bin" BINARY
+  TRACK 06 AUDIO
+    TITLE "Home is Faraway"
+    PERFORMER "06"
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Audio CD (Track 07).bin" BINARY
+  TRACK 07 AUDIO
+    TITLE "Dragons Call"
+    PERFORMER "07"
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Audio CD (Track 08).bin" BINARY
+  TRACK 08 AUDIO
+    TITLE "Recollect Continent"
+    PERFORMER "08"
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Audio CD (Track 09).bin" BINARY
+  TRACK 09 AUDIO
+    TITLE "In the Name of the Father"
+    PERFORMER "09"
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Audio CD (Track 10).bin" BINARY
+  TRACK 10 AUDIO
+    TITLE "Beyond the Horizon"
+    PERFORMER "10"
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Audio CD (Track 11).bin" BINARY
+  TRACK 11 AUDIO
+    TITLE "Unwavering Resolve"
+    PERFORMER "11"
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Audio CD (Track 12).bin" BINARY
+  TRACK 12 AUDIO
+    TITLE "Sword Of The Patriot"
+    PERFORMER "12"
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Audio CD (Track 13).bin" BINARY
+  TRACK 13 AUDIO
+    TITLE "Fearless Eyes"
+    PERFORMER "13"
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Audio CD (Track 14).bin" BINARY
+  TRACK 14 AUDIO
+    TITLE "If There Were Any Other Way"
+    PERFORMER "14"
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Audio CD (Track 15).bin" BINARY
+  TRACK 15 AUDIO
+    TITLE "Valiant Heart"
+    PERFORMER "15"
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Audio CD (Track 16).bin" BINARY
+  TRACK 16 AUDIO
+    TITLE "Winds And Memories"
+    PERFORMER "16"
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Audio CD (Track 17).bin" BINARY
+  TRACK 17 AUDIO
+    TITLE "Innocent Vision"
+    PERFORMER "17"
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+
+	Write Offset: +18
+
+Dumping Info:
+	Frontend Version: 3.3.3-d3993a48e44acb347ea7c7a60c8eec75fa88631b
+	Dumping Program: Redumper v2025.07.30 build_635
+	Date: 2025-08-11 17:05:37
+	Parameters: disc --skeleton --drive=E:\ --speed=24 --retries=20 "--image-path=ISO\AUDIO-CD\Audio CD" "--image-name=Audio CD"
+	Manufacturer: PLEXTOR
+	Model: DVDR PX-712A
+	Firmware: 1.09 (03/31/06 10:00)
+	Reported Disc Type: CD-ROM
+	C2 Error Count: 0
