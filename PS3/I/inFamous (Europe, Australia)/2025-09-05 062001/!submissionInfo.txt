@@ -1,0 +1,82 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Infamous
+	Foreign Title (Non-latin): inFamous
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 28554
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BCES-00609/P
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101218043-A511	1000
+Data Side Mastering SID Code: IFPI LY25
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A07
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 948M
+
+	Barcode: 7 11719 13396 4
+	Error Count: 0
+	Comments:
+
+<b>Logs Link</b>: [Please provide a link to your logs here]
+[T:ISN] BCES-00609
+[T:VOL] inFamous
+
+	Contents:
+
+[T:P]
+PS3 Firmware 2.60
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Platinum
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 30 34 32 32 32 32 34  37 30 30 30 30 00 30 30   9042222470000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 2333c46d2debfff6fb832d68ffee14ad
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000048D57F00100000
+0048D57E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 7628128256
+	CRC32: b9335b80
+	MD5: 2c449a10bad67ebc45a6f238b998f290
+	SHA1: 156f38535f5aa82eabd6d8ca9dc93a431287fd69
+
+Dumping Info:
+	Frontend Version: 3.3.3-d3993a48e44acb347ea7c7a60c8eec75fa88631b
+	Dumping Program: Redumper Unknown Version
+	Date: 2025-09-05 06:20:01
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\inFamous --image-name=inFamous
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
