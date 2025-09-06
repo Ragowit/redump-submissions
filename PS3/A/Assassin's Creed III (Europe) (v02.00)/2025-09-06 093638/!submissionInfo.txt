@@ -1,0 +1,82 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Assassin's Creed III
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 69391
+	Region: Scandinavia
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-01667/E
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102076392-A511	2000
+Data Side Mastering SID Code: IFPI LY25
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 942K
+
+	Barcode: 3 307215 772416
+	Error Count: 0
+	Comments:
+
+<b>Logs Link</b>: [Please provide a link to your logs here]
+[T:ISN] BLES-01667
+[T:VOL] ACIII
+
+	Contents:
+
+[T:P]
+PS3 Firmware 4.31
+
+Version and Editions:
+	Version: 02.00
+	Edition/Release: Essentials
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 31 32 31 34 31 39 34  37 34 36 30 30 00 30 30   2121419474600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: c3587e3ea2cbb04a1c760a8eef857b30
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000006BB0FF00100000
+006BB0FE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 12306612224
+	CRC32: 43eae9e3
+	MD5: 68607c24453edb153488614452073a39
+	SHA1: 9c00595444a4ddf2bffecede4a7aed568a69c1dc
+
+Dumping Info:
+	Frontend Version: 3.3.3-d3993a48e44acb347ea7c7a60c8eec75fa88631b
+	Dumping Program: Redumper Unknown Version
+	Date: 2025-09-06 09:36:38
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\ACIII --image-name=ACIII
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
