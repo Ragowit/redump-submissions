@@ -1,0 +1,81 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Tom Clancy's Ghost Recon: Advanced Warfighter 2
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 29884
+	Region: USA
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLUS-30034
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BPSS-011640A1	3
+Data Side Mastering SID Code: IFPI L322
+Data Side Toolstamp or Mastering Code (engraved/stamped): A03
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI QWXO
+
+	Barcode: 0 08888 34347 9
+	Error Count: 0
+	Comments:
+
+<b>Logs Link</b>: [Please provide a link to your logs here]
+[T:ISN] BLUS-30034
+
+	Contents:
+
+[T:P]
+PS3 Firmware 1.82
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 37 30 37 30 36 31 33 31  35 32 37 30 30 00 30 30   7070613152700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 39d24d5de17070aa2f2bed6f929d4b62
+	Disc ID: 00000000000000ff00020003XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000061441F00100000
+0061441E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 10907353088
+	CRC32: 85f6639c
+	MD5: 9d12d710ebd1389ef4a1d3556fd7c392
+	SHA1: a15d658fee97dbfd6655e2c28a1d3c563d430ef0
+
+Dumping Info:
+	Frontend Version: 3.3.3-d3993a48e44acb347ea7c7a60c8eec75fa88631b
+	Dumping Program: Redumper Unknown Version
+	Date: 2025-09-07 10:02:20
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\BLUS-30034 --image-name=BLUS-30034
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
