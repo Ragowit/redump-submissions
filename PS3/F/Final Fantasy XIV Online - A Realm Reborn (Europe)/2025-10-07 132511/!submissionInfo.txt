@@ -1,0 +1,83 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Final Fantasy XIV Online: A Realm Reborn
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 32223
+	Region: Scandinavia
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-01129
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102151401-A511	3000
+Data Side Mastering SID Code: IFPI LY26
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 943K
+
+	Barcode: 5 021290 056848 >
+	Error Count: 0
+	Comments:
+
+<b>Logs Link</b>: [Please provide a link to your logs here]
+[T:ISN] BLES-01129
+[T:VOL] FFXIV_ARR_EU
+Nordic Limited Edition contains a voucher for "Helm of Light" in-game item.
+
+	Contents:
+
+[T:P]
+PS3 Firmware 4.41
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Nordic Limited Edition
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 36 32 36 31 33 30  30 30 30 30 30 00 30 30   3062613000000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 16f7742f358aa112f10132cabd1b112b
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000044B0BF00100000
+0044B0BE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 7071989760
+	CRC32: 1de06d95
+	MD5: 6b064b1402864bcbc6e10464054cfe4e
+	SHA1: a03e803a361aa16d02b04c8b021809b86a6040a0
+
+Dumping Info:
+	Frontend Version: 3.4.2-cb8e1fd34b37bf7131e253388fc7d0b095d505f9
+	Dumping Program: Redumper (build: b655)
+	Date: 2025-10-07 13:25:11
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\FFXIV_ARR_EU --image-name=FFXIV_ARR_EU
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
