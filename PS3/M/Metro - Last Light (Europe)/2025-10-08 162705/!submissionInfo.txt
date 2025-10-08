@@ -1,0 +1,82 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Metro: Last Light
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 31314
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-01867
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102116929-A511	2000
+Data Side Mastering SID Code: IFPI LY27
+Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94G5
+
+	Barcode: 4 020628 512330
+	Error Count: 0
+	Comments:
+
+<b>Logs Link</b>: [Please provide a link to your logs here]
+[T:ISN] BLES-01867
+Limited Edition includes the DLC "Ranger Mode" as a digital code on the back of the manual.
+
+	Contents:
+
+[T:P]
+PS3 Firmware 4.40
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Limited Edition
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 33 32 36 31 33 32  30 34 33 30 30 00 30 30   3032613204300.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: ae8c3770e47794d3f5e9feaf1bd0fc89
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000044FCBF00100000
+0044FCBE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 7111835648
+	CRC32: f6f87994
+	MD5: 07d0168913033c719fd93cf6d6e6637e
+	SHA1: 9881aa656978d1a23951b8402f463b7fc3996b15
+
+Dumping Info:
+	Frontend Version: 3.4.2-cb8e1fd34b37bf7131e253388fc7d0b095d505f9
+	Dumping Program: Redumper (build: b655)
+	Date: 2025-10-08 16:27:05
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\BLES-01867 --image-name=BLES-01867
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
