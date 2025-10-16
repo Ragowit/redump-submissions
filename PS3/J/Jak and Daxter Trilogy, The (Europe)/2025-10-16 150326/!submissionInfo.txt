@@ -1,0 +1,81 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Jak and Daxter Trilogy, The
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 32189
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BCES-01325
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101893922-A511	2000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 946J
+
+	Barcode: 7 11719 21032 0
+	Error Count: 0
+	Comments:
+
+<b>Logs Link</b>: [Please provide a link to your logs here]
+[T:ISN] BCES-01325
+
+	Contents:
+
+[T:P]
+PS3 Firmware 3.73
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 31 31 32 31 31 39 31  34 30 39 30 30 00 30 30   1112119140900.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 012bea99a9ff0e98520a19ff1777ff71
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000004F00DF00100000
+004F00DE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 8456175616
+	CRC32: e31265f1
+	MD5: b8ee022902bad180e7473dba1665f94f
+	SHA1: 2cc654f7b957bc0ce527a6ccded7b505cd74c2f9
+
+Dumping Info:
+	Frontend Version: 3.5.0-9012ff85a9da4c277e95bc3fc03104a46ff4dc06
+	Dumping Program: Redumper (build: b655)
+	Date: 2025-10-16 15:03:26
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\BCES-01325 --image-name=BCES-01325
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
