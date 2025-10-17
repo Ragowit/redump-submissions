@@ -13,7 +13,7 @@ Common Disc Info:
 	Fully Matching ID: 29159
 	Region: Scandinavia
 	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
-	Disc Serial: BLES-00757/P
+	Disc Serial: BCES-00757/P
 
 	Ringcode Information:
 
