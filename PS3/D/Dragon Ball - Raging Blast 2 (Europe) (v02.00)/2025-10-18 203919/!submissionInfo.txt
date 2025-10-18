@@ -1,0 +1,81 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Dragon Ball: Raging Blast 2
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 53588
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-00978/E#
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101790801-A511	2000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 949L
+
+	Barcode: 3 391891 973809
+	Error Count: 0
+	Comments:
+
+<b>Logs Link</b>: [Please provide a link to your logs here]
+[T:ISN] BLES-00978
+
+	Contents:
+
+[T:P]
+PS3 Firmware 3.60
+
+Version and Editions:
+	Version: 02.00
+	Edition/Release: Essentials
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 34 32 35 30 38 30  31 35 30 30 30 00 30 30   1042508015000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 6e0077d8e9b8ccfa98ebb12a00d4c835
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+110101000000000000493A9F00100000
+00493A9E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 7681146880
+	CRC32: cb0fd295
+	MD5: c4e86ef26170f9f6005e01dbebe60732
+	SHA1: 956b60bebe9e271a52afba7eea457d14ec4fe209
+
+Dumping Info:
+	Frontend Version: 3.5.0-9012ff85a9da4c277e95bc3fc03104a46ff4dc06
+	Dumping Program: Redumper (build: b655)
+	Date: 2025-10-18 20:39:19
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\BLES-00978 --image-name=BLES-00978
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
