@@ -1,0 +1,85 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: God of War Saga
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: Disc 1
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 40150
+	Region: USA
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BCUS 98229
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BPSS-067260A1	27
+Data Side Mastering SID Code: IFPI L323
+Data Side Toolstamp or Mastering Code (engraved/stamped): A07
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI QWYB
+
+	Barcode: 7 11719 99069 7
+	Error Count: 0
+	Comments:
+
+<b>Logs Link</b>: [Please provide a link to your logs here]
+[T:ISN] BCUS-98229
+God of War: Origins Collection (Chains of Olympus & Ghost of Sparta) as downloadable game voucher.
+
+	Contents:
+
+<b>Games</b>:
+God of War
+God of War II
+[T:P]
+PS3 Firmware 4.21
+
+Version and Editions:
+	Version: 02.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 30 37 32 33 31 38 34  33 30 39 30 30 00 30 30   2072318430900.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 323ce7042e84af01555853c280760f1f
+	Disc ID: 00000000000000ff00020003XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000089EDBF00100000
+0089EDBE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 16364994560
+	CRC32: 02245c63
+	MD5: 33a01accaf50541691f945b838ae3538
+	SHA1: d577533dd0939d97079bdf90a64ff90eb9b60d2d
+
+Dumping Info:
+	Frontend Version: 3.5.0-9012ff85a9da4c277e95bc3fc03104a46ff4dc06
+	Dumping Program: Redumper (build: b655)
+	Date: 2025-10-22 17:31:16
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\BCUS-98229 --image-name=BCUS-98229
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
