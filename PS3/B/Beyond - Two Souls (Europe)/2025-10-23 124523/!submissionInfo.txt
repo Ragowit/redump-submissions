@@ -1,0 +1,85 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Beyond: Two Souls
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-50
+	Category: Games
+	Fully Matching ID: 31206
+	Region: Scandinavia
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BCES-01122
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): A0102185578-A911	4000
+Layer 0 (Outer) Mastering SID Code: IFPI LY25
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 4A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Inner) Mastering Code (laser branded/etched): A0102185578-B911	7000
+Layer 1 (Inner) Mastering SID Code: IFPI LY24
+Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 1A00
+Label Side Mould SID Code: IFPI 945L
+
+	Barcode: 7 11719 24326 7
+	Error Count: 0
+	Comments:
+
+<b>Logs Link</b>: [Please provide a link to your logs here]
+[T:ISN] BCES-01122
+Promo ID: 9292968
+
+	Contents:
+
+[T:P]
+PS3 Firmware 4.46
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Promo
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 38 32 38 30 34 34  30 31 36 30 30 00 30 30   3082804401600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 279f8e2ecd42cfbf757b221d140b9de4
+	Disc ID: 00000000000000ff0002000000000000
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+21010300000000000177E2DF00100000
+00CA73FE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+21010300000000000177E2DF01358C00
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 33929232384
+	CRC32: 1fccbb16
+	MD5: 05afc18ae35597453771664020d80197
+	SHA1: 2cc19181b5160af7ee7d111da9cc9431923082aa
+
+Dumping Info:
+	Frontend Version: 3.5.0-9012ff85a9da4c277e95bc3fc03104a46ff4dc06
+	Dumping Program: Redumper (build: b655)
+	Date: 2025-10-23 12:45:23
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\BCES-01122 --image-name=BCES-01122
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
