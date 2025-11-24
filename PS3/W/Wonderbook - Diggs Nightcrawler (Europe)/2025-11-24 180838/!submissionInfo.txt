@@ -1,0 +1,82 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Wonderbook: Diggs Nightcrawler
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 31797
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BCES-01725
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102120814-A511	3000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 946I
+
+	Barcode: 
+	Error Count: 0
+	Comments:
+
+<b>Logs Link</b>: [Please provide a link to your logs here]
+[T:ISN] BCES-01725
+Promo ID: 9222767
+
+	Contents:
+
+[T:P]
+PS3 Firmware 4.40
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Promo
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 31 30 32 34 31 35 33  38 34 34 30 30 00 30 30   2102415384400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 3154db73ac098ece98ddef133c49a7bc
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000044CCBF00100000
+0044CCBE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 7086669824
+	CRC32: 36d396d2
+	MD5: db84bf9a48b048b406cdccff7553aee4
+	SHA1: fe0eba181d3fd0e0feede67e8857e8f120366a16
+
+Dumping Info:
+	Frontend Version: 3.5.0-9012ff85a9da4c277e95bc3fc03104a46ff4dc06
+	Dumping Program: Redumper (build: b655)
+	Date: 2025-11-24 18:08:38
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\BCES-01725 --image-name=BCES-01725
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
