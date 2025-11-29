@@ -1,0 +1,81 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Nioh Collection
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: Nioh 2 Remastered: Complete Edition
+	System: Sony PlayStation 5
+	Media Type: BD-ROM-66
+	Category: Games
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: PPSA-02486
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): PPSA-02486/01.00	A0103296534-A911 7000
+Layer 0 (Outer) Mastering SID Code: IFPI LY28
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 2A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Inner) Mastering Code (laser branded/etched): PPSA-02486/01.00	A0103296534-B911 2000
+Layer 1 (Inner) Mastering SID Code: IFPI LY27
+Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 3A00
+Label Side Mould SID Code: IFPI 944L
+
+	Barcode: 7 11719 81659 1
+	Error Count: 0
+	Comments:
+
+<b>Logs Link</b>: [Please provide a link to your logs here]
+[T:ISN] PPSA-02486
+
+	Contents:
+
+<b>Games</b>:
+EP9000-PPSA02486_00-NIOH2CE000000000
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 30 31 32 30 38 30 37 35  33 30 31 33 32 00 30 30   0120807530132.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042445532
+290503000100000003922F1F00100000
+01089BFE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042445532
+290503000100000003922F1F02F76400
+03EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 54143811584
+	CRC32: 42691120
+	MD5: 8f15b806ba4400a471fd2e5ec7d40cdc
+	SHA1: f4ca8145cfd254beaf217e4231014f29bbc81a0b
+
+Dumping Info:
+	Frontend Version: 3.6.0-61f90a635ff56edcb9d643b21de55aa7795be907
+	Dumping Program: Redumper (build: b665)
+	Date: 2025-11-29 22:31:16
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS5\PPSA-02486 --image-name=PPSA-02486
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
