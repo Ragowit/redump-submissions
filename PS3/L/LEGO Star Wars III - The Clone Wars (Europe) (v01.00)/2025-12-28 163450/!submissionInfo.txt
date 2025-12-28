@@ -1,0 +1,77 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: LEGO Star Wars III: The Clone Wars
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 31650
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-00934#
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101735746-A511	1000
+Data Side Mastering SID Code: IFPI LY27
+Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94G2
+
+	Barcode: 0 023272 009731
+	Error Count: 0
+	Comments: [T:ISN] BLES-00934
+	Contents:
+
+[T:P]
+PS3 Firmware 3.56
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 32 30 36 31 32 31  30 35 31 30 30 00 30 30   1020612105100.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 7df3db19bea0428651c33ed819c72e34
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000051179F00100000
+0051179E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 8736538624
+	CRC32: 5f780966
+	MD5: 486beb7339cb79e64d7ea68d8dfd570a
+	SHA1: 8e723000057916c455cb63cbd62cfac5c0da3873
+
+Dumping Info:
+	Frontend Version: 3.6.0-61f90a635ff56edcb9d643b21de55aa7795be907
+	Dumping Program: Redumper (build: b665)
+	Date: 2025-12-28 16:34:50
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\BLES-00934 --image-name=BLES-00934
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
