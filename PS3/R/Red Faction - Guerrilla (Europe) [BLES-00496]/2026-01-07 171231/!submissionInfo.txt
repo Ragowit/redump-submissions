@@ -24,7 +24,7 @@ Data Side Mould SID Code:
 Data Side Additional Mould: 
 Label Side Mould SID Code: IFPI 943K
 
-	Barcode: 4 005209 112789
+	Barcode: 
 	Error Count: 0
 	Comments: [T:ISN] BLES-00496
 	Contents:
