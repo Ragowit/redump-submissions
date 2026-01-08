@@ -1,0 +1,84 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Resistance 3
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-50
+	Category: Games
+	Fully Matching ID: 47906
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BCES-01118/EXP
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): A0101819631-A911	4000
+Layer 0 (Outer) Mastering SID Code: IFPI LY26
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 5A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Inner) Mastering Code (laser branded/etched): A0101819631-B911	8000
+Layer 1 (Inner) Mastering SID Code: IFPI LY24
+Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 4A00
+Label Side Mould SID Code: IFPI 941L
+
+	Barcode: 7 11719 12919 6
+	Error Count: 0
+	Comments:
+
+[T:ISN] BCES-01118
+[T:VOL] RESISTANCE3
+
+	Contents:
+
+[T:P]
+PS3 Firmware 3.66
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 37 31 35 31 30 30  38 32 32 30 30 00 30 30   1071510082200.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: a185c7d27c5cd0f183026eaaaeaf186a
+	Disc ID: 00000000000000ff0002000000000000
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+210103000000000001C5D15F00100000
+00CA73FE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+210103000000000001C5D15F01358C00
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 44389040128
+	CRC32: aac579d9
+	MD5: 7b1240b1a3db18328e4fbea0de8fc882
+	SHA1: dc3b6cd0a3e8e2e7adf752f00455d2a7be0e8534
+
+Dumping Info:
+	Frontend Version: 3.6.0-61f90a635ff56edcb9d643b21de55aa7795be907
+	Dumping Program: Redumper (build: b665)
+	Date: 2026-01-08 09:45:10
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\RESISTANCE3 --image-name=RESISTANCE3
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
