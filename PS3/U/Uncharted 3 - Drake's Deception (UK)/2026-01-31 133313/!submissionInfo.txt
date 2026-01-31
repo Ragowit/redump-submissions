@@ -1,0 +1,80 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Uncharted 3: Drake's Deception
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-50
+	Category: Games
+	Fully Matching ID: 29177
+	Region: UK
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BCES-01176
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): A0101864063-A911	2000
+Layer 0 (Outer) Mastering SID Code: IFPI LY25
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Inner) Mastering Code (laser branded/etched): A0101864063-B911	1000
+Layer 1 (Inner) Mastering SID Code: IFPI LY25
+Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 4A00
+Label Side Mould SID Code: IFPI 945I
+
+	Barcode: 
+	Error Count: 0
+	Comments: [T:ISN] BCES-01176
+	Contents:
+
+[T:P]
+PS3 Firmware 3.72
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 31 30 30 32 30 35 31  39 31 37 30 30 00 30 30   1100205191700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: b77aebec92e70b54a14cb7df35e35c3c
+	Disc ID: 00000000000000ff0002000000000000
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+210103000000000001EDBDDF00100000
+00CA73FE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+210103000000000001EDBDDF01358C00
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 49747525632
+	CRC32: 85f7c2d5
+	MD5: ddce2678853ee15d840f04ae5a6309af
+	SHA1: 01a96edaca05c63cce21b747a5927ebacc034e5d
+
+Dumping Info:
+	Frontend Version: 3.6.0-61f90a635ff56edcb9d643b21de55aa7795be907
+	Dumping Program: Redumper (build: b665)
+	Date: 2026-01-31 13:33:13
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\BCES-01176 --image-name=BCES-01176
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
