@@ -13,7 +13,7 @@ Common Disc Info:
 	Fully Matching ID: 28731
 	Region: Scandinavia
 	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
-	Disc Serial: BLES-00104/P
+	Disc Serial: BCES-00104/P
 
 	Ringcode Information:
 
