@@ -1,0 +1,89 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Jurassic Park: Classic Games Collection
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 5
+	Media Type: BD-ROM-66
+	Category: Games
+	Region: USA
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: PPSA-17217
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): P5DL 037060	A0103464323-A911 3000
+Layer 0 (Outer) Mastering SID Code: IFPI LY23
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Inner) Mastering Code (laser branded/etched): P5DL 037060	A0103464323-B911 5000
+Layer 1 (Inner) Mastering SID Code: IFPI LY24
+Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 1A00
+Label Side Mould SID Code: IFPI 944K
+
+	Barcode: 8 10105 67814 7
+	Error Count: 0
+	Comments:
+
+<b>Logs Link</b>: [Please provide a link to your logs here]
+[T:ISN] PPSA-17217
+
+	Contents:
+
+<b>Games</b>:
+UP6893-PPSA17217_00-0023964748574810
+
+* Jurassic Park (Portable)
+* Jurassic Park (8-bit)
+* Jurassic Park (16-bit)
+* Jurassic Park (Genesis)
+* Jurassic Park: Rampage Edition (Genesis)
+* Jurassic Park 2: The Chaos Continues (Portable)
+* Jurassic Park 2: The Chaos Continues (16-bit)
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 33 31 30 31 38 31 35 35  37 32 38 32 39 00 30 30   3101815572829.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042445532
+29050300010000000328DDDF00100000
+01089BFE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042445532
+29050300010000000328DDDF02F76400
+03EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 40008351744
+	CRC32: 264086e8
+	MD5: 6687966355c1e12d158912933040a3fa
+	SHA1: 5227115803f814f41a43d987c8e5b988f76a09e5
+
+Dumping Info:
+	Frontend Version: 3.6.0-61f90a635ff56edcb9d643b21de55aa7795be907
+	Dumping Program: Redumper (build: b665)
+	Date: 2026-02-20 21:27:21
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS5\PPSA-17217 --image-name=PPSA-17217
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
