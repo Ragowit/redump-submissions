@@ -1,0 +1,81 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Need for Speed: The Run
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 29851
+	Region: Scandinavia
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-01298
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101874931-A511	3000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94G3
+
+	Barcode: 5 030945 104384 >
+	Error Count: 0
+	Comments:
+
+[T:ISN] BLES-01298
+[T:VOL] Need for Speed The Run
+
+	Contents:
+
+[T:P]
+PS3 Firmware 3.72
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Limited Edition
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 31 30 32 33 30 36 34  33 30 37 30 30 00 30 30   1102306430700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 1788effafb26ee77f3ec9a0e157c96a2
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000005C2B9F00100000
+005C2B9E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 10223419392
+	CRC32: 0c3d5b27
+	MD5: 29581d2f10d06e2df05b88945f0efcd7
+	SHA1: d247bbb6655769e4a31e0b6677dd204374240adc
+
+Dumping Info:
+	Frontend Version: 3.7.0-1e0b24e6f5d4e16bdaf200fa52057fe2e42b9232
+	Dumping Program: Redumper (build: b705)
+	Date: 2026-03-24 09:11:13
+	Parameters: disc --drive=D:\ --retries=20 "--image-path=ISO\PS3\Need for Speed The Run" "--image-name=Need for Speed The Run"
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
