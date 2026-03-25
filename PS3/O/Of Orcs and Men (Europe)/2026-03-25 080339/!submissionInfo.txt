@@ -1,0 +1,77 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Of Orcs and Men
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 54438
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-01586
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102015966-A511	2000
+Data Side Mastering SID Code: IFPI LY26
+Data Side Toolstamp or Mastering Code (engraved/stamped): 4A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94F6
+
+	Barcode: 3 512899 110106
+	Error Count: 0
+	Comments: [T:ISN] BLES-01586
+	Contents:
+
+[T:P]
+PS3 Firmware 4.21
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 30 38 32 38 30 39 31  39 32 35 30 30 00 30 30   2082809192500.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 98cb4a4a631022c127e367ef13eddda5
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000027049F00100000
+0027049E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 3089432576
+	CRC32: 8c8e9f42
+	MD5: a9ea53f0ea48fa0542b1ad1462f593f4
+	SHA1: 851f04130bfd723e2e9dea80fbe05664336e2b82
+
+Dumping Info:
+	Frontend Version: 3.7.0-1e0b24e6f5d4e16bdaf200fa52057fe2e42b9232
+	Dumping Program: Redumper (build: b705)
+	Date: 2026-03-25 08:03:39
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\BLES-01586 --image-name=BLES-01586
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
