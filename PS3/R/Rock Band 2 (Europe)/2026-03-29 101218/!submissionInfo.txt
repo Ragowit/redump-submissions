@@ -1,0 +1,81 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Rock Band 2
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 47579
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-00385
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101018084-A511	2000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A01
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 946J
+
+	Barcode: 5 030930 068653 >
+	Error Count: 0
+	Comments:
+
+[T:ISN] BLES-00385
+[T:VOL] ROCKBAND
+
+	Contents:
+
+[T:P]
+PS3 Firmware 2.42
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 39 30 34 30 33 30  30 30 30 30 30 00 30 30   8090403000000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 7e106cc2d72195cba5196b8196c730e6
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+110101000000000000352D1F00100000
+00352D1E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 4989714432
+	CRC32: 546a27f3
+	MD5: f4037e4fb61474e158079d39fdd9b648
+	SHA1: dfc23de40991588c7e282bddec648efbe215fd8b
+
+Dumping Info:
+	Frontend Version: 3.7.0-1e0b24e6f5d4e16bdaf200fa52057fe2e42b9232
+	Dumping Program: Redumper (build: b705)
+	Date: 2026-03-29 10:12:18
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\ROCKBAND --image-name=ROCKBAND
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
