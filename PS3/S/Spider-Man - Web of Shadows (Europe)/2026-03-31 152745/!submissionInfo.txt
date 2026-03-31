@@ -1,0 +1,81 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Spider-Man: Web of Shadows
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 57996
+	Region: Scandinavia
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-00392
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101002831-A511	10000
+Data Side Mastering SID Code: IFPI LY25
+Data Side Toolstamp or Mastering Code (engraved/stamped): 3A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 946K
+
+	Barcode: 5 030917 060564
+	Error Count: 0
+	Comments:
+
+[T:ISN] BLES-00392
+[T:VOL] SPIDERMAN-WOS
+
+	Contents:
+
+[T:P]
+PS3 Firmware 2.42
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 39 31 35 31 31 34  31 34 34 30 30 00 30 30   8091511414400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 58923c0d2d922bc41117dc8da8256f4d
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000004FC79F00100000
+004FC79E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 8560377856
+	CRC32: e1cc10ab
+	MD5: e1c5130285e71e4194ac1548902c5c51
+	SHA1: 51f208f184122d929609a9fbc8a268c38b23f2ee
+
+Dumping Info:
+	Frontend Version: 3.7.1-e0ddee93ef9317f55421a6dd083b7ef96db2f997
+	Dumping Program: Redumper (build: b706)
+	Date: 2026-03-31 15:27:45
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\SPIDERMAN-WOS --image-name=SPIDERMAN-WOS
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
