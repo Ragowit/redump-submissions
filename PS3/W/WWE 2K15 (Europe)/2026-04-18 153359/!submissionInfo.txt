@@ -1,0 +1,81 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: WWE 2K15
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 56595
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-02072
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0102393010-A511 1000
+Data Side Mastering SID Code: IFPI LY27
+Data Side Toolstamp or Mastering Code (engraved/stamped): 2A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94G5
+
+	Barcode: 5 026555 416368
+	Error Count: 0
+	Comments:
+
+[T:ISN] BLES-02072
+[T:VOL] WWE 2K15
+
+	Contents:
+
+[T:P]
+PS3 Firmware 4.65
+
+Version and Editions:
+	Version: 01.01
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 34 30 39 32 33 30 36 34  30 30 30 30 30 00 30 30   4092306400000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 28ec5e67e46187cb074c1d1d0cd61713
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000079885F00100000
+0079885E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 14164361216
+	CRC32: b6fd2ada
+	MD5: 269f0cfcfd014dfa7c835be179125fd5
+	SHA1: 45f1011fa1281c121a47fc270b47775024ffbbee
+
+Dumping Info:
+	Frontend Version: 3.7.1-e0ddee93ef9317f55421a6dd083b7ef96db2f997
+	Dumping Program: Redumper (build: b706)
+	Date: 2026-04-18 15:33:59
+	Parameters: disc --drive=D:\ --retries=20 "--image-path=ISO\PS3\WWE 2K15" "--image-name=WWE 2K15"
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
