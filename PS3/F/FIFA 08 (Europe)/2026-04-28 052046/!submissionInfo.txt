@@ -1,0 +1,81 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: FIFA 08
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 19106
+	Region: Germany
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLES-00133/P/GER
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0100859313-A511	2000
+Data Side Mastering SID Code: IFPI LY23
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1B06
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94F9
+
+	Barcode: 5 030932 068415 >
+	Error Count: 0
+	Comments:
+
+[T:ISN] BLES-00133
+[T:VOL] FIFA 08
+
+	Contents:
+
+[T:P]
+PS3 Firmware 1.90
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Platinum
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 37 30 39 30 31 31 38 32  35 34 32 30 30 00 30 30   7090118254200.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: b424d6698b2c398deb4b124a6cbbf9f5
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000049EB5F00100000
+0049EB5E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 7773814784
+	CRC32: ec585d24
+	MD5: 3e6a5e90fa09757522298c07dbbfb5ff
+	SHA1: 7dfb2e0c66609060e7c6c1c59cf3be27532a5a9f
+
+Dumping Info:
+	Frontend Version: 3.7.1-e0ddee93ef9317f55421a6dd083b7ef96db2f997
+	Dumping Program: Redumper (build: b706)
+	Date: 2026-04-28 05:20:46
+	Parameters: disc --drive=D:\ --retries=20 "--image-path=ISO\PS3\FIFA 08" "--image-name=FIFA 08"
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
