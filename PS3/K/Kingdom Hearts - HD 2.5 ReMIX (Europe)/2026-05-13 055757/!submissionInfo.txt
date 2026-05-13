@@ -13,7 +13,7 @@ Common Disc Info:
 	Fully Matching ID: 52885
 	Region: Europe
 	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
-	Disc Serial: BLES-2070/E
+	Disc Serial: BLES-02070/E
 
 	Ringcode Information:
 
