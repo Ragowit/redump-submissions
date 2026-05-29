@@ -1,0 +1,81 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: TNA Impact! Total Nonstop Action Wrestling
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 45299
+	Region: USA
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLUS-30174
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BPSS-024300A1	4
+Data Side Mastering SID Code: IFPI L321
+Data Side Toolstamp or Mastering Code (engraved/stamped): A04
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI QWXT
+
+	Barcode: 0 31719 26990 7
+	Error Count: 0
+	Comments:
+
+[T:ISN] BLUS-30174
+The spine is BLUS 30174-F
+
+	Contents:
+
+[T:P]
+PS3 Firmware 2.41
+
+Version and Editions:
+	Version: 01.02
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 38 31 34 32 32 32  34 30 36 30 30 00 30 30   8081422240600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 755a944a9c7c1b73b3578a4665d34d30
+	Disc ID: 00000000000000ff00020003XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000093439F00100000
+0093439E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 17617977344
+	CRC32: f6112b4f
+	MD5: 40a2162a269ee341ec2a0f3351f96fa3
+	SHA1: f7921911a0d67eefbe7ed4c32d91b3461a5950f5
+
+Dumping Info:
+	Frontend Version: 3.7.1-e0ddee93ef9317f55421a6dd083b7ef96db2f997
+	Dumping Program: Redumper (build: b706)
+	Date: 2026-05-29 07:06:38
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\BLUS-30174 --image-name=BLUS-30174
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
