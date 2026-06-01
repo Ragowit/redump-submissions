@@ -1,0 +1,81 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Watch_Dogs
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Fully Matching ID: 40508
+	Region: USA
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLUS-31176
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): BPSS-554160A1	1
+Data Side Mastering SID Code: IFPI L323
+Data Side Toolstamp or Mastering Code (engraved/stamped): A12
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI QWYB
+
+	Barcode: 0 08888 34804 7
+	Error Count: 0
+	Comments:
+
+[T:ISN] BLUS-31176
+[T:VOL] WDPS3
+
+	Contents:
+
+[T:P]
+PS3 Firmware 4.55
+
+Version and Editions:
+	Version: 01.00
+	Edition/Release: Original
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 34 30 34 32 36 31 32 31  33 33 36 30 30 00 30 30   4042612133600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: 9cdc4ca0a4627fe0ca71ad7259920df7
+	Disc ID: 00000000000000ff00020003XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000007DB2BF00100000
+007DB2BE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 14723448832
+	CRC32: fd878473
+	MD5: 106d7f2966ac1348d6048a52941e0915
+	SHA1: ee2ba75148636c16db2abfaa11a51285885ac2a6
+
+Dumping Info:
+	Frontend Version: 3.7.1-e0ddee93ef9317f55421a6dd083b7ef96db2f997
+	Dumping Program: Redumper (build: b706)
+	Date: 2026-06-01 06:24:04
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\WDPS3 --image-name=WDPS3
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
