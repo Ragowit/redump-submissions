@@ -1,0 +1,84 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: Metal Gear Solid 4: Guns of the Patriots
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-50
+	Category: Games
+	Fully Matching ID: 28637
+	Region: USA
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: BLUS-30109GH
+
+	Ringcode Information:
+
+Layer 0 (Outer) Mastering Code (laser branded/etched): BPDL 018520	A0103488780-A911 2000
+Layer 0 (Outer) Mastering SID Code: IFPI LY25
+Layer 0 (Outer) Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Layer 1 (Inner) Mastering Code (laser branded/etched): BPDL 018520	A0103488780-B911 4000
+Layer 1 (Inner) Mastering SID Code: IFPI LY24
+Layer 1 (Inner) Toolstamp or Mastering Code (engraved/stamped): 1A00
+Label Side Mould SID Code: IFPI 94F6
+
+	Barcode: 0 83717 20160 1
+	Error Count: 0
+	Comments:
+
+[T:ISN] BLUS-30109
+"BLUS 30109GHL" on spine.
+
+	Contents:
+
+[T:P]
+PS3 Firmware 4.11
+
+Version and Editions:
+	Version: 02.00
+	Edition/Release: Greatest Hits
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 30 36 30 34 31 32 31  38 32 30 30 30 00 30 30   2060412182000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: dcc6a9fe8f5600b24ebba68dd097856b
+	Disc ID: 00000000000000ff0002000000000000
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+2101030000000000016E961F00100000
+00CA73FE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+2101030000000000016E961F01358C00
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Size & Checksum:
+	Size: 32681033728
+	CRC32: 077dc66c
+	MD5: 8939edda23f1e49be2276d21a4be3b0e
+	SHA1: 7d61e36892e24345a50843bfe71bdd2a1812c3ce
+
+Dumping Info:
+	Frontend Version: 3.7.1-e0ddee93ef9317f55421a6dd083b7ef96db2f997
+	Dumping Program: Redumper (build: b706)
+	Date: 2026-06-07 09:10:28
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\BLUS-30109 --image-name=BLUS-30109
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
