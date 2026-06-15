@@ -1,0 +1,60 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: PlayStation Move: Media Assets
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 
+	System: IBM PC compatible
+	Media Type: DVD-ROM-5
+	Category: Multimedia
+	Fully Matching ID: 102851
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: 
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): DVD-R 8409B2
+Data Side Mastering SID Code: F0710
+Data Side Toolstamp or Mastering Code (engraved/stamped): 
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: B1CT A04A K831150054 A41
+
+	Barcode: 
+	Error Count: 0
+	Comments: [T:VOL] Move Disc
+	Contents: 
+
+Version and Editions:
+	Version: 
+	Edition/Release: PlayStation Move Press Kit
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 31 30 30 35 31 38 32  36 30 30 30 00 04 32 30   110051826000..20
+0340 : 31 31 31 30 30 35 31 38  32 36 30 30 30 00 04 30   1110051826000..0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+Size & Checksum:
+	Size: 4058447872
+	CRC32: e37e8f90
+	MD5: f7a43cdc2a74950adcc1be7f3c80f684
+	SHA1: a2018331f441802e164f36c2a48d508bffce4dba
+
+Dumping Info:
+	Frontend Version: 3.7.1-e0ddee93ef9317f55421a6dd083b7ef96db2f997
+	Dumping Program: Redumper (build: b706)
+	Date: 2026-06-15 07:43:55
+	Parameters: disc --drive=D:\ --retries=20 "--image-path=ISO\PC\Move Disc" "--image-name=Move Disc"
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: DVD-ROM
