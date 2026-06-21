@@ -1,0 +1,76 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Common Disc Info:
+	Title: After Hours Athletes
+	Foreign Title (Non-latin): 
+	Disc Number / Letter: 
+	Disc Title: 2011-07-16
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Preproduction
+	Fully Matching ID: 105981
+	Region: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+	Disc Serial: 
+
+	Ringcode Information:
+
+Data Side Mastering Code (laser branded/etched): A0101852756-A511	1000
+Data Side Mastering SID Code: IFPI LY24
+Data Side Toolstamp or Mastering Code (engraved/stamped): 1A00
+Data Side Mould SID Code: 
+Data Side Additional Mould: 
+Label Side Mould SID Code: IFPI 94F7
+
+	Barcode: 
+	Error Count: 0
+	Comments: [T:ISN] BCET-00026
+	Contents:
+
+[T:P]
+PS3 Firmware 3.70
+
+Version and Editions:
+	Version: 00.01
+	Edition/Release: PlayStation Move Press Kit
+
+Extras:
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 37 31 36 30 39 35  36 31 39 30 30 00 30 30   1071609561900.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Disc Key: eb98fb17dcaa145c8865010853e67b1d
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000024687F00100000
+0024687E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+Tracks and Write Offsets:
+	ClrMamePro Data (DAT):
+
+<rom name="ISO\PS3\BCET-00026\BCET-00026.iso" size="2739142656" crc="6ac632fa" md5="11724762366bc8ee0ef0334065da3e1c" sha1="ec1c67ae9ee33cc63c9f29cbb96b563674afb859" />
+
+Dumping Info:
+	Frontend Version: 3.7.1-0a87e1f18e0fa1cea01123fd49700df198a6b4a1
+	Dumping Program: Redumper (build: b706)
+	Date: 2026-06-21 20:38:51
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\BCET-00026 --image-name=BCET-00026
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
