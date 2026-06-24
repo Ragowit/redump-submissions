@@ -1,0 +1,81 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Preproduction
+	Title: Carnival Island (Beta) (2011-08-23)
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 103043
+
+Regions and Languages:
+	Regions: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: 
+	Editions: PlayStation Move Press Kit
+	Barcode: 
+	Version: 00.01
+	Error Count: 0
+	EDC: Yes/No
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Disc Key: 42315d00ed676578ea39c42df3e6b7c0
+
+Ring Codes:
+
+Data Side Mastering Code: A0101856158-A511	1000
+Data Side Mastering SID: IFPI LY26
+Data Side Toolstamps: 2A00
+Data Side Mould SIDs: 
+Data Side Additional Moulds: 
+Label Side Mould SIDs: IFPI 94F7
+
+Dump Metadata:
+	Comments: [T:ISN] BCET-00024
+	Contents:
+
+[T:P]
+PS3 Firmware 3.70
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 38 32 33 31 37 34  32 30 34 30 30 00 30 30   1082317420400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000002D24BF00100000
+002D24BE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat: <rom name="ISO\PS3\BCET-00024\BCET-00024.iso" size="3911581696" crc="163ba9bd" md5="a5d0aec24dce6890f8359b4f403abd00" sha1="290247eabf034bbdd055a153d2d8e42c8b0bc95f" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+	Submit As: Ragowit
+
+Dumping Info:
+	Frontend Version: 3.8.0-1ab3522264a24ffb4fcac59e61dc744ca4e78cc4
+	Dumping Program: Redumper (build: b726)
+	Date: 2026-06-24 20:58:01
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\BCET-00024 --image-name=BCET-00024
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM

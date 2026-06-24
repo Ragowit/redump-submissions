@@ -1,0 +1,80 @@
+=== 2026-06-24 22:50:45 ========================================================
+redumper (build: b726)
+
+arguments: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\BCET-00024 --image-name=BCET-00024
+warning: drive not found in the database
+
+drive information
+  path: D:\
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: ISO\PS3\BCET-00024
+image name: BCET-00024
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 1
+    channel length: 74.5nm
+    polarity: 1
+    BCA: no
+    PSN last { PSN: 2958527, hPSN: 0x2D24BF }
+    AUN { PSN: [1048576 .. 2958526], length: 1909952, hPSN: [0x100000 .. 0x2D24BE] }
+
+
+sectors count (READ_CAPACITY): 1909952
+sectors count (PHYSICAL): 1909952
+sectors count (ISO9660): 1909952                          
+sectors count (UDF): 1909952                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 436s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="ISO\PS3\BCET-00024\BCET-00024.iso" size="3911581696" crc="163ba9bd" md5="a5d0aec24dce6890f8359b4f403abd00" sha1="290247eabf034bbdd055a153d2d8e42c8b0bc95f" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [BCET-00024.iso]:
+  volume identifier: PS3VOLUME
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 38 32 33 31 37 34  32 30 34 30 30 00 30 30   1082317420400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: PS3VOLUME
+
+PS3 [BCET-00024.iso]:
+  version: 00.01
+  serial: BCET-00024
+  firmware version: 3.70
+
+*** END (time check: 0s)
