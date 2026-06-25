@@ -1,0 +1,85 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Title: DanceStar Party
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 29444
+
+Regions and Languages:
+	Regions: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: 
+	Editions: PlayStation Move Press Kit
+	Barcode: 
+	Version: 01.00
+	Error Count: 0
+	EDC: Yes/No
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Disc Key: 803a8ec5854f5f430925b97be7526977
+
+Ring Codes:
+
+Data Side Mastering Code: A0101841739-A511	4000
+Data Side Mastering SID: IFPI LY25
+Data Side Toolstamps: 3A00
+Data Side Mould SIDs: 
+Data Side Additional Moulds: 
+Label Side Mould SIDs: IFPI 948M
+
+Dump Metadata:
+	Comments:
+
+[T:ISN] BCES-01247
+[T:VOL] SINGSTAR
+
+	Contents:
+
+[T:P]
+PS3 Firmware 3.70
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 38 33 31 31 33 33  33 34 38 30 30 00 30 30   1083113334800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000009D4CFF00100000
+009D4CFE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat: <rom name="ISO\PS3\SINGSTAR\SINGSTAR.iso" size="18965069824" crc="ddce0c06" md5="2eaffbeac80690c57d20c13450475c53" sha1="490d087d0949113f2bdec3179c019a56a591c1c0" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+	Submit As: Ragowit
+
+Dumping Info:
+	Frontend Version: 3.8.0-1ab3522264a24ffb4fcac59e61dc744ca4e78cc4
+	Dumping Program: Redumper (build: b726)
+	Date: 2026-06-25 08:29:56
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\SINGSTAR --image-name=SINGSTAR
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
