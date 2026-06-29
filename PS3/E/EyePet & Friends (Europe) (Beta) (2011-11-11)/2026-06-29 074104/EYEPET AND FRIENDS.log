@@ -1,0 +1,80 @@
+=== 2026-06-29 09:27:38 ========================================================
+redumper (build: b726)
+
+arguments: disc --drive=D:\ --retries=20 "--image-path=ISO\PS3\EYEPET AND FRIENDS" "--image-name=EYEPET AND FRIENDS"
+warning: drive not found in the database
+
+drive information
+  path: D:\
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: "ISO\PS3\EYEPET AND FRIENDS"
+image name: "EYEPET AND FRIENDS"
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 1
+    channel length: 74.5nm
+    polarity: 1
+    BCA: no
+    PSN last { PSN: 5071999, hPSN: 0x4D647F }
+    AUN { PSN: [1048576 .. 5071998], length: 4023424, hPSN: [0x100000 .. 0x4D647E] }
+
+
+sectors count (READ_CAPACITY): 4023424
+sectors count (PHYSICAL): 4023424
+sectors count (ISO9660): 4023424                          
+sectors count (UDF): 4023424                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 806s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="ISO\PS3\EYEPET AND FRIENDS\EYEPET AND FRIENDS.iso" size="8239972352" crc="61f99180" md5="7e0a15f63f79858879b31496fc90858a" sha1="dad9b66001918b8f187997fca36a0ebc9267b9aa" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [EYEPET AND FRIENDS.iso]:
+  volume identifier: EYEPET_AND_FRIENDS
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 31 31 31 31 31 31 33  31 35 37 30 30 00 30 30   1111111315700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: EYEPET AND FRIE
+
+PS3 [EYEPET AND FRIENDS.iso]:
+  version: 00.01
+  serial: BCET-00027
+  firmware version: 3.72
+
+*** END (time check: 0s)

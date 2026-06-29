@@ -1,0 +1,89 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Preproduction
+	Title: EyePet & Friends
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 105979
+
+Regions and Languages:
+	Regions: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: 
+	Editions: PlayStation Move Press Kit
+	Barcode: 
+	Version: 00.01
+	Error Count: 0
+	EDC: Yes/No
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Disc Key: b23e5232adacb3e71fde289ae8f44aff
+
+Ring Codes:
+
+Layer 0 Mastering Code: A0101859933-A511	1000
+Layer 0 Mastering SID: IFPI LY24
+Layer 0 Toolstamps: 1A00
+Layer 0 Mould SIDs: 
+Layer 0 Additional Moulds: 
+Label Side Mastering Code: 
+Label Side Mastering SID: 
+Label Side Toolstamps: 
+Label Side Mould SIDs: IFPI 94F7
+Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments:
+
+[T:ISN] BCET-00027
+[T:VOL] EYEPET AND FRIENDS, EYEPET AND FRIE (Joliet)
+
+	Contents:
+
+[T:P]
+PS3 Firmware 3.72
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 31 31 31 31 31 31 33  31 35 37 30 30 00 30 30   1111111315700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000004D647F00100000
+004D647E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat: <rom name="ISO\PS3\EYEPET AND FRIENDS\EYEPET AND FRIENDS.iso" size="8239972352" crc="61f99180" md5="7e0a15f63f79858879b31496fc90858a" sha1="dad9b66001918b8f187997fca36a0ebc9267b9aa" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+	Submit As: 
+
+Dumping Info:
+	Frontend Version: 3.8.1-a0fbfb5cca1a2fc6b6f95b3ec6c7943215fed654
+	Dumping Program: Redumper (build: b726)
+	Date: 2026-06-29 07:41:04
+	Parameters: disc --drive=D:\ --retries=20 "--image-path=ISO\PS3\EYEPET AND FRIENDS" "--image-name=EYEPET AND FRIENDS"
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
