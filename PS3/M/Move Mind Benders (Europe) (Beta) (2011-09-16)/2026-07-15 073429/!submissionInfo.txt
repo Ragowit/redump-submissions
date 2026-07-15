@@ -1,0 +1,85 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Preproduction
+	Title: Move Mind Benders
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 105982
+
+Regions and Languages:
+	Regions: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: 
+	Editions: PlayStation Move Press Kit
+	Barcodes: 
+	Version: 00.01
+	Error Count: 0
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Disc Key: ce732f9d9e0f65310e4f91c5eff63496
+
+Ring Codes:
+
+Layer 0 Mastering Code: A0101852763-A511	1000
+Layer 0 Mastering SID: IFPI LY25
+Layer 0 Toolstamps: 2A00
+Layer 0 Mould SIDs: 
+Layer 0 Additional Moulds: 
+Label Side Mastering Code: 
+Label Side Mastering SID: 
+Label Side Toolstamps: 
+Label Side Mould SIDs: IFPI 94F7
+Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments: [T:ISN] BCET-00025
+	Contents:
+
+[T:P]
+PS3 Firmware 3.70
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 39 31 36 31 31 31  30 30 33 30 30 00 30 30   1091611100300.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000002A66DF00100000
+002A66DE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="ISO\PS3\BCET-00025\BCET-00025.iso" size="3543597056" crc="7526a11b" md5="8c61da0d9948540a11932d0b5ed12a68" sha1="5e15a3ce619540cb2185e18336dc19bbfb80d913" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.8.3-afd616d918fab093f2d25883fe1b1309ecacc947
+	Dumping Program: Redumper (build: b726)
+	Date: 2026-07-15 07:34:29
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\BCET-00025 --image-name=BCET-00025
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
