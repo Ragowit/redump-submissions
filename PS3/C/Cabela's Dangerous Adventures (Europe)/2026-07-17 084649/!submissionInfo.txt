@@ -1,0 +1,89 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Title: Cabela's Dangerous Adventures
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 55953
+
+Regions and Languages:
+	Regions: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: BLES-00402#
+	Editions: Original
+	Barcodes: 5 030917 060311
+	Version: 01.00
+	Error Count: 0
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Disc Key: d01daeb934dfab46536894d007ab4b1b
+
+Ring Codes:
+
+Layer 0 Mastering Code: A0101052054-A511	1000
+Layer 0 Mastering SID: IFPI LY24
+Layer 0 Toolstamps: 1A02
+Layer 0 Mould SIDs: 
+Layer 0 Additional Moulds: 
+Label Side Mastering Code: 
+Label Side Mastering SID: 
+Label Side Toolstamps: 
+Label Side Mould SIDs: IFPI 945J
+Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments:
+
+[T:ISN] BLES-00402
+[T:VOL] CDGA
+
+	Contents:
+
+[T:P]
+PS3 Firmware 2.52
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 31 32 31 31 31 36 31  31 32 31 30 30 00 30 30   8121116112100.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000023ED9F00100000
+0023ED9E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="ISO\PS3\CDGA\CDGA.iso" size="2674720768" crc="1aa9b561" md5="329dd2fb7f6ffc95479950106dd70b97" sha1="5b9fe2c9f8c11781020ef56137f1f7ec564476c0" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.8.3-afd616d918fab093f2d25883fe1b1309ecacc947
+	Dumping Program: Redumper (build: b726)
+	Date: 2026-07-17 08:46:49
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\CDGA --image-name=CDGA
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
