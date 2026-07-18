@@ -1,0 +1,89 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Title: Skate.
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 32416
+
+Regions and Languages:
+	Regions: Sweden
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: BLES-00124
+	Editions: Original
+	Barcodes: 5 030945 057574
+	Version: 01.00
+	Error Count: 0
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Disc Key: 599820b4dff914704c994bae87891fb1
+
+Ring Codes:
+
+Layer 0 Mastering Code: A0100858875-A511	1000
+Layer 0 Mastering SID: IFPI LY23
+Layer 0 Toolstamps: 1A03
+Layer 0 Mould SIDs: 
+Layer 0 Additional Moulds: 
+Label Side Mastering Code: 
+Label Side Mastering SID: 
+Label Side Toolstamps: 
+Label Side Mould SIDs: IFPI 94F4
+Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments:
+
+[T:ISN] BLES-00124
+[T:VOL] SKATE
+
+	Contents:
+
+[T:P]
+PS3 Firmware 1.90
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 37 30 38 32 34 31 34 30  33 32 36 30 30 00 30 30   7082414032600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+110101000000000000391CFF00100000
+00391CFE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="ISO\PS3\SKATE\SKATE.iso" size="5518131200" crc="cb86b75a" md5="6a9214ac2c10f42782064a31d6daf113" sha1="1201d576ff55551a3eacfdb76fcae3bd3846920e" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.8.3-afd616d918fab093f2d25883fe1b1309ecacc947
+	Dumping Program: Redumper (build: b726)
+	Date: 2026-07-18 10:58:49
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\SKATE --image-name=SKATE
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
