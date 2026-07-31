@@ -1,0 +1,80 @@
+=== 2026-07-31 10:39:43 ========================================================
+redumper (build: b737)
+
+arguments: disc --drive=D:\ --retries=20 --image-path=ISO\PS4\CUSA-11095 --image-name=CUSA-11095
+warning: drive not found in the database
+
+drive information
+  path: D:\
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: ISO\PS4\CUSA-11095
+image name: CUSA-11095
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 1
+    channel length: 74.5nm
+    polarity: 1
+    BCA: no
+    PSN last { PSN: 13267487, hPSN: 0xCA721F }
+    AUN { PSN: [1048576 .. 13267486], length: 12218912, hPSN: [0x100000 .. 0xCA721E] }
+
+
+sectors count (READ_CAPACITY): 12218912
+sectors count (PHYSICAL): 12218912
+sectors count (ISO9660): 12218912                          
+sectors count (UDF): 12218912                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 1871s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="CUSA-11095.iso" size="25024331776" crc="928e80b4" md5="3cea4beef8a50aab55d16980556c7963" sha1="d12a3bb19c10fb3309e2f64fc3b85a0ef443c607" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [CUSA-11095.iso]:
+  volume identifier: PS4VOLUME
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 38 30 38 32 31 30 35 34  34 35 37 30 30 00 30 30   8082105445700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: PS4VOLUME
+
+PS4 [CUSA-11095.iso]:
+  version: 01.00
+  serial: CUSA-11095
+  content ID(s): EP3678-CUSA11095_00-PP10000000000000
+
+*** END (time check: 0s)

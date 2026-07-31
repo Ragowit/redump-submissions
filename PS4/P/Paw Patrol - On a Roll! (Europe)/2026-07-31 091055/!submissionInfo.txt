@@ -1,0 +1,82 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 4
+	Media Type: BD-ROM-25
+	Category: Games
+	Title: Paw Patrol: On a Roll!
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+
+Regions and Languages:
+	Regions: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: CUSA-11095
+	Editions: Original
+	Barcodes: 5 060528 030823 >
+	Version: 01.00
+	Error Count: 0
+
+Ring Codes:
+
+Layer 0 Mastering Code: A0103079356-A511 3000
+Layer 0 Mastering SID: IFPI LY25
+Layer 0 Toolstamps: 1A00
+Layer 0 Mould SIDs: 
+Layer 0 Additional Moulds: 
+Label Side Mastering Code: 
+Label Side Mastering SID: 
+Label Side Toolstamps: 
+Label Side Mould SIDs: IFPI 944M
+Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments: [T:ISN] CUSA-11095
+	Contents:
+
+<b>Games</b>:
+EP3678-CUSA11095_00-PP10000000000000
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 38 30 38 32 31 30 35 34  34 35 37 30 30 00 30 30   8082105445700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+110101000100000000CA721F00100000
+00CA721E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="CUSA-11095.iso" size="25024331776" crc="928e80b4" md5="3cea4beef8a50aab55d16980556c7963" sha1="d12a3bb19c10fb3309e2f64fc3b85a0ef443c607" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.8.3-afd616d918fab093f2d25883fe1b1309ecacc947
+	Dumping Program: Redumper (build: b737)
+	Date: 2026-07-31 09:10:55
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS4\CUSA-11095 --image-name=CUSA-11095
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
