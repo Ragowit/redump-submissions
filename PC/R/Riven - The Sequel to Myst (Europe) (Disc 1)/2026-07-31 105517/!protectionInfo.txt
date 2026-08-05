@@ -1,0 +1,7 @@
+﻿E:\EReg\ereg32.exe: Executable-Based Online Registration 1.4.1,3
+E:\EReg\wintdist.exe: Microsoft CAB SFX v4.71.0030.1, Embedded MS-CAB Archive
+E:\J3Setup\IS_SETUP.EXE: Wise Installation Wizard Module
+E:\QTWSetup\Win32\custom\Qt32inst.exe: Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable
+E:\QTWSetup\Win32\express\Qt32inst.exe: Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable, Embedded Executable
+E:\Setup.exe: Wise Installation Wizard Module
+E:\setup\IS_SETUP.EXE: Wise Installation Wizard Module
