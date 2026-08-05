@@ -1,0 +1,80 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Games
+	Title: Riven: The Sequel to Myst
+	Foreign Title: 
+	Disc Number: 3
+	Disc Title: 
+	Fully Matching IDs: 10040
+
+Regions and Languages:
+	Regions: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: RBB7017CDE[3]
+	Editions: Original
+	Barcodes: 5 030079 170170
+	Version: 1.02
+	Error Count: 0
+
+Ring Codes:
+	Layer 0 Mastering Code: RBB7017CDE/3
+	Layer 0 Mastering SID: IFPI L011
+	Layer 0 Toolstamps: 
+	Layer 0 Mould SIDs: IFPI 0548
+	Layer 0 Additional Moulds: 
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: 
+	Label Side Additional Moulds: 
+	Write Offset: -22
+
+Dump Metadata:
+	Comments:
+
+[T:VOL] Riven3
+PC/Mac Hybrid
+
+	Contents: 
+	Protection: 
+	SBI: 
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 31 39 39                199
+0330 : 37 30 39 31 35 32 31 31  31 30 32 30 30 00 31 39   7091521110200.19
+0340 : 39 37 30 39 31 35 32 31  31 31 33 35 30 30 00 00   97091521113500..
+0350 : 00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0360 : 00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Cuesheet:
+
+FILE "Riven3.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+	Dat:
+
+<rom name="Riven3.bin" size="765928800" crc="6c826493" md5="427ca81308ea6092b9ff79d1ca725ff7" sha1="00e1cdf5145d9af593ac80d3d8e53077218d4d28" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.9.0-512561ed90b47ceb28806b25a9b01cbd3d015496
+	Dumping Program: Redumper (build: b737)
+	Date: 2026-08-05 19:56:05
+	Parameters: disc --drive=E:\ --retries=20 --image-path=ISO\PC\Riven3 --image-name=Riven3
+	Manufacturer: PLEXTOR
+	Model: DVDR PX-712A
+	Firmware: 1.09 (03/31/06 10:00)
+	Reported Disc Type: CD-ROM
+	C2 Error Count: 0
