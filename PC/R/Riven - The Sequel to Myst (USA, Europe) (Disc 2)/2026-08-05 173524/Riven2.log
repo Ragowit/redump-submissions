@@ -1,0 +1,110 @@
+=== 2026-08-05 19:27:29 ========================================================
+redumper (build: b737)
+
+arguments: disc --drive=E:\ --retries=20 --image-path=ISO\PC\Riven2 --image-name=Riven2
+
+drive information
+  path: E:\
+  inquiry: PLEXTOR - DVDR PX-712A (revision level: 1.09, vendor specific: 03/31/06 10:00)
+  configuration: PLEXTOR (read offset: +30, C2 shift: 295, pre-gap start: -75, read method: D8, sector order: DATA_C2_SUB)
+  profile: CD-ROM
+  read speed: <optimal>
+
+image path: ISO\PC\Riven2
+image name: Riven2
+
+*** DUMP (time check: 0s)
+
+disc TOC:
+  track 1 {  data }
+    index 01 { LBA:      0, MSF: 00:02:00 }
+  track A { audio }
+    index 01 { LBA: 323015, MSF: 71:48:65 }
+
+media errors: 
+  SCSI: 0 samples
+  C2: 0 samples
+  Q: 81
+
+*** DUMP::EXTRA (time check: 412s)
+
+PLEXTOR: reading lead-in (retry: 1)
+PLEXTOR: lead-in found (LBA: [-150 .. 15], sectors: 1586)
+PLEXTOR: reading lead-in (retry: 2)
+PLEXTOR: lead-in found (LBA: [-150 .. 15], sectors: 3946)
+PLEXTOR: storing lead-in (LBA: [-150 .. 15], verified: yes)
+
+*** PROTECTION (time check: 21s)
+
+protection: none
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+correcting P... done
+correcting Q... done
+
+final TOC:
+  track 1 {  data }
+    index 00 { LBA: [  -150 ..     -1], length:    150, MSF: 00:00:00-00:01:74 }
+    index 01 { LBA: [     0 .. 323014], length: 323015, MSF: 00:02:00-71:48:64 }
+  track A { audio }
+    index 01 { LBA: [323015 .. 323112], length:     98, MSF: 71:48:65-71:50:12 }
+
+analyzing... done (time: 23s)
+
+data disc detected, offset configuration: 
+  LBA:   -150 ->   -150, MSF: 00:00:00, count: 323165, offset: -22
+
+non-zero  TOC sample range: [   -88200 .. +189932820]
+non-zero data sample range: [      -22 .. +189757574]
+Universal Hash (SHA-1): e886daf32c95a977fa9105926dc504e07e658f91
+
+disc write offset: -22
+
+checking tracks
+done
+
+writing tracks
+done
+
+CUE [Riven2.cue]:
+FILE "Riven2.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+
+*** HASH (time check: 39s)
+
+dat:
+<rom name="Riven2.bin" size="759731280" crc="1cf7f045" md5="aa7dc42ada941fdef7aa339428838b52" sha1="39a1957fb92f753e4a74d380627f9719b859862f" />
+
+*** INFO (time check: 0s)
+
+CD-ROM [Riven2.bin]:
+  sectors count: 323015
+  mode1 sectors: 323015
+
+  REDUMP.INFO errors: 0
+
+ISO9660 [Riven2.bin]:
+  volume identifier: RIVEN2
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 31 39 39                199
+0330 : 37 30 39 31 35 31 39 31  38 31 38 30 30 00 31 39   7091519181800.19
+0340 : 39 37 30 39 31 35 31 39  31 38 33 32 30 30 00 00   97091519183200..
+0350 : 00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0360 : 00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: Riven2
+
+HFS [Riven2.bin]:
+  volume identifier: Riven2
+
+*** END (time check: 2s)
