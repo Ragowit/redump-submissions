@@ -1,0 +1,76 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Demos
+	Title: 117 av världens bästa spel
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 130417
+
+Regions and Languages:
+	Regions: Sweden
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: 
+	Editions: Original
+	Barcodes: 
+	Version: 
+	Error Count: 0
+
+Ring Codes:
+	Layer 0 Mastering Code: SENTINEL 61218 *	BCP hardware a/s 000103S	*1
+	Layer 0 Mastering SID: IFPI LA11
+	Layer 0 Toolstamps: 
+	Layer 0 Mould SIDs: ifpi 2W13
+	Layer 0 Additional Moulds: 
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: 
+	Label Side Additional Moulds: 
+	Write Offset: -22
+
+Dump Metadata:
+	Comments: [T:VOL] 117_SPILL
+	Contents: 
+	Protection: 
+	SBI: 
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 31 39 39                199
+0330 : 36 31 32 30 38 31 30 31  39 30 34 30 30 00 31 39   6120810190400.19
+0340 : 39 36 31 32 30 38 31 30  31 39 30 34 30 30 00 32   96120810190400.2
+0350 : 30 30 36 31 32 30 36 31  30 31 39 30 34 30 30 00   006120610190400.
+0360 : 31 39 39 36 31 32 30 38  31 30 31 39 30 34 30 30   1996120810190400
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Cuesheet:
+
+FILE "117_SPILL.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+	Dat:
+
+<rom name="117_SPILL.bin" size="241190544" crc="83f92439" md5="edbaf4717c3b6b289051cf34aa376343" sha1="726a81a0bc4f1c081d71febbca5f97ffd7af6c0f" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.9.0-512561ed90b47ceb28806b25a9b01cbd3d015496
+	Dumping Program: Redumper (build: b737)
+	Date: 2026-08-06 20:30:13
+	Parameters: disc --drive=E:\ --retries=20 --image-path=ISO\PC\117_SPILL --image-name=117_SPILL
+	Manufacturer: PLEXTOR
+	Model: DVDR PX-712A
+	Firmware: 1.09 (03/31/06 10:00)
+	Reported Disc Type: CD-ROM
+	C2 Error Count: 0

@@ -1,0 +1,108 @@
+=== 2026-08-06 22:27:28 ========================================================
+redumper (build: b737)
+
+arguments: disc --drive=E:\ --retries=20 --image-path=ISO\PC\117_SPILL --image-name=117_SPILL
+
+drive information
+  path: E:\
+  inquiry: PLEXTOR - DVDR PX-712A (revision level: 1.09, vendor specific: 03/31/06 10:00)
+  configuration: PLEXTOR (read offset: +30, C2 shift: 295, pre-gap start: -75, read method: D8, sector order: DATA_C2_SUB)
+  profile: CD-ROM
+  read speed: <optimal>
+
+image path: ISO\PC\117_SPILL
+image name: 117_SPILL
+
+*** DUMP (time check: 0s)
+
+disc TOC:
+  track 1 {  data }
+    index 01 { LBA:      0, MSF: 00:02:00 }
+  track A {  data }
+    index 01 { LBA: 102547, MSF: 22:49:22 }
+
+media errors: 
+  SCSI: 0 samples
+  C2: 0 samples
+  Q: 30
+
+*** DUMP::EXTRA (time check: 132s)
+
+PLEXTOR: reading lead-in (retry: 1)
+PLEXTOR: lead-in found (LBA: [-150 .. 15], sectors: 1385)
+PLEXTOR: reading lead-in (retry: 2)
+PLEXTOR: lead-in found (LBA: [-150 .. 15], sectors: 2418)
+PLEXTOR: storing lead-in (LBA: [-150 .. 15], verified: yes)
+
+*** PROTECTION (time check: 15s)
+
+protection: none
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+correcting P... done
+correcting Q... done
+
+final TOC:
+  track 1 {  data }
+    index 00 { LBA: [  -150 ..     -1], length:    150, MSF: 00:00:00-00:01:74 }
+    index 01 { LBA: [     0 .. 102546], length: 102547, MSF: 00:02:00-22:49:21 }
+  track A {  data }
+    index 01 { LBA: [102547 .. 102644], length:     98, MSF: 22:49:22-22:50:44 }
+
+analyzing... done (time: 10s)
+
+data disc detected, offset configuration: 
+  LBA:  -1369 -> 458115, MSF: A1:50:15, count:   1219, offset: -270176614
+  LBA:   -150 ->   -150, MSF: 00:00:00, count: 102795, offset: -22
+
+non-zero  TOC sample range: [   -88200 .. +60297636]
+non-zero data sample range: [    +9386 .. +60355230]
+Universal Hash (SHA-1): b97d95fea823dc994a4cbef91308c149b82f51ff
+
+disc write offset: -22
+
+checking tracks
+done
+
+writing tracks
+done
+
+CUE [117_SPILL.cue]:
+FILE "117_SPILL.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+
+*** HASH (time check: 15s)
+
+dat:
+<rom name="117_SPILL.bin" size="241190544" crc="83f92439" md5="edbaf4717c3b6b289051cf34aa376343" sha1="726a81a0bc4f1c081d71febbca5f97ffd7af6c0f" />
+
+*** INFO (time check: 0s)
+
+CD-ROM [117_SPILL.bin]:
+  sectors count: 102547
+  mode1 sectors: 102547
+
+  REDUMP.INFO errors: 0
+
+ISO9660 [117_SPILL.bin]:
+  volume identifier: 117_SPILL
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 31 39 39                199
+0330 : 36 31 32 30 38 31 30 31  39 30 34 30 30 00 31 39   6120810190400.19
+0340 : 39 36 31 32 30 38 31 30  31 39 30 34 30 30 00 32   96120810190400.2
+0350 : 30 30 36 31 32 30 36 31  30 31 39 30 34 30 30 00   006120610190400.
+0360 : 31 39 39 36 31 32 30 38  31 30 31 39 30 34 30 30   1996120810190400
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: 117_SPILL
+
+*** END (time check: 0s)
