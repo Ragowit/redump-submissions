@@ -1,0 +1,196 @@
+=== 2026-08-06 10:57:05 ========================================================
+redumper (build: b737)
+
+arguments: disc --drive=E:\ --retries=20 --image-path=ISO\PC\GrandTheftAuto --image-name=GrandTheftAuto
+
+drive information
+  path: E:\
+  inquiry: PLEXTOR - DVDR PX-712A (revision level: 1.09, vendor specific: 03/31/06 10:00)
+  configuration: PLEXTOR (read offset: +30, C2 shift: 295, pre-gap start: -75, read method: D8, sector order: DATA_C2_SUB)
+  profile: CD-ROM
+  read speed: <optimal>
+
+image path: ISO\PC\GrandTheftAuto
+image name: GrandTheftAuto
+
+*** DUMP (time check: 0s)
+
+disc TOC:
+  track 01 {  data }
+    index 01 { LBA:      0, MSF: 00:02:00 }
+  track 02 { audio }
+    index 01 { LBA:  42284, MSF: 09:25:59 }
+  track 03 { audio }
+    index 01 { LBA:  52711, MSF: 11:44:61 }
+  track 04 { audio }
+    index 01 { LBA:  86238, MSF: 19:11:63 }
+  track 05 { audio }
+    index 01 { LBA: 129965, MSF: 28:54:65 }
+  track 06 { audio }
+    index 01 { LBA: 173392, MSF: 38:33:67 }
+  track 07 { audio }
+    index 01 { LBA: 207369, MSF: 46:06:69 }
+  track 08 { audio }
+    index 01 { LBA: 256946, MSF: 57:07:71 }
+  track 09 { audio }
+    index 01 { LBA: 271423, MSF: 60:20:73 }
+  track 10 { audio }
+    index 01 { LBA: 310950, MSF: 69:08:00 }
+  track 11 { audio }
+    index 01 { LBA: 315677, MSF: 70:11:02 }
+  track AA { audio }
+    index 01 { LBA: 321079, MSF: 71:23:04 }
+
+media errors: 
+  SCSI: 0 samples
+  C2: 19160 samples
+  Q: 353
+
+*** DUMP::EXTRA (time check: 470s)
+
+PLEXTOR: reading lead-in (retry: 1)
+PLEXTOR: lead-in found (LBA: [-150 .. 15], sectors: 1710)
+PLEXTOR: reading lead-in (retry: 2)
+PLEXTOR: lead-in found (LBA: [-150 .. 15], sectors: 2785)
+PLEXTOR: storing lead-in (LBA: [-150 .. 15], verified: yes)
+
+*** PROTECTION (time check: 17s)
+
+protection: none
+
+*** REFINE (time check: 0s)
+
+disc write offset: +0
+
+correction statistics: 
+  SCSI: 0 samples
+  C2: 19160 samples
+  Q: 28 sectors
+
+*** DVDKEY (time check: 42s)
+
+
+*** SPLIT (time check: 0s)
+
+
+correcting P... done
+correcting Q... done
+
+final TOC:
+  track 01 {  data }
+    index 00 { LBA: [  -150 ..     -1], length:    150, MSF: 00:00:00-00:01:74 }
+    index 01 { LBA: [     0 ..  42133], length:  42134, MSF: 00:02:00-09:23:58 }
+  track 02 { audio }
+    index 00 { LBA: [ 42134 ..  42283], length:    150, MSF: 09:23:59-09:25:58 }
+    index 01 { LBA: [ 42284 ..  52710], length:  10427, MSF: 09:25:59-11:44:60 }
+  track 03 { audio }
+    index 01 { LBA: [ 52711 ..  86237], length:  33527, MSF: 11:44:61-19:11:62 }
+  track 04 { audio }
+    index 01 { LBA: [ 86238 .. 129964], length:  43727, MSF: 19:11:63-28:54:64 }
+  track 05 { audio }
+    index 01 { LBA: [129965 .. 173391], length:  43427, MSF: 28:54:65-38:33:66 }
+  track 06 { audio }
+    index 01 { LBA: [173392 .. 207368], length:  33977, MSF: 38:33:67-46:06:68 }
+  track 07 { audio }
+    index 01 { LBA: [207369 .. 256945], length:  49577, MSF: 46:06:69-57:07:70 }
+  track 08 { audio }
+    index 01 { LBA: [256946 .. 271422], length:  14477, MSF: 57:07:71-60:20:72 }
+  track 09 { audio }
+    index 01 { LBA: [271423 .. 310949], length:  39527, MSF: 60:20:73-69:07:74 }
+  track 10 { audio }
+    index 01 { LBA: [310950 .. 315676], length:   4727, MSF: 69:08:00-70:11:01 }
+  track 11 { audio }
+    index 01 { LBA: [315677 .. 321078], length:   5402, MSF: 70:11:02-71:23:03 }
+  track AA { audio }
+    index 01 { LBA: [321079 .. 321176], length:     98, MSF: 71:23:04-71:24:26 }
+
+analyzing... done (time: 25s)
+
+data disc detected, offset configuration: 
+  LBA:  -1694 -> 466389, MSF: A3:40:39, count:   1544, offset: -275232804
+  LBA:   -150 ->   -150, MSF: 00:00:00, count:  42284, offset: +0
+
+non-zero  TOC sample range: [   -88200 .. +188794452]
+non-zero data sample range: [    +9408 .. +188755021]
+Universal Hash (SHA-1): c2b55526d6b965af7ac35f83f4d54f6c78f4e30e
+
+disc write offset: +0
+
+checking tracks
+done
+
+writing tracks
+done
+
+CUE [GrandTheftAuto.cue]:
+CATALOG 0000000000000
+FILE "GrandTheftAuto (Track 01).bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+FILE "GrandTheftAuto (Track 02).bin" BINARY
+  TRACK 02 AUDIO
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "GrandTheftAuto (Track 03).bin" BINARY
+  TRACK 03 AUDIO
+    INDEX 01 00:00:00
+FILE "GrandTheftAuto (Track 04).bin" BINARY
+  TRACK 04 AUDIO
+    INDEX 01 00:00:00
+FILE "GrandTheftAuto (Track 05).bin" BINARY
+  TRACK 05 AUDIO
+    INDEX 01 00:00:00
+FILE "GrandTheftAuto (Track 06).bin" BINARY
+  TRACK 06 AUDIO
+    INDEX 01 00:00:00
+FILE "GrandTheftAuto (Track 07).bin" BINARY
+  TRACK 07 AUDIO
+    INDEX 01 00:00:00
+FILE "GrandTheftAuto (Track 08).bin" BINARY
+  TRACK 08 AUDIO
+    INDEX 01 00:00:00
+FILE "GrandTheftAuto (Track 09).bin" BINARY
+  TRACK 09 AUDIO
+    INDEX 01 00:00:00
+FILE "GrandTheftAuto (Track 10).bin" BINARY
+  TRACK 10 AUDIO
+    INDEX 01 00:00:00
+FILE "GrandTheftAuto (Track 11).bin" BINARY
+  TRACK 11 AUDIO
+    INDEX 01 00:00:00
+
+
+*** HASH (time check: 41s)
+
+dat:
+<rom name="GrandTheftAuto (Track 01).bin" size="99099168" crc="69c082af" md5="35dea81046e8eac3053374cd637c0b2b" sha1="e0232c49cb60bbfc634bb284bad002e0c8fdf962" />
+<rom name="GrandTheftAuto (Track 02).bin" size="24877104" crc="c16a943c" md5="a613cf53019abe64191f573eb88461aa" sha1="bf36a8ad3f891d96db946f5d7977f773d85528c2" />
+<rom name="GrandTheftAuto (Track 03).bin" size="78855504" crc="d3ab8045" md5="3fc3d6ce0d3a66281db6ceb357be85f9" sha1="17e54144539b3abc6bb63b63a4d38e0a62e6bf90" />
+<rom name="GrandTheftAuto (Track 04).bin" size="102845904" crc="7add9323" md5="79a40f438a2fc7b77f00d92393f06e7a" sha1="767877e5829d55e11e9bfa1b5923617d1ac4f9b7" />
+<rom name="GrandTheftAuto (Track 05).bin" size="102140304" crc="c9065f44" md5="8f6161fc583ebfe8a19e553a779fae34" sha1="65cc07d69c61a907ba86c665230a388253aa2de3" />
+<rom name="GrandTheftAuto (Track 06).bin" size="79913904" crc="bd0e01b5" md5="2af7b745dc511b74888f750672a77497" sha1="6ba9820162f0b4f5f14010974e99f387797e6457" />
+<rom name="GrandTheftAuto (Track 07).bin" size="116605104" crc="eb920ff0" md5="9c1c054de73175122be2a80d2c3681fb" sha1="b430472b2a32eb83134f738f328ec857be07699e" />
+<rom name="GrandTheftAuto (Track 08).bin" size="34049904" crc="5774f97c" md5="90b8ca51e511d497e6b3cc395d462685" sha1="689b8f80eb1254650f47d7d7a9d9bc508f4fec3f" />
+<rom name="GrandTheftAuto (Track 09).bin" size="92967504" crc="05af9163" md5="3b6011164bc1ded182ae7c7e1b0f4570" sha1="d837b848c9b8a8b977cd47d8f9d3f4a7e6275c63" />
+<rom name="GrandTheftAuto (Track 10).bin" size="11117904" crc="9555f6e4" md5="1dca6e1a232194e0df02f0a491cf94b7" sha1="8f8922156a7df9a490dbcbc41bc14937a12adceb" />
+<rom name="GrandTheftAuto (Track 11).bin" size="12705504" crc="fc4e4ef7" md5="769b737abd39babb1d98718c0cfccb1f" sha1="f3a51b183bf66c0f2c897863f786fc60a2b76675" />
+
+*** INFO (time check: 0s)
+
+CD-ROM [GrandTheftAuto (Track 01).bin]:
+  sectors count: 42134
+  mode1 sectors: 42134
+
+  REDUMP.INFO errors: 0
+
+ISO9660 [GrandTheftAuto (Track 01).bin]:
+  volume identifier: GrandTheftAuto
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 31 39 39                199
+0330 : 37 31 30 31 36 31 39 32  33 34 31 00 00 04 31 39   71016192341...19
+0340 : 39 37 31 30 31 36 31 39  32 33 34 31 00 00 04 32   971016192341...2
+0350 : 39 39 37 31 30 31 36 31  39 32 33 34 30 00 00 04   9971016192340...
+0360 : 31 39 39 37 31 30 31 36  31 39 32 33 34 30 00 00   19971016192340..
+0370 : 04 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+*** END (time check: 0s)

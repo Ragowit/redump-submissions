@@ -1,0 +1,4 @@
+﻿E:\3DFX\GRTVGR.EXE: Embedded PKZIP Archive, WinZip SFX Software Installation 2.1 (16-bit), Wise Installation Wizard Module
+E:\SETUP\DIRECTX\DRVSNEC\AUDIO\BIN\NECJSTK.DRV: Wise Installation Wizard Module
+E:\SETUP\DIRECTX\DRVSNEC\DISPLAY\BIN\TRIDENTN.DRV: Wise Installation Wizard Module
+E:\SETUP\SETUP.EXE: Wise Installation Wizard Module
