@@ -1,0 +1,95 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Multimedia
+	Title: Kul på CD-ROM 1
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+
+Regions and Languages:
+	Regions: Sweden
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: 
+	Editions: Original
+	Barcodes: 
+	Version: 
+	Error Count: 0
+
+Ring Codes:
+	Layer 0 Mastering Code: LOGOS 9901IML2877 KAVLI	9011914
+	Layer 0 Mastering SID: IFPI L055
+	Layer 0 Toolstamps: 
+	Layer 0 Mould SIDs: ifpi 8R04
+	Layer 0 Additional Moulds: 
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: 
+	Label Side Additional Moulds: 
+	Write Offset: -22
+
+Dump Metadata:
+	Comments:
+
+[T:VOL] KAVLI_1
+Promotional CD-ROM released in Sweden as part of a joint marketing campaign between food manufacturer Kavli (promoting their "Lyckans Ost" spreadable cheese) and software publisher Levande Böcker (alongside IQ Media / Spela iQ nu!).
+Features the full version of the interactive storybook "Casper" (Casper det snälla spöket) published by Levande Böcker, as well as playable demos (e.g. Backpacker, Teazle), software tools, recipes, and internet utilities. 
+Distributed via mail-in offer or store promotions in Sweden around 1998–1999.
+
+	Contents:
+
+<b>Applications</b>: DirectX 6
+QuickTime
+WinZip
+<b>Games</b>:
+Casper
+IQ - InternetQuiz
+Lyckans Ost
+Polis
+[T:PD]
+BackPacker 2 (Win 3)
+BackPacker 2 (Win 95)
+Teazle
+
+	Protection: 
+	SBI: 
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 31 39 39                199
+0330 : 39 30 31 31 33 31 35 33  31 33 34 30 30 00 31 39   9011315313400.19
+0340 : 39 39 30 31 31 33 31 35  33 31 33 34 30 30 00 30   99011315313400.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Cuesheet:
+
+FILE "KAVLI_1.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+	Dat:
+
+<rom name="KAVLI_1.bin" size="658821072" crc="89747c62" md5="c81fa090d9560b64dde2a80c5392a113" sha1="64443237481f89d7fd160f69199bfad6def542a8" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.9.0-512561ed90b47ceb28806b25a9b01cbd3d015496
+	Dumping Program: Redumper (build: b737)
+	Date: 2026-08-07 15:21:09
+	Parameters: disc --drive=E:\ --retries=20 --image-path=ISO\PC\KAVLI_1 --image-name=KAVLI_1
+	Manufacturer: PLEXTOR
+	Model: DVDR PX-712A
+	Firmware: 1.09 (03/31/06 10:00)
+	Reported Disc Type: CD-ROM
+	C2 Error Count: 0

@@ -1,0 +1,107 @@
+=== 2026-08-07 17:14:00 ========================================================
+redumper (build: b737)
+
+arguments: disc --drive=E:\ --retries=20 --image-path=ISO\PC\KAVLI_1 --image-name=KAVLI_1
+
+drive information
+  path: E:\
+  inquiry: PLEXTOR - DVDR PX-712A (revision level: 1.09, vendor specific: 03/31/06 10:00)
+  configuration: PLEXTOR (read offset: +30, C2 shift: 295, pre-gap start: -75, read method: D8, sector order: DATA_C2_SUB)
+  profile: CD-ROM
+  read speed: <optimal>
+
+image path: ISO\PC\KAVLI_1
+image name: KAVLI_1
+
+*** DUMP (time check: 0s)
+
+disc TOC:
+  track 1 {  data }
+    index 01 { LBA:      0, MSF: 00:02:00 }
+  track A {  data }
+    index 01 { LBA: 280111, MSF: 62:16:61 }
+
+media errors: 
+  SCSI: 0 samples
+  C2: 0 samples
+  Q: 235
+
+*** DUMP::EXTRA (time check: 367s)
+
+PLEXTOR: reading lead-in (retry: 1)
+PLEXTOR: lead-in found (LBA: [-150 .. 15], sectors: 2183)
+PLEXTOR: reading lead-in (retry: 2)
+PLEXTOR: lead-in found (LBA: [-150 .. 15], sectors: 2403)
+PLEXTOR: storing lead-in (LBA: [-150 .. 15], verified: yes)
+
+*** PROTECTION (time check: 24s)
+
+protection: none
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+correcting P... done
+correcting Q... done
+
+final TOC:
+  track 1 {  data }
+    index 00 { LBA: [  -150 ..     -1], length:    150, MSF: 00:00:00-00:01:74 }
+    index 01 { LBA: [     0 .. 280110], length: 280111, MSF: 00:02:00-62:16:60 }
+  track A {  data }
+    index 01 { LBA: [280111 .. 280208], length:     98, MSF: 62:16:61-62:18:08 }
+
+analyzing... done (time: 20s)
+
+data disc detected, offset configuration: 
+  LBA:  -2167 -> 457728, MSF: A1:45:03, count:   2017, offset: -270418282
+  LBA:   -150 ->   -150, MSF: 00:00:00, count: 280359, offset: -22
+
+non-zero  TOC sample range: [   -88200 .. +164705268]
+non-zero data sample range: [    +9386 .. +164762862]
+Universal Hash (SHA-1): 57c01f0d82aba2d429dfff3e3aac8626a74f9755
+
+disc write offset: -22
+
+checking tracks
+done
+
+writing tracks
+done
+
+CUE [KAVLI_1.cue]:
+FILE "KAVLI_1.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+
+*** HASH (time check: 34s)
+
+dat:
+<rom name="KAVLI_1.bin" size="658821072" crc="89747c62" md5="c81fa090d9560b64dde2a80c5392a113" sha1="64443237481f89d7fd160f69199bfad6def542a8" />
+
+*** INFO (time check: 0s)
+
+CD-ROM [KAVLI_1.bin]:
+  sectors count: 280111
+  mode1 sectors: 280111
+
+  REDUMP.INFO errors: 0
+
+ISO9660 [KAVLI_1.bin]:
+  volume identifier: KAVLI_1
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 31 39 39                199
+0330 : 39 30 31 31 33 31 35 33  31 33 34 30 30 00 31 39   9011315313400.19
+0340 : 39 39 30 31 31 33 31 35  33 31 33 34 30 30 00 30   99011315313400.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+*** END (time check: 2s)
