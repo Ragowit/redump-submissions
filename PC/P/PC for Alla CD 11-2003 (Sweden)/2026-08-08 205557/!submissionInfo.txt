@@ -1,0 +1,136 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: IBM PC compatible
+	Media Type: CD-ROM
+	Category: Coverdiscs
+	Title: PC för Alla CD 11-2003
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+
+Regions and Languages:
+	Regions: Sweden
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: 
+	Editions: Original
+	Barcodes: 
+	Version: 
+	Error Count: 0
+
+Ring Codes:
+	Layer 0 Mastering Code: OB1426	PC FOR ALLA 11/03
+	Layer 0 Mastering SID: IFPI LD02
+	Layer 0 Toolstamps: 
+	Layer 0 Mould SIDs: IFPI 5J26
+	Layer 0 Additional Moulds: 
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: 
+	Label Side Additional Moulds: 
+	Write Offset: 0
+
+Dump Metadata:
+	Comments: [T:VOL] PFA1103
+	Contents:
+
+<b>Applications</b>: Full Programs
+Allwebmenus
+PFS Manager
+Photoplus 6
+Showshifter
+Freeware
+3d Mark 2001SE
+Acrobat Reader 6
+Ad-aware 6.0
+Audacity 1.0
+Avant Browser 8.02.107
+Bigfix
+Directx 9b
+Divx 5.1 Codec
+DVD Profiler 2.0
+Eudora 6
+Fresh Download 6.20
+FTP Explorer
+ICQ Pro 2003a
+Media Player 9
+Microsoft Internet Explorer 6 SP1
+MSN Messenger 6.0
+Netscapre 7.0
+Opera 7.11
+PDF 995 6.36
+Realone Player
+Regclean 4.1a
+Tweak UI 1.33
+Winamp 3.00
+Xnview 1.61
+Zipgenius 5.2
+Zonealarm 3.7.211
+Shareware
+AI Roboform 5.5
+Historykill 2003
+Powerstrip 3.46
+Winrar 3.20
+Winzip 8.1
+Trialware
+F-Secure Internet Security 2003
+Demos
+Solo Explorer
+Supertips
+[T:PD]
+Demos
+Halo: Combar Evolved
+Ludde och hans vänner
+Shareware
+1939: Battlefleet 1.75
+Kalles klassiker
+Mahjong Variations 1.2
+Matematikön
+Miljardär
+Retro Power Pack 1.5
+Smugglers 2 v1.5t
+Superball Arcade Mania 2.3.2
+[T:X]
+Beethoven - Piano Sonata No 14 in C Moonlight 1 Adagio sostenuto (Mp3)
+200 free clipart images (winter theme)
+
+	Protection: 
+	SBI: 
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 33 31 31 31 31 31 30 33  30 30 30 30 30 04 32 30   3111110300000.20
+0340 : 30 33 31 31 31 31 31 30  33 30 30 30 30 30 04 30   03111110300000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Cuesheet:
+
+FILE "PFA1103.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+	Dat:
+
+<rom name="PFA1103.bin" size="704125296" crc="4a3cac11" md5="6a58e3cb2e672dbb18560dada16cf4cc" sha1="c0dc5c5e3a59e47619dcd145d50391df192948aa" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.9.0-512561ed90b47ceb28806b25a9b01cbd3d015496
+	Dumping Program: Redumper (build: b737)
+	Date: 2026-08-08 20:55:57
+	Parameters: disc --drive=E:\ --retries=20 --image-path=ISO\PC\PFA1103 --image-name=PFA1103
+	Manufacturer: PLEXTOR
+	Model: DVDR PX-712A
+	Firmware: 1.09 (03/31/06 10:00)
+	Reported Disc Type: CD-ROM
+	C2 Error Count: 0

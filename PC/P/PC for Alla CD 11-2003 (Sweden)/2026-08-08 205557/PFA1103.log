@@ -1,0 +1,108 @@
+=== 2026-08-08 22:48:32 ========================================================
+redumper (build: b737)
+
+arguments: disc --drive=E:\ --retries=20 --image-path=ISO\PC\PFA1103 --image-name=PFA1103
+
+drive information
+  path: E:\
+  inquiry: PLEXTOR - DVDR PX-712A (revision level: 1.09, vendor specific: 03/31/06 10:00)
+  configuration: PLEXTOR (read offset: +30, C2 shift: 295, pre-gap start: -75, read method: D8, sector order: DATA_C2_SUB)
+  profile: CD-ROM
+  read speed: <optimal>
+
+image path: ISO\PC\PFA1103
+image name: PFA1103
+
+*** DUMP (time check: 0s)
+
+disc TOC:
+  track 1 {  data }
+    index 01 { LBA:      0, MSF: 00:02:00 }
+  track A {  data }
+    index 01 { LBA: 299373, MSF: 66:33:48 }
+
+media errors: 
+  SCSI: 0 samples
+  C2: 0 samples
+  Q: 548
+
+*** DUMP::EXTRA (time check: 389s)
+
+PLEXTOR: reading lead-in (retry: 1)
+PLEXTOR: lead-in found (LBA: [-150 .. 15], sectors: 1412)
+PLEXTOR: reading lead-in (retry: 2)
+PLEXTOR: lead-in found (LBA: [-150 .. 15], sectors: 2418)
+PLEXTOR: storing lead-in (LBA: [-150 .. 15], verified: yes)
+
+*** PROTECTION (time check: 15s)
+
+protection: none
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+correcting P... done
+correcting Q... done
+
+final TOC:
+  track 1 {  data }
+    index 00 { LBA: [  -150 ..     -1], length:    150, MSF: 00:00:00-00:01:74 }
+    index 01 { LBA: [     0 .. 299372], length: 299373, MSF: 00:02:00-66:33:47 }
+  track A {  data }
+    index 01 { LBA: [299373 .. 299470], length:     98, MSF: 66:33:48-66:34:70 }
+
+analyzing... done (time: 22s)
+
+data disc detected, offset configuration: 
+  LBA:  -1396 -> 459664, MSF: A2:10:64, count:   1246, offset: -271103280
+  LBA:   -150 ->   -150, MSF: 00:00:00, count: 299621, offset: +0
+
+non-zero  TOC sample range: [   -88200 .. +176031324]
+non-zero data sample range: [    +9408 .. +176088918]
+Universal Hash (SHA-1): 662e344193fe8dca1585e9df90cfd1e193101721
+
+disc write offset: +0
+
+checking tracks
+done
+
+writing tracks
+done
+
+CUE [PFA1103.cue]:
+FILE "PFA1103.bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+
+
+*** HASH (time check: 37s)
+
+dat:
+<rom name="PFA1103.bin" size="704125296" crc="4a3cac11" md5="6a58e3cb2e672dbb18560dada16cf4cc" sha1="c0dc5c5e3a59e47619dcd145d50391df192948aa" />
+
+*** INFO (time check: 0s)
+
+CD-ROM [PFA1103.bin]:
+  sectors count: 299373
+  mode1 sectors: 299373
+
+  REDUMP.INFO errors: 0
+
+ISO9660 [PFA1103.bin]:
+  volume identifier: PFA1103
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 33 31 31 31 31 31 30 33  30 30 30 30 30 04 32 30   3111110300000.20
+0340 : 30 33 31 31 31 31 31 30  33 30 30 30 30 30 04 30   03111110300000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: PFA1103
+
+*** END (time check: 2s)
