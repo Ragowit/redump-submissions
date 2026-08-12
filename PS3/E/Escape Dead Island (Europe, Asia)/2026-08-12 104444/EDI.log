@@ -1,0 +1,80 @@
+=== 2026-08-12 12:35:55 ========================================================
+redumper (build: b737)
+
+arguments: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\EDI --image-name=EDI
+warning: drive not found in the database
+
+drive information
+  path: D:\
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: ISO\PS3\EDI
+image name: EDI
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 1
+    channel length: 74.5nm
+    polarity: 1
+    BCA: no
+    PSN last { PSN: 3459967, hPSN: 0x34CB7F }
+    AUN { PSN: [1048576 .. 3459966], length: 2411392, hPSN: [0x100000 .. 0x34CB7E] }
+
+
+sectors count (READ_CAPACITY): 2411392
+sectors count (PHYSICAL): 2411392
+sectors count (ISO9660): 2411392                          
+sectors count (UDF): 2411392                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 528s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="EDI.iso" size="4938530816" crc="302b0c4d" md5="105754c4ab00d2d37bf50fef61132ced" sha1="034c5b6afe1701d892fd6d4b20480e09df85ae28" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [EDI.iso]:
+  volume identifier: EDI
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 34 30 38 31 31 31 32 35  31 34 38 30 30 00 30 30   4081112514800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: EDI
+
+PS3 [EDI.iso]:
+  version: 01.01
+  serial: BLES-02026
+  firmware version: 4.65
+
+*** END (time check: 0s)
