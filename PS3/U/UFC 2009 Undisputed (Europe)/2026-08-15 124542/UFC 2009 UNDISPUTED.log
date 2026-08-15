@@ -1,0 +1,80 @@
+=== 2026-08-15 14:32:27 ========================================================
+redumper (build: b737)
+
+arguments: disc --drive=D:\ --retries=20 "--image-path=ISO\PS3\UFC 2009 UNDISPUTED" "--image-name=UFC 2009 UNDISPUTED"
+warning: drive not found in the database
+
+drive information
+  path: D:\
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: "ISO\PS3\UFC 2009 UNDISPUTED"
+image name: "UFC 2009 UNDISPUTED"
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 1
+    channel length: 74.5nm
+    polarity: 1
+    BCA: no
+    PSN last { PSN: 4980191, hPSN: 0x4BFDDF }
+    AUN { PSN: [1048576 .. 4980190], length: 3931616, hPSN: [0x100000 .. 0x4BFDDE] }
+
+
+sectors count (READ_CAPACITY): 3931616
+sectors count (PHYSICAL): 3931616
+sectors count (ISO9660): 3931616                          
+sectors count (UDF): 3931616                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 795s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="UFC 2009 UNDISPUTED.iso" size="8051949568" crc="81541074" md5="42f7effdce540fc9380bad4db705a82e" sha1="71997714a383ea2f63cc4c944340166022bef330" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [UFC 2009 UNDISPUTED.iso]:
+  volume identifier: UFC_2009_UNDISPUTED
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 30 33 31 37 32 33 34  32 30 30 30 30 00 30 30   9031723420000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: UFC 2009 UNDISPU
+
+PS3 [UFC 2009 UNDISPUTED.iso]:
+  version: 01.00
+  serial: BLES-00539
+  firmware version: 2.60
+
+*** END (time check: 0s)
