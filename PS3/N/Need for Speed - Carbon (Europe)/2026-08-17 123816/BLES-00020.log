@@ -1,0 +1,79 @@
+=== 2026-08-17 14:08:42 ========================================================
+redumper (build: b737)
+
+arguments: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\BLES-00020 --image-name=BLES-00020
+warning: drive not found in the database
+
+drive information
+  path: D:\
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: ISO\PS3\BLES-00020
+image name: BLES-00020
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 1
+    channel length: 74.5nm
+    polarity: 1
+    BCA: no
+    PSN last { PSN: 12393983, hPSN: 0xBD1DFF }
+    AUN { PSN: [1048576 .. 12393982], length: 11345408, hPSN: [0x100000 .. 0xBD1DFE] }
+
+
+sectors count (READ_CAPACITY): 11345408
+sectors count (PHYSICAL): 11345408
+sectors count (ISO9660): 11345408                          
+sectors count (UDF): 11345408                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 1773s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="BLES-00020.iso" size="23235395584" crc="365843a2" md5="e56d21bfe30da97392bc60d06a5b6592" sha1="1df835c2fb0422267ad044a33bf72e3854752ec1" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [BLES-00020.iso]:
+  volume identifier: PS3VOLUME
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 36 31 31 33 30 31 39 35  34 34 35 30 30 00 30 30   6113019544500.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: PS3VOLUME
+
+PS3 [BLES-00020.iso]:
+  version: 01.00
+  serial: BLES-00020
+
+*** END (time check: 0s)
