@@ -1,0 +1,80 @@
+=== 2026-08-27 16:10:32 ========================================================
+redumper (build: b737)
+
+arguments: disc --drive=D:\ --retries=20 "--image-path=ISO\PS3\CRYSIS 2" "--image-name=CRYSIS 2"
+warning: drive not found in the database
+
+drive information
+  path: D:\
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: "ISO\PS3\CRYSIS 2"
+image name: "CRYSIS 2"
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 1
+    channel length: 74.5nm
+    polarity: 1
+    BCA: no
+    PSN last { PSN: 4955295, hPSN: 0x4B9C9F }
+    AUN { PSN: [1048576 .. 4955294], length: 3906720, hPSN: [0x100000 .. 0x4B9C9E] }
+
+
+sectors count (READ_CAPACITY): 3906720
+sectors count (PHYSICAL): 3906720
+sectors count (ISO9660): 3906720                          
+sectors count (UDF): 3906720                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 791s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="CRYSIS 2.iso" size="8000962560" crc="aa925039" md5="528b9c83621db6934b1a2572b3e0f3ff" sha1="0cec5f296a973855939e34e9714a80cc5e34b3d8" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [CRYSIS 2.iso]:
+  volume identifier: CRYSIS_2
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 32 30 39 31 37 34  33 30 33 30 30 00 30 30   1020917430300.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: CRYSIS 2
+
+PS3 [CRYSIS 2.iso]:
+  version: 01.00
+  serial: BLES-01060
+  firmware version: 3.56
+
+*** END (time check: 0s)
