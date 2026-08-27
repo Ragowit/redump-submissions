@@ -1,0 +1,88 @@
+=== 2026-08-27 17:50:36 ========================================================
+redumper (build: b737)
+
+arguments: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\DESTINYTHEGAME --image-name=DESTINYTHEGAME
+warning: drive not found in the database
+
+drive information
+  path: D:\
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: ISO\PS3\DESTINYTHEGAME
+image name: DESTINYTHEGAME
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 1
+    channel length: 74.5nm
+    polarity: 1
+    BCA: no
+    PSN last { PSN: 5051135, hPSN: 0x4D12FF }
+    AUN { PSN: [1048576 .. 5051134], length: 4002560, hPSN: [0x100000 .. 0x4D12FE] }
+
+
+sectors count (READ_CAPACITY): 4002560
+sectors count (PHYSICAL): 4002560
+sectors count (ISO9660): 4002560                          
+sectors count (UDF): 4002560                              
+
+media errors: 
+  SCSI: 32
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 824s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+sectors count (READ_CAPACITY): 4002560
+sectors count (PHYSICAL): 4002560
+
+correction statistics: 
+  SCSI: 32
+  EDC: 0
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+                
+
+dat:
+<rom name="DESTINYTHEGAME.iso" size="8197242880" crc="bc5132ad" md5="95f9326b833f6db7f5b0f1c50b044d52" sha1="2a131a032798ad3ac446cb9ede5d0ec83d5c43b1" />
+
+*** INFO (time check: 61s)
+
+ISO9660 [DESTINYTHEGAME.iso]:
+  volume identifier: DESTINYTHEGAME
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 34 30 36 32 37 30 37 30  30 30 30 30 30 00 30 30   4062707000000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: DESTINYTHEGAME
+
+PS3 [DESTINYTHEGAME.iso]:
+  version: 01.00
+  serial: BLES-01857
+  firmware version: 4.60
+
+*** END (time check: 0s)
