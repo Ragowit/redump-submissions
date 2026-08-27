@@ -1,0 +1,80 @@
+=== 2026-08-27 08:02:10 ========================================================
+redumper (build: b737)
+
+arguments: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\BUZZ_QTV --image-name=BUZZ_QTV
+warning: drive not found in the database
+
+drive information
+  path: D:\
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: ISO\PS3\BUZZ_QTV
+image name: BUZZ_QTV
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 1
+    channel length: 74.5nm
+    polarity: 1
+    BCA: no
+    PSN last { PSN: 7356223, hPSN: 0x703F3F }
+    AUN { PSN: [1048576 .. 7356222], length: 6307648, hPSN: [0x100000 .. 0x703F3E] }
+
+
+sectors count (READ_CAPACITY): 6307648
+sectors count (PHYSICAL): 6307648
+sectors count (ISO9660): 6307648                          
+sectors count (UDF): 6307648                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 1153s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="BUZZ_QTV.iso" size="12918063104" crc="6938e7e3" md5="23a2cac57b4cb11c2904f8d36145604e" sha1="db42dd9ce466817529c7e10a8f0e07d467ca9298" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [BUZZ_QTV.iso]:
+  volume identifier: BUZZ_QTV
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 35 30 32 31 31 33  33 35 33 30 30 00 30 30   8050211335300.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: BUZZ_QTV
+
+PS3 [BUZZ_QTV.iso]:
+  version: 01.01
+  serial: BCES-00099
+  firmware version: 2.30
+
+*** END (time check: 0s)
