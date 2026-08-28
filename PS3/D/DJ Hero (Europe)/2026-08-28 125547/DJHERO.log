@@ -1,0 +1,80 @@
+=== 2026-08-28 14:49:09 ========================================================
+redumper (build: b737)
+
+arguments: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\DJHERO --image-name=DJHERO
+warning: drive not found in the database
+
+drive information
+  path: D:\
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: ISO\PS3\DJHERO
+image name: DJHERO
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 1
+    channel length: 74.5nm
+    polarity: 1
+    BCA: no
+    PSN last { PSN: 2760799, hPSN: 0x2A205F }
+    AUN { PSN: [1048576 .. 2760798], length: 1712224, hPSN: [0x100000 .. 0x2A205E] }
+
+
+sectors count (READ_CAPACITY): 1712224
+sectors count (PHYSICAL): 1712224
+sectors count (ISO9660): 1712224                          
+sectors count (UDF): 1712224                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 397s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="DJHERO.iso" size="3506634752" crc="35820756" md5="4b9a0ccaab648a48358eaec956cca01e" sha1="6916cba41f51b52a5d748ec8c16c548422ea0986" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [DJHERO.iso]:
+  volume identifier: DJHERO
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 30 37 33 30 31 33 30  34 34 38 30 30 00 30 30   9073013044800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: DJHERO
+
+PS3 [DJHERO.iso]:
+  version: 01.00
+  serial: BLES-00602
+  firmware version: 2.76
+
+*** END (time check: 0s)
