@@ -1,0 +1,80 @@
+=== 2026-08-29 07:03:54 ========================================================
+redumper (build: b737)
+
+arguments: disc --drive=D:\ --retries=20 "--image-path=ISO\PS3\FIFA 09" "--image-name=FIFA 09"
+warning: drive not found in the database
+
+drive information
+  path: D:\
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: "ISO\PS3\FIFA 09"
+image name: "FIFA 09"
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 1
+    channel length: 74.5nm
+    polarity: 1
+    BCA: no
+    PSN last { PSN: 4401471, hPSN: 0x43293F }
+    AUN { PSN: [1048576 .. 4401470], length: 3352896, hPSN: [0x100000 .. 0x43293E] }
+
+
+sectors count (READ_CAPACITY): 3352896
+sectors count (PHYSICAL): 3352896
+sectors count (ISO9660): 3352896                          
+sectors count (UDF): 3352896                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 700s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="FIFA 09.iso" size="6866731008" crc="92f42d67" md5="6acd6d0148558c29b74f65d064c29445" sha1="2fb3adeef268be11c3a19941ce429535288c4a4c" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [FIFA 09.iso]:
+  volume identifier: FIFA_09
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 30 39 30 36 30 34 32  32 31 38 30 30 00 30 30   8090604221800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: FIFA 09
+
+PS3 [FIFA 09.iso]:
+  version: 01.01
+  serial: BLES-00314
+  firmware version: 2.42
+
+*** END (time check: 0s)
