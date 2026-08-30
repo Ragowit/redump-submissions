@@ -1,0 +1,92 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-50
+	Category: Games
+	Title: Gran Turismo 6
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 31156
+
+Regions and Languages:
+	Regions: Scandinavia
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: BCES-01893
+	Editions: Anniversary Edition (Bundled with PlayStation 3)
+	Barcodes: 
+	Version: 01.03
+	Error Count: 0
+	Layerbreak: 12219392
+	Disc ID: 00000000000000ff0002000000000000
+	Disc Key: f06f68c49fe3a3245fc2316138f8e523
+
+Ring Codes:
+	Layer 0 Mastering Code: A0102235140-A911	3000
+	Layer 0 Mastering SID: IFPI LY27
+	Layer 0 Toolstamps: 6A00
+	Layer 0 Mould SIDs: 
+	Layer 0 Additional Moulds: 
+	Layer 1 Mastering Code: A0102235140-B911	4000
+	Layer 1 Mastering SID: IFPI LY27
+	Layer 1 Toolstamps: 3A00
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: IFPI 948J
+	Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments:
+
+[T:ISN] BCES-01893
+[T:VOL] GRANTURSIMO
+
+	Contents:
+
+[T:P]
+PS3 Firmware 4.50
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 31 31 31 31 30 34 33  34 35 31 30 30 00 30 30   3111104345100.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+210103000000000001378C1F00100000
+00CA73FE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+210103000000000001378C1F01358C00
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="GRANTURSIMO.iso" size="25293815808" crc="b14ab127" md5="5e871429fa7284de1131d039616d74bb" sha1="324a9589d022e01a9af81d9fc4bc1843721d8a5a" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.9.0-512561ed90b47ceb28806b25a9b01cbd3d015496
+	Dumping Program: Redumper (build: b737)
+	Date: 2026-08-30 07:50:54
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\GRANTURSIMO --image-name=GRANTURSIMO
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM

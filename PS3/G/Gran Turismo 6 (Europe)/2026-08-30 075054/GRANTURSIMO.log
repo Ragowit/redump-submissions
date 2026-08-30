@@ -1,0 +1,92 @@
+=== 2026-08-30 09:19:30 ========================================================
+redumper (build: b737)
+
+arguments: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\GRANTURSIMO --image-name=GRANTURSIMO
+warning: drive not found in the database
+
+drive information
+  path: D:\
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: ISO\PS3\GRANTURSIMO
+image name: GRANTURSIMO
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 2
+    channel length: 74.5nm
+    polarity: 3
+    BCA: no
+    PSN last { PSN: 20417567, hPSN: 0x1378C1F }
+    AUN { PSN: [1048576 .. 13267966], length: 12219392, hPSN: [0x100000 .. 0xCA73FE] }
+  DI { format: 1, layer: 1, sequence number: 1, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 2
+    channel length: 74.5nm
+    polarity: 3
+    BCA: no
+    PSN last { PSN: 20417567, hPSN: 0x1378C1F }
+    AUN { PSN: [20286464 .. 32505854], length: 12219392, hPSN: [0x1358C00 .. 0x1EFFFFE] }
+
+layer break (layer: 0): 12219392
+
+sectors count (READ_CAPACITY): 12350496
+sectors count (PHYSICAL): 12350496
+sectors count (ISO9660): 12350496                          
+sectors count (UDF): 12350496                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 1883s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="GRANTURSIMO.iso" size="25293815808" crc="b14ab127" md5="5e871429fa7284de1131d039616d74bb" sha1="324a9589d022e01a9af81d9fc4bc1843721d8a5a" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [GRANTURSIMO.iso]:
+  volume identifier: GRANTURSIMO
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 31 31 31 31 30 34 33  34 35 31 30 30 00 30 30   3111104345100.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: GRANTURSIMO
+
+PS3 [GRANTURSIMO.iso]:
+  version: 01.03
+  serial: BCES-01893
+  firmware version: 4.50
+
+*** END (time check: 0s)
