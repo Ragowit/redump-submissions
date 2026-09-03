@@ -1,0 +1,88 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Title: Guitar Hero: Van Halen
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 33349
+
+Regions and Languages:
+	Regions: France
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: BLES-00578#
+	Editions: Original
+	Barcodes: 5 030917 069697
+	Version: 01.00
+	Error Count: 0
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Disc Key: dc0ca1c786f2fbba565b19a4ed19d56a
+
+Ring Codes:
+	Layer 0 Mastering Code: A0101236062-A511	3000
+	Layer 0 Mastering SID: IFPI LY23
+	Layer 0 Toolstamps: 1A00
+	Layer 0 Mould SIDs: 
+	Layer 0 Additional Moulds: 
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: IFPI 947I
+	Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments:
+
+[T:ISN] BLES-00578
+[T:VOL] PS3VOLUMNE
+
+	Contents:
+
+[T:P]
+PS3 Firmware 2.60
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 30 35 30 35 31 37 33  34 30 39 30 30 00 30 30   9050517340900.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000003F623F00100000
+003F623E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="PS3VOLUMNE.iso" size="6359744512" crc="b5ca63c4" md5="dd9a0b0774832c9459b49cfc1376ab2f" sha1="da72a0cc437209b524fdd8215af340d766d03388" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.9.0-512561ed90b47ceb28806b25a9b01cbd3d015496
+	Dumping Program: Redumper (build: b737)
+	Date: 2026-09-03 06:33:32
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\PS3VOLUMNE --image-name=PS3VOLUMNE
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
