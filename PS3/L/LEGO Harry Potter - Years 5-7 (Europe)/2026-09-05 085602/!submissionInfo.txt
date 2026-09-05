@@ -1,0 +1,84 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Title: LEGO Harry Potter: Years 5-7
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 54126
+
+Regions and Languages:
+	Regions: Scandinavia
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: BLES-01348
+	Editions: Original
+	Barcodes: 5 051895 082645
+	Version: 01.01
+	Error Count: 0
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Disc Key: 2448259cae3dd3c62414f9f02e250baa
+
+Ring Codes:
+	Layer 0 Mastering Code: A0101877102-A511	1000
+	Layer 0 Mastering SID: IFPI LY27
+	Layer 0 Toolstamps: 2A00
+	Layer 0 Mould SIDs: 
+	Layer 0 Additional Moulds: 
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: IFPI 94G3
+	Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments: [T:ISN] BLES-01348
+	Contents:
+
+[T:P]
+PS3 Firmware 3.73
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 31 30 32 34 31 37 34  39 30 38 30 30 00 30 30   1102417490800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000005B033F00100000
+005B033E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="BLES-01348.iso" size="10068033536" crc="941f67b9" md5="e7ab767e397508c91f78524d5c5e599f" sha1="9147c69d341b829ff073ff42c92c99525f944e48" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.9.0-512561ed90b47ceb28806b25a9b01cbd3d015496
+	Dumping Program: Redumper (build: b737)
+	Date: 2026-09-05 08:56:02
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\BLES-01348 --image-name=BLES-01348
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
