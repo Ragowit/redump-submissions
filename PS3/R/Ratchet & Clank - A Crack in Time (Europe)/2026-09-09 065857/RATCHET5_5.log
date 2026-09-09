@@ -1,0 +1,80 @@
+=== 2026-09-09 08:28:42 ========================================================
+redumper (build: b749)
+
+arguments: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\RATCHET5_5 --image-name=RATCHET5_5
+warning: drive not found in the database
+
+drive information
+  path: D:\
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: ISO\PS3\RATCHET5_5
+image name: RATCHET5_5
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 1
+    channel length: 74.5nm
+    polarity: 1
+    BCA: no
+    PSN last { PSN: 12764735, hPSN: 0xC2C63F }
+    AUN { PSN: [1048576 .. 12764734], length: 11716160, hPSN: [0x100000 .. 0xC2C63E] }
+
+
+sectors count (READ_CAPACITY): 11716160
+sectors count (PHYSICAL): 11716160
+sectors count (ISO9660): 11716160                          
+sectors count (UDF): 11716160                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 1815s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="RATCHET5_5.iso" size="23994695680" crc="6f95738c" md5="2266161826874df4f1a6bb25b5d66aff" sha1="9da1e076e12f43395473b9100c66fa22bd3642e4" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [RATCHET5_5.iso]:
+  volume identifier: RATCHET5_5
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 31 30 30 36 30 39 32  34 31 34 30 30 00 30 30   9100609241400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: RATCHET5_5
+
+PS3 [RATCHET5_5.iso]:
+  version: 01.00
+  serial: BCES-00748
+  firmware version: 3.01
+
+*** END (time check: 0s)
