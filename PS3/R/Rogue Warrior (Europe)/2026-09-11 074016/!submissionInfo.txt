@@ -1,0 +1,84 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Title: Rogue Warrior
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 47915
+
+Regions and Languages:
+	Regions: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: BLES-00582
+	Editions: Original
+	Barcodes: 0 093155 122314
+	Version: 01.00
+	Error Count: 0
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Disc Key: 79c1f36d2e68fbe8f1f3c31be96d50f3
+
+Ring Codes:
+	Layer 0 Mastering Code: A0101396246-A511	1000
+	Layer 0 Mastering SID: IFPI LY27
+	Layer 0 Toolstamps: 1A05
+	Layer 0 Mould SIDs: 
+	Layer 0 Additional Moulds: 
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: IFPI 946I
+	Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments: [T:ISN] BLES-00582
+	Contents:
+
+[T:P]
+PS3 Firmware 2.80
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 39 30 39 30 39 30 30 35  34 35 34 30 30 00 30 30   9090900545400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000002DDD3F00100000
+002DDD3E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="BLES-00582.iso" size="4008312832" crc="69317c7f" md5="db8cc7ebc1c05427abda09e0586f2a35" sha1="7f98b509b3af904e8810cf1a3689f75ff3bbf4e4" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.10.0-1449d5f3f6071eb7c3ebce4980533e781d6b3133
+	Dumping Program: Redumper (build: b749)
+	Date: 2026-09-11 07:40:16
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\BLES-00582 --image-name=BLES-00582
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
