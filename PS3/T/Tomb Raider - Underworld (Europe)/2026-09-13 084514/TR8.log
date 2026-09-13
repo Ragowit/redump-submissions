@@ -1,0 +1,80 @@
+=== 2026-09-13 10:33:50 ========================================================
+redumper (build: b749)
+
+arguments: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\TR8 --image-name=TR8
+warning: drive not found in the database
+
+drive information
+  path: D:\
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: ISO\PS3\TR8
+image name: TR8
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 1
+    channel length: 74.5nm
+    polarity: 1
+    BCA: no
+    PSN last { PSN: 4327359, hPSN: 0x4207BF }
+    AUN { PSN: [1048576 .. 4327358], length: 3278784, hPSN: [0x100000 .. 0x4207BE] }
+
+
+sectors count (READ_CAPACITY): 3278784
+sectors count (PHYSICAL): 3278784
+sectors count (ISO9660): 3278784                          
+sectors count (UDF): 3278784                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 683s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="TR8.iso" size="6714949632" crc="7238af2c" md5="6ea5f2285bd37a59f1fcdd753e04a0fb" sha1="9c047669712d5cfac7c4762ab3498a5389358fba" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [TR8.iso]:
+  volume identifier: TR8
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 38 31 30 32 30 30 39 34  32 31 39 30 30 00 30 30   8102009421900.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: TR8
+
+PS3 [TR8.iso]:
+  version: 01.02
+  serial: BLES-00409
+  firmware version: 2.50
+
+*** END (time check: 0s)
