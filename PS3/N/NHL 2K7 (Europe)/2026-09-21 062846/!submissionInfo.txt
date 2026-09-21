@@ -1,0 +1,88 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Title: NHL 2K7
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 31342
+
+Regions and Languages:
+	Regions: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: BLES-00033
+	Editions: Original
+	Barcodes: 5 026555 400077
+	Version: 01.01
+	Error Count: 0
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Disc Key: 8e30b03b7cce430f82f7e53c58933900
+
+Ring Codes:
+	Layer 0 Mastering Code: A0100779272-A511	1000
+	Layer 0 Mastering SID: IFPI LY23
+	Layer 0 Toolstamps: 1A1
+	Layer 0 Mould SIDs: 
+	Layer 0 Additional Moulds: 
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: IFPI 94F1
+	Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments:
+
+[T:ISN] BLES-00033
+[T:VOL] NHL_2K7
+
+	Contents:
+
+[T:P]
+PS3 Firmware 1.50
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 37 30 31 32 35 31 34 35  37 34 37 30 30 00 30 30   7012514574700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000004FF07F00100000
+004FF07E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="NHL_2K7.iso" size="8581808128" crc="3e64904f" md5="62377eb0c99fcc4d72124c52b4592112" sha1="ffa37c06073c4387d93efb5e19b7d1c4cbf24c33" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.10.0-1449d5f3f6071eb7c3ebce4980533e781d6b3133
+	Dumping Program: Redumper (build: b749)
+	Date: 2026-09-21 06:28:46
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\NHL_2K7 --image-name=NHL_2K7
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM

@@ -1,0 +1,80 @@
+=== 2026-09-21 08:14:53 ========================================================
+redumper (build: b749)
+
+arguments: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\NHL_2K7 --image-name=NHL_2K7
+warning: drive not found in the database
+
+drive information
+  path: D:\
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: ISO\PS3\NHL_2K7
+image name: NHL_2K7
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 1
+    channel length: 74.5nm
+    polarity: 1
+    BCA: no
+    PSN last { PSN: 5238911, hPSN: 0x4FF07F }
+    AUN { PSN: [1048576 .. 5238910], length: 4190336, hPSN: [0x100000 .. 0x4FF07E] }
+
+
+sectors count (READ_CAPACITY): 4190336
+sectors count (PHYSICAL): 4190336
+sectors count (ISO9660): 4190336                          
+sectors count (UDF): 4190336                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 833s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="NHL_2K7.iso" size="8581808128" crc="3e64904f" md5="62377eb0c99fcc4d72124c52b4592112" sha1="ffa37c06073c4387d93efb5e19b7d1c4cbf24c33" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [NHL_2K7.iso]:
+  volume identifier: NHL_2K7
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 37 30 31 32 35 31 34 35  37 34 37 30 30 00 30 30   7012514574700.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: NHL_2K7
+
+PS3 [NHL_2K7.iso]:
+  version: 01.01
+  serial: BLES-00033
+  firmware version: 1.50
+
+*** END (time check: 0s)
