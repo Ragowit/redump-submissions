@@ -1,0 +1,80 @@
+=== 2026-09-22 10:15:10 ========================================================
+redumper (build: b749)
+
+arguments: disc --drive=D:\ --retries=20 --image-path=ISO\PS3\SINGSTAR --image-name=SINGSTAR
+warning: drive not found in the database
+
+drive information
+  path: D:\
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: ISO\PS3\SINGSTAR
+image name: SINGSTAR
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 1
+    channel length: 74.5nm
+    polarity: 1
+    BCA: no
+    PSN last { PSN: 6120895, hPSN: 0x5D65BF }
+    AUN { PSN: [1048576 .. 6120894], length: 5072320, hPSN: [0x100000 .. 0x5D65BE] }
+
+
+sectors count (READ_CAPACITY): 5072320
+sectors count (PHYSICAL): 5072320
+sectors count (ISO9660): 5072320                          
+sectors count (UDF): 5072320                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 1059s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="SINGSTAR.iso" size="10388111360" crc="9a3144a6" md5="5415341af14133991e6f2409f0e59d7c" sha1="634aab6887f02523cc6b111cb43453f98b32da21" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [SINGSTAR.iso]:
+  volume identifier: SINGSTAR
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 39 32 30 31 30 33  36 34 35 30 30 00 30 30   0092010364500.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: SINGSTAR
+
+PS3 [SINGSTAR.iso]:
+  version: 01.00
+  serial: BCES-00894
+  firmware version: 3.42
+
+*** END (time check: 0s)
