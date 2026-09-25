@@ -43,7 +43,7 @@ Dump Metadata:
 	Comments:
 
 [T:ISN] CUSA-02624
-[T:ACT] 87728206SC (Inlay), 87649226EN (Pamphlet), 051444 (Disc)
+[T:ACT] 87728206SC (Inlay), 87649226EN (Pamphlet), 87728101EF (Disc)
 
 	Contents:
 
