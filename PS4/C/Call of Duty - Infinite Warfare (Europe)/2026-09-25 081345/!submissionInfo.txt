@@ -1,0 +1,90 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 4
+	Media Type: BD-ROM-50
+	Category: Games
+	Title: Call of Duty: Infinite Warfare
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 57259
+
+Regions and Languages:
+	Regions: Scandinavia
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: CUSA-06448
+	Editions: Original
+	Barcodes: 5 030917 197253
+	Version: 01.00
+	Error Count: 0
+	Layerbreak: 12219392
+
+Ring Codes:
+	Layer 0 Mastering Code: A0102737547-A911 3000
+	Layer 0 Mastering SID: IFPI LY26
+	Layer 0 Toolstamps: 2A00
+	Layer 0 Mould SIDs: 
+	Layer 0 Additional Moulds: 
+	Layer 1 Mastering Code: A0102737547-B911 2000
+	Layer 1 Mastering SID: IFPI LY26
+	Layer 1 Toolstamps: 11A00
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: IFPI 948J
+	Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments:
+
+[T:ISN] CUSA-06448
+[T:ACT] 87857206SC (Inlay), 88042226SC (Pamphlet), 88042101EF (Disc)
+
+	Contents:
+
+<b>Games</b>:
+EP0002-CUSA05282_00-CODIWTHEGAME0001
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 36 30 39 31 35 32 33 31  38 34 34 30 30 00 30 30   6091523184400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+210103000100000001EC2B3F00100000
+00CA73FE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+210103000100000001EC2B3F01358C00
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="CUSA-06448.iso" size="49536434176" crc="ceb24e4a" md5="8e857658251b07df5f9309c6938646f9" sha1="2d7d4ad13945139c6820da27160ae9bbcdfbaf87" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.10.0-1449d5f3f6071eb7c3ebce4980533e781d6b3133
+	Dumping Program: Redumper (build: b749)
+	Date: 2026-09-25 08:13:45
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS4\CUSA-06448 --image-name=CUSA-06448
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
