@@ -1,0 +1,92 @@
+=== 2026-09-25 07:30:02 ========================================================
+redumper (build: b749)
+
+arguments: disc --drive=D:\ --retries=20 --image-path=ISO\PS4\CUSA-02624 --image-name=CUSA-02624
+warning: drive not found in the database
+
+drive information
+  path: D:\
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: ISO\PS4\CUSA-02624
+image name: CUSA-02624
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 2
+    channel length: 74.5nm
+    polarity: 3
+    BCA: no
+    PSN last { PSN: 31884671, hPSN: 0x1E6857F }
+    AUN { PSN: [1048576 .. 13267966], length: 12219392, hPSN: [0x100000 .. 0xCA73FE] }
+  DI { format: 1, layer: 1, sequence number: 1, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 2
+    channel length: 74.5nm
+    polarity: 3
+    BCA: no
+    PSN last { PSN: 31884671, hPSN: 0x1E6857F }
+    AUN { PSN: [20286464 .. 32505854], length: 12219392, hPSN: [0x1358C00 .. 0x1EFFFFE] }
+
+layer break (layer: 0): 12219392
+
+sectors count (READ_CAPACITY): 23817600
+sectors count (PHYSICAL): 23817600
+sectors count (ISO9660): 23817600                          
+sectors count (UDF): 23817600                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 3581s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="CUSA-02624.iso" size="48778444800" crc="abbf1c10" md5="42f6ef42824f79965d9d7f237d48319e" sha1="16543e22973c479bde8464c23eea3c2b1ba6fd4d" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [CUSA-02624.iso]:
+  volume identifier: PS4VOLUME
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 35 30 39 31 39 31 33 34  36 32 38 30 30 00 30 30   5091913462800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: PS4VOLUME
+
+PS4 [CUSA-02624.iso]:
+  version: 01.00
+  serial: CUSA-02624
+  content ID(s): EP0002-CUSA02624_00-BLACKOPS3GAME000
+
+*** END (time check: 0s)

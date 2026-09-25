@@ -1,0 +1,90 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 4
+	Media Type: BD-ROM-50
+	Category: Games
+	Title: Call of Duty: Black Ops III
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 67789
+
+Regions and Languages:
+	Regions: Scandinavia
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: CUSA-02624
+	Editions: Original
+	Barcodes: 5 030917 181726
+	Version: 01.00
+	Error Count: 0
+	Layerbreak: 12219392
+
+Ring Codes:
+	Layer 0 Mastering Code: A0102574428-A911	1000
+	Layer 0 Mastering SID: IFPI LY27
+	Layer 0 Toolstamps: 10A00
+	Layer 0 Mould SIDs: 
+	Layer 0 Additional Moulds: 
+	Layer 1 Mastering Code: A0102574428-B911	8000
+	Layer 1 Mastering SID: IFPI LY27
+	Layer 1 Toolstamps: 2A00
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: IFPI 94F9
+	Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments:
+
+[T:ISN] CUSA-02624
+[T:ACT] 87728206SC (Inlay), 87649226EN (Pamphlet), 051444 (Disc)
+
+	Contents:
+
+<b>Games</b>:
+EP0002-CUSA02624_00-BLACKOPS3GAME000
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 35 30 39 31 39 31 33 34  36 32 38 30 30 00 30 30   5091913462800.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+210103000100000001E6857F00100000
+00CA73FE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+210103000100000001E6857F01358C00
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="CUSA-02624.iso" size="48778444800" crc="abbf1c10" md5="42f6ef42824f79965d9d7f237d48319e" sha1="16543e22973c479bde8464c23eea3c2b1ba6fd4d" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.10.0-1449d5f3f6071eb7c3ebce4980533e781d6b3133
+	Dumping Program: Redumper (build: b749)
+	Date: 2026-09-25 06:29:43
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS4\CUSA-02624 --image-name=CUSA-02624
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
