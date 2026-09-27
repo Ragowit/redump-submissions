@@ -1,0 +1,92 @@
+=== 2026-09-27 22:51:39 ========================================================
+redumper (build: b749)
+
+arguments: disc --drive=D:\ --retries=20 --image-path=ISO\PS5\PPSA-23776 --image-name=PPSA-23776
+warning: drive not found in the database
+
+drive information
+  path: D:\
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: ISO\PS5\PPSA-23776
+image name: PPSA-23776
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDU
+    disc size: 120mm
+    disc class: 3
+    disc version: 2
+    layers count: 2
+    channel length: reserved3
+    polarity: 3
+    BCA: no
+    PSN last { PSN: 53009887, hPSN: 0x328DDDF }
+    AUN { PSN: [1048576 .. 17341438], length: 16292864, hPSN: [0x100000 .. 0x1089BFE] }
+  DI { format: 1, layer: 1, sequence number: 1, unit size: 32, continuation: 0 }
+    disc type: BDU
+    disc size: 120mm
+    disc class: 3
+    disc version: 2
+    layers count: 2
+    channel length: reserved3
+    polarity: 3
+    BCA: no
+    PSN last { PSN: 53009887, hPSN: 0x328DDDF }
+    AUN { PSN: [49767424 .. 66060286], length: 16292864, hPSN: [0x2F76400 .. 0x3EFFFFE] }
+
+layer break (layer: 0): 16292864
+
+sectors count (READ_CAPACITY): 19535328
+sectors count (PHYSICAL): 19535328
+sectors count (ISO9660): 19535328                          
+sectors count (UDF): 19535328                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 2205s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="PPSA-23776.iso" size="40008351744" crc="e3c5be33" md5="34b4c989d4b5af4503d5d009cbe9dd3f" sha1="0f8ec1e55664e0d2ce9dae498dabaae00295c8b2" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [PPSA-23776.iso]:
+  volume identifier: PS5VOLUME
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 36 30 35 32 38 31 30 34  39 31 30 30 30 00 30 30   6052810491000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: PS5VOLUME
+
+PS5 [PPSA-23776.iso]:
+  version: 01.00
+  serial: PPSA-23776
+  content ID(s): UP0101-PPSA18194_00-METALGEARSOLID04, UP0101-PPSA18216_00-METALGEARPW00000, JP0101-PPSA24040_00-MGSBONUSCONTENTS
+
+*** END (time check: 0s)

@@ -1,0 +1,90 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 5
+	Media Type: BD-ROM-66
+	Category: Games
+	Title: Metal Gear Solid: Master Collection Vol. 2
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 137600
+
+Regions and Languages:
+	Regions: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: PPSA-23776/EU
+	Editions: Day One Edition
+	Barcodes: 4 012927 151921
+	Version: 01.00
+	Error Count: 0
+	Layerbreak: 16292864
+
+Ring Codes:
+	Layer 0 Mastering Code: PPSA-23776/01.00	A0103572401-A911 2000
+	Layer 0 Mastering SID: IFPI LY23
+	Layer 0 Toolstamps: 002A00
+	Layer 0 Mould SIDs: 
+	Layer 0 Additional Moulds: 
+	Layer 1 Mastering Code: PPSA-23776/01.00	A0103572401-B911 1000
+	Layer 1 Mastering SID: IFPI LY27
+	Layer 1 Toolstamps: 001A00
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: IFPI 94F6
+	Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments: [T:ISN] PPSA-23776
+	Contents:
+
+<b>Games</b>:
+UP0101-PPSA18194_00-METALGEARSOLID04, UP0101-PPSA18216_00-METALGEARPW00000, JP0101-PPSA24040_00-MGSBONUSCONTENTS
+Metal Gear Solid 4: Guns of the Patriots - Master Collection Version
+Metal Gear Solid: Peace Walker - Master Collection Version
+Metal Gear Solid: Master Collection Vol. 2 Bonus Content (Metal Gear: Ghost Babel + Metal Gear Solid: Digital Soundtrack Vol.2)
+(OPTIONAL)
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 36 30 35 32 38 31 30 34  39 31 30 30 30 00 30 30   6052810491000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042445532
+29050300010000000328DDDF00100000
+01089BFE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042445532
+29050300010000000328DDDF02F76400
+03EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="PPSA-23776.iso" size="40008351744" crc="e3c5be33" md5="34b4c989d4b5af4503d5d009cbe9dd3f" sha1="0f8ec1e55664e0d2ce9dae498dabaae00295c8b2" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.10.0-1449d5f3f6071eb7c3ebce4980533e781d6b3133
+	Dumping Program: Redumper (build: b749)
+	Date: 2026-09-27 21:28:25
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS5\PPSA-23776 --image-name=PPSA-23776
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
