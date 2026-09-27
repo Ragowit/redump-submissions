@@ -1,0 +1,92 @@
+=== 2026-09-27 11:42:08 ========================================================
+redumper (build: b749)
+
+arguments: disc --drive=D:\ --retries=20 --image-path=ISO\PS4\CUSA-18987 --image-name=CUSA-18987
+warning: drive not found in the database
+
+drive information
+  path: D:\
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: ISO\PS4\CUSA-18987
+image name: CUSA-18987
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 2
+    channel length: 74.5nm
+    polarity: 3
+    BCA: no
+    PSN last { PSN: 29647455, hPSN: 0x1C4625F }
+    AUN { PSN: [1048576 .. 13267966], length: 12219392, hPSN: [0x100000 .. 0xCA73FE] }
+  DI { format: 1, layer: 1, sequence number: 1, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 2
+    channel length: 74.5nm
+    polarity: 3
+    BCA: no
+    PSN last { PSN: 29647455, hPSN: 0x1C4625F }
+    AUN { PSN: [20286464 .. 32505854], length: 12219392, hPSN: [0x1358C00 .. 0x1EFFFFE] }
+
+layer break (layer: 0): 12219392
+
+sectors count (READ_CAPACITY): 21580384
+sectors count (PHYSICAL): 21580384
+sectors count (ISO9660): 21580384                          
+sectors count (UDF): 21580384                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 3132s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="CUSA-18987.iso" size="44196626432" crc="db9b4f76" md5="7e074c5e872797031aad32f8d73f16ff" sha1="098179de87b13022f939f94fc07b8d514a9cf32b" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [CUSA-18987.iso]:
+  volume identifier: PS4VOLUME
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 30 30 38 33 30 30 36 31  32 33 34 30 30 00 30 30   0083006123400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: PS4VOLUME
+
+PS4 [CUSA-18987.iso]:
+  version: 01.00
+  serial: CUSA-18987
+  content ID(s): EP0006-CUSA18987_00-FIFAFOOTBALL2021
+
+*** END (time check: 0s)

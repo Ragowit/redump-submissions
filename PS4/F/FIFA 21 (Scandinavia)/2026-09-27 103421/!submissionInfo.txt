@@ -1,0 +1,86 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 4
+	Media Type: BD-ROM-50
+	Category: Games
+	Title: FIFA 21
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 125569
+
+Regions and Languages:
+	Regions: Scandinavia
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: CUSA-18987
+	Editions: Original
+	Barcodes: 5 035228 124424 >
+	Version: 01.00
+	Error Count: 0
+	Layerbreak: 12219392
+
+Ring Codes:
+	Layer 0 Mastering Code: A0103269222-A911 3000
+	Layer 0 Mastering SID: IFPI LY25
+	Layer 0 Toolstamps: 6A00
+	Layer 0 Mould SIDs: 
+	Layer 0 Additional Moulds: 
+	Layer 1 Mastering Code: A0103269222-B911 7000
+	Layer 1 Mastering SID: IFPI LY27
+	Layer 1 Toolstamps: 8A00
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: IFPI 943L
+	Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments: [T:ISN] CUSA-18987
+	Contents:
+
+<b>Games</b>:
+EP0006-CUSA18987_00-FIFAFOOTBALL2021
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 32                202
+0330 : 30 30 38 33 30 30 36 31  32 33 34 30 30 00 30 30   0083006123400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901100000200042444F01
+210103000100000001C4625F00100000
+00CA73FE000000000000000000000000
+00000000000000000000000000000000
+00000000444901110001200042444F01
+210103000100000001C4625F01358C00
+01EFFFFE000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="CUSA-18987.iso" size="44196626432" crc="db9b4f76" md5="7e074c5e872797031aad32f8d73f16ff" sha1="098179de87b13022f939f94fc07b8d514a9cf32b" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.10.0-1449d5f3f6071eb7c3ebce4980533e781d6b3133
+	Dumping Program: Redumper (build: b749)
+	Date: 2026-09-27 10:34:21
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS4\CUSA-18987 --image-name=CUSA-18987
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
