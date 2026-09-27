@@ -1,0 +1,81 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 4
+	Media Type: BD-ROM-25
+	Category: Games
+	Title: Knowledge Is Power
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+
+Regions and Languages:
+	Regions: Scandinavia
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: CUSA-09556/SCA
+	Editions: Original
+	Barcodes: 7 11719 94866 7
+	Version: 01.00
+	Error Count: 0
+
+Ring Codes:
+	Layer 0 Mastering Code: A0102946589-A511	1000
+	Layer 0 Mastering SID: IFPI LY26
+	Layer 0 Toolstamps: 1A00
+	Layer 0 Mould SIDs: 
+	Layer 0 Additional Moulds: 
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: IFPI 945I
+	Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments: [T:ISN] CUSA-09556
+	Contents:
+
+<b>Games</b>:
+EP9000-CUSA09556_00-1710181206KPE2M0
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 37 31 30 31 38 31 31 31  36 34 36 30 30 00 30 30   7101811164600.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+110101000100000000CA721F00100000
+00CA721E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="CUSA-09556.iso" size="25024331776" crc="f5d624ef" md5="b1fea5fa7d81786956b664ad3ab94afe" sha1="a443d0abe993fb3c15de8b2351c7eab90ca691ed" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.10.0-1449d5f3f6071eb7c3ebce4980533e781d6b3133
+	Dumping Program: Redumper (build: b749)
+	Date: 2026-09-27 12:56:43
+	Parameters: disc --drive=D:\ --retries=20 --image-path=ISO\PS4\CUSA-09556 --image-name=CUSA-09556
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
