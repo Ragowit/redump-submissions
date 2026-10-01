@@ -1,0 +1,80 @@
+=== 2026-10-01 17:37:04 ========================================================
+redumper (build: b749)
+
+arguments: disc --drive=D:\ --retries=20 "--image-path=ISO\PS3\LORDS OF SHADOW" "--image-name=LORDS OF SHADOW"
+warning: drive not found in the database
+
+drive information
+  path: D:\
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: "ISO\PS3\LORDS OF SHADOW"
+image name: "LORDS OF SHADOW"
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 1
+    channel length: 74.5nm
+    polarity: 1
+    BCA: no
+    PSN last { PSN: 7322623, hPSN: 0x6FBBFF }
+    AUN { PSN: [1048576 .. 7322622], length: 6274048, hPSN: [0x100000 .. 0x6FBBFE] }
+
+
+sectors count (READ_CAPACITY): 6274048
+sectors count (PHYSICAL): 6274048
+sectors count (ISO9660): 6274048                          
+sectors count (UDF): 6274048                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 1148s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="LORDS OF SHADOW.iso" size="12849250304" crc="0658f696" md5="acaf4f13f92029ff9802c0b5c4a388eb" sha1="24044c8180ac0f34a433909dd9736aa29aba4608" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [LORDS OF SHADOW.iso]:
+  volume identifier: LORDS_OF_SHADOW
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 38 32 31 32 30 30  30 30 30 30 30 00 30 30   0082120000000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: LORDS OF SHADOW
+
+PS3 [LORDS OF SHADOW.iso]:
+  version: 01.01
+  serial: BLES-01047
+  firmware version: 3.41
+
+*** END (time check: 0s)
