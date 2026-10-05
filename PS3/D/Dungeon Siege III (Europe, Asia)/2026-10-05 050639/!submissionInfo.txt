@@ -1,0 +1,88 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Title: Dungeon Siege III
+	Foreign Title: 던전시즈 3
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 30866
+
+Regions and Languages:
+	Regions: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: BLES-01161
+	Editions: Original
+	Barcodes: 5 021290 046283 >
+	Version: 01.01
+	Error Count: 0
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Disc Key: 69c4c6f377aae1b8e9cacce683f020a7
+
+Ring Codes:
+	Layer 0 Mastering Code: A0101790025-A511	1000
+	Layer 0 Mastering SID: IFPI LY24
+	Layer 0 Toolstamps: 1A00
+	Layer 0 Mould SIDs: 
+	Layer 0 Additional Moulds: 
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: IFPI 943L
+	Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments:
+
+[T:ISN] BLES-01161
+[T:VOL] DUNGEON SIEGE III, DUNGEON SIEGE II (Joliet)
+
+	Contents:
+
+[T:P]
+PS3 Firmware 3.60
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 35 30 33 31 37 31  35 34 34 30 30 00 30 30   1050317154400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000036119F00100000
+0036119E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="DUNGEON SIEGE III.iso" size="5109514240" crc="84b15784" md5="7cb291b359a9109ac72b62134ffe4dda" sha1="77407bc5b2698a8e846fc1bbaf0dab4a45443965" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.10.0-1449d5f3f6071eb7c3ebce4980533e781d6b3133
+	Dumping Program: Redumper (build: b749)
+	Date: 2026-10-05 05:06:39
+	Parameters: disc --drive=D:\ --retries=20 "--image-path=ISO\PS3\DUNGEON SIEGE III" "--image-name=DUNGEON SIEGE III"
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
