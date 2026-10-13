@@ -1,0 +1,84 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Title: Grid 2
+	Foreign Title: GRID 2
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 33846
+
+Regions and Languages:
+	Regions: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: BLES-01855
+	Editions: Limited Edition
+	Barcodes: 5 024866 360615
+	Version: 01.01
+	Error Count: 0
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Disc Key: 1435becbd6fd2049fc5cfcaf27dfb0bc
+
+Ring Codes:
+	Layer 0 Mastering Code: A0102126474-A511	1000
+	Layer 0 Mastering SID: IFPI LY27
+	Layer 0 Toolstamps: 1A00
+	Layer 0 Mould SIDs: 
+	Layer 0 Additional Moulds: 
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: IFPI 949M
+	Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments: [T:ISN] BLES-01855
+	Contents:
+
+[T:P]
+PS3 Firmware 4.40
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 35 30 31 31 37 31  36 34 33 30 30 00 30 30   3050117164300.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+1101010000000000003CB3DF00100000
+003CB3DE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="BLES-01855.iso" size="5999886336" crc="d7b0caaf" md5="505799ee11e51866d0d19c104bbae165" sha1="50abac8efa4faf5e2ea3ccfe201ddff4eb6f1542" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.11.0-e91c01d030c585df63d6784bb60dfca225391318
+	Dumping Program: Redumper (build: b761)
+	Date: 2026-10-13 05:59:14
+	Parameters: disc --drive=D --retries=20 --image-path=ISO\PS3\BLES-01855 --image-name=BLES-01855
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
