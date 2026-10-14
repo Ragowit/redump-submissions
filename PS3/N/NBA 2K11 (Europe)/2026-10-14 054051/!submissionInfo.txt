@@ -1,0 +1,88 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Title: NBA 2K11
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 53405
+
+Regions and Languages:
+	Regions: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: BLES-01008
+	Editions: Original
+	Barcodes: 5 026555 404396
+	Version: 01.01
+	Error Count: 0
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Disc Key: fd7e2e194680d4bb259c3a684e7a3c1b
+
+Ring Codes:
+	Layer 0 Mastering Code: A0101653327-A511	8000
+	Layer 0 Mastering SID: IFPI LY25
+	Layer 0 Toolstamps: 2A00
+	Layer 0 Mould SIDs: 
+	Layer 0 Additional Moulds: 
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: IFPI 94G3
+	Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments:
+
+[T:ISN] BLES-01008
+[T:VOL] NBA2K11
+
+	Contents:
+
+[T:P]
+PS3 Firmware 3.41
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 38 32 32 32 31 30  30 30 30 30 30 00 30 30   0082221000000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+110101000000000000CA6FFF00100000
+00CA6FFE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="NBA2K11.iso" size="25023217664" crc="375a6de4" md5="7ea51405a87b2da619602e3c3da5efb1" sha1="35c97a2de9de694dad4f13fdc57a96ea9c09a1d3" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.11.0-e91c01d030c585df63d6784bb60dfca225391318
+	Dumping Program: Redumper (build: b761)
+	Date: 2026-10-14 05:40:51
+	Parameters: disc --drive=D --retries=20 --image-path=ISO\PS3\NBA2K11 --image-name=NBA2K11
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
