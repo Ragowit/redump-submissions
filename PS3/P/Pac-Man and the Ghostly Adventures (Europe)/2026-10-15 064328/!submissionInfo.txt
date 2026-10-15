@@ -1,0 +1,84 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Title: Pac-Man and the Ghostly Adventures
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 47325
+
+Regions and Languages:
+	Regions: SPACE! (CHANGE THIS)
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: BLES-01901#
+	Editions: Original
+	Barcodes: 3 391891 972383
+	Version: 01.00
+	Error Count: 0
+	Disc ID: 00000000000000ff00020004XXXXXXXX
+	Disc Key: 56581878adf609d90f76a95f74c3fa4c
+
+Ring Codes:
+	Layer 0 Mastering Code: A0102187593-A511	1000
+	Layer 0 Mastering SID: IFPI LY25
+	Layer 0 Toolstamps: 1A00
+	Layer 0 Mould SIDs: 
+	Layer 0 Additional Moulds: 
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: IFPI 941J
+	Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments: [T:ISN] BLES-01901
+	Contents:
+
+[T:P]
+PS3 Firmware 4.46
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 33 30 38 33 30 32 31 32  36 34 32 30 30 00 30 30   3083021264200.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+110101000000000000307D9F00100000
+00307D9E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="BLES-01901.iso" size="4360830976" crc="9672e7f2" md5="17dd22fda16cf29a2983d8e2f8d6f789" sha1="d50de53982931cd6d9eaaf37bdcf8c4126b755ed" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.11.0-e91c01d030c585df63d6784bb60dfca225391318
+	Dumping Program: Redumper (build: b761)
+	Date: 2026-10-15 06:43:28
+	Parameters: disc --drive=D --retries=20 --image-path=ISO\PS3\BLES-01901 --image-name=BLES-01901
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
