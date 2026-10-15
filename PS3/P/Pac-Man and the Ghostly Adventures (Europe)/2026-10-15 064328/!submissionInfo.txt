@@ -13,7 +13,7 @@ Disc Identity:
 	Fully Matching IDs: 47325
 
 Regions and Languages:
-	Regions: SPACE! (CHANGE THIS)
+	Regions: Europe
 	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
 
 Disc Identifiers:
