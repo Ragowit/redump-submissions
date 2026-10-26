@@ -1,0 +1,80 @@
+=== 2026-10-26 13:58:29 ========================================================
+redumper (build: b767)
+
+arguments: disc --drive=D --retries=20 --image-path=ISO\PS3\SUPERSTARSNC --image-name=SUPERSTARSNC
+warning: drive not found in the database
+
+drive information
+  path: D
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: ISO\PS3\SUPERSTARSNC
+image name: SUPERSTARSNC
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 1
+    channel length: 74.5nm
+    polarity: 1
+    BCA: no
+    PSN last { PSN: 2451519, hPSN: 0x25683F }
+    AUN { PSN: [1048576 .. 2451518], length: 1402944, hPSN: [0x100000 .. 0x25683E] }
+
+
+sectors count (READ_CAPACITY): 1402944
+sectors count (PHYSICAL): 1402944
+sectors count (ISO9660): 1402944                          
+sectors count (UDF): 1402944                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 329s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="SUPERSTARSNC.iso" size="2873229312" crc="5f44c62b" md5="d6bdc27dc0deebc0acf4c55a84c7a864" sha1="70d97c59cea7fac18a82d8a7c401f2a475804fb4" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [SUPERSTARSNC.iso]:
+  volume identifier: SUPERSTARSNC
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 31 30 37 31 36 30  30 30 30 30 30 00 30 30   0010716000000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: SUPERSTARSNC
+
+PS3 [SUPERSTARSNC.iso]:
+  version: 01.01
+  serial: BLES-00771
+  firmware version: 3.15
+
+*** END (time check: 0s)

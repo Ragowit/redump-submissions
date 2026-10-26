@@ -1,0 +1,88 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Title: Superstars V8: Next Challenge
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 57999
+
+Regions and Languages:
+	Regions: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: BLES-00771
+	Editions: Original
+	Barcodes: 8 033102 491133
+	Version: 01.01
+	Error Count: 0
+	Disc ID: 
+	Disc Key: 
+
+Ring Codes:
+	Layer 0 Mastering Code: A0101502548-A511	2000
+	Layer 0 Mastering SID: IFPI LY24
+	Layer 0 Toolstamps: 1A00
+	Layer 0 Mould SIDs: 
+	Layer 0 Additional Moulds: 
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: IFPI 945L
+	Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments:
+
+[T:ISN] BLES-00771
+[T:VOL] SUPERSTARSNC
+
+	Contents:
+
+[T:P]
+PS3 Firmware 3.15
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 31 30 37 31 36 30  30 30 30 30 30 00 30 30   0010716000000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000025683F00100000
+0025683E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="SUPERSTARSNC.iso" size="2873229312" crc="5f44c62b" md5="d6bdc27dc0deebc0acf4c55a84c7a864" sha1="70d97c59cea7fac18a82d8a7c401f2a475804fb4" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.11.1-bc713544e4b5261fc8753c7de64a23bcb9ff6673
+	Dumping Program: Redumper (build: b767)
+	Date: 2026-10-26 13:03:59
+	Parameters: disc --drive=D --retries=20 --image-path=ISO\PS3\SUPERSTARSNC --image-name=SUPERSTARSNC
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
