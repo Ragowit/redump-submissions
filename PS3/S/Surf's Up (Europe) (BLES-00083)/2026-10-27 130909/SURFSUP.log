@@ -1,0 +1,80 @@
+=== 2026-10-27 13:59:14 ========================================================
+redumper (build: b767)
+
+arguments: disc --drive=D --retries=20 --image-path=ISO\PS3\SURFSUP --image-name=SURFSUP
+warning: drive not found in the database
+
+drive information
+  path: D
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: ISO\PS3\SURFSUP
+image name: SURFSUP
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 1
+    channel length: 74.5nm
+    polarity: 1
+    BCA: no
+    PSN last { PSN: 3803551, hPSN: 0x3A099F }
+    AUN { PSN: [1048576 .. 3803550], length: 2754976, hPSN: [0x100000 .. 0x3A099E] }
+
+
+sectors count (READ_CAPACITY): 2754976
+sectors count (PHYSICAL): 2754976
+sectors count (ISO9660): 2754976                          
+sectors count (UDF): 2754976                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 595s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="SURFSUP.iso" size="5642190848" crc="46cb57fa" md5="43a8b60bfb42f065bd0a6f7aaff32dbe" sha1="319b3e4c3631fe98e05d5aae65699583c555faef" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [SURFSUP.iso]:
+  volume identifier: SURFSUP
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 30                200
+0330 : 37 30 34 30 39 32 32 30  30 30 30 30 30 00 30 30   7040922000000.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: SURFSUP
+
+PS3 [SURFSUP.iso]:
+  version: 01.00
+  serial: BLES-00083
+  firmware version: 1.80
+
+*** END (time check: 0s)
