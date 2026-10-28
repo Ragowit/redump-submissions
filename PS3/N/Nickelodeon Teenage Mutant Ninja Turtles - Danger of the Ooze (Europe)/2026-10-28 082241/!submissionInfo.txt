@@ -1,0 +1,84 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Title: Nickelodeon Teenage Mutant Ninja Turtles: Danger of the Ooze
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 57194
+
+Regions and Languages:
+	Regions: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: BLES-02074
+	Editions: Original
+	Barcodes: 5 030917 151040
+	Version: 01.00
+	Error Count: 0
+	Disc ID: 
+	Disc Key: 
+
+Ring Codes:
+	Layer 0 Mastering Code: A0102388860-A511	1000
+	Layer 0 Mastering SID: IFPI LY27
+	Layer 0 Toolstamps: 1A00
+	Layer 0 Mould SIDs: 
+	Layer 0 Additional Moulds: 
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: IFPI 942I
+	Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments: [T:ISN] BLES-02074
+	Contents:
+
+[T:P]
+PS3 Firmware 4.65
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 34 30 39 31 35 30 34 30  36 30 39 30 30 00 30 30   4091504060900.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000020569F00100000
+0020569E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="BLES-02074.iso" size="2192900096" crc="4c4a1e68" md5="05cafd345233e1ad4e44c6201bbf37b1" sha1="8139c112eef2488ee0a1119d07052a4736bf7db3" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.11.1-bc713544e4b5261fc8753c7de64a23bcb9ff6673
+	Dumping Program: Redumper (build: b767)
+	Date: 2026-10-28 08:22:41
+	Parameters: disc --drive=D --retries=20 --image-path=ISO\PS3\BLES-02074 --image-name=BLES-02074
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
