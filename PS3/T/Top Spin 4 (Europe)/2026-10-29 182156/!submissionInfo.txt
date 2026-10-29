@@ -1,0 +1,84 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Title: Top Spin 4
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 57183
+
+Regions and Languages:
+	Regions: Europe
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: BLES-00668
+	Editions: Original
+	Barcodes: 5 026555 402811
+	Version: 01.02
+	Error Count: 0
+	Disc ID: 
+	Disc Key: 
+
+Ring Codes:
+	Layer 0 Mastering Code: A0101727962-A511	2000
+	Layer 0 Mastering SID: IFPI LY25
+	Layer 0 Toolstamps: 3A00
+	Layer 0 Mould SIDs: 
+	Layer 0 Additional Moulds: 
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: IFPI 946J
+	Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments: [T:ISN] BLES-00668
+	Contents:
+
+[T:P]
+PS3 Firmware 3.55
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 31 30 31 31 39 31 38 31  30 32 35 30 30 00 30 30   1011918102500.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+110101000000000000383EDF00100000
+00383EDE000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="BLES-00668.iso" size="5401673728" crc="aaebc632" md5="b77ffcb66a80a31b9a23ed6bd0d9f9e6" sha1="c4996aa5d8ad7642e1501e960818969bcc23823d" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.11.1-bc713544e4b5261fc8753c7de64a23bcb9ff6673
+	Dumping Program: Redumper (build: b767)
+	Date: 2026-10-29 18:21:56
+	Parameters: disc --drive=D --retries=20 --image-path=ISO\PS3\BLES-00668 --image-name=BLES-00668
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
