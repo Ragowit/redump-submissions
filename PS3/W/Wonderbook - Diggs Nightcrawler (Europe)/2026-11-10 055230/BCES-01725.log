@@ -1,0 +1,80 @@
+=== 2026-11-10 06:40:36 ========================================================
+redumper (build: b767)
+
+arguments: disc --drive=D --retries=20 --image-path=ISO\PS3\BCES-01725 --image-name=BCES-01725
+warning: drive not found in the database
+
+drive information
+  path: D
+  inquiry: HL-DT-ST - BD-RE BP60NB10 (revision level: 1.02, vendor specific: NM00800SIK01K3NB555)
+  configuration: GENERIC (read offset: +6, C2 shift: 0, pre-gap start: +0, read method: BE, sector order: DATA_C2_SUB)
+  profile: BD-ROM
+  read speed: <optimal>
+
+image path: ISO\PS3\BCES-01725
+image name: BCES-01725
+
+*** DUMP (time check: 0s)
+
+disc structure:
+  DI { format: 1, layer: 0, sequence number: 0, unit size: 32, continuation: 0 }
+    disc type: BDO
+    disc size: 120mm
+    disc class: 0
+    disc version: 1
+    layers count: 1
+    channel length: 74.5nm
+    polarity: 1
+    BCA: no
+    PSN last { PSN: 4508863, hPSN: 0x44CCBF }
+    AUN { PSN: [1048576 .. 4508862], length: 3460288, hPSN: [0x100000 .. 0x44CCBE] }
+
+
+sectors count (READ_CAPACITY): 3460288
+sectors count (PHYSICAL): 3460288
+sectors count (ISO9660): 3460288                          
+sectors count (UDF): 3460288                              
+
+media errors: 
+  SCSI: 0
+  EDC: 0
+
+*** DUMP::EXTRA (time check: 714s)
+
+
+*** PROTECTION (time check: 0s)
+
+
+*** REFINE (time check: 0s)
+
+
+*** DVDKEY (time check: 0s)
+
+
+*** SPLIT (time check: 0s)
+
+
+*** HASH (time check: 0s)
+
+dat:
+<rom name="BCES-01725.iso" size="7086669824" crc="36d396d2" md5="db84bf9a48b048b406cdccff7553aee4" sha1="fe0eba181d3fd0e0feede67e8857e8f120366a16" />
+
+*** INFO (time check: 0s)
+
+ISO9660 [BCES-01725.iso]:
+  volume identifier: PS3VOLUME
+  PVD:
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 32 31 30 32 34 31 35 33  38 34 34 30 30 00 30 30   2102415384400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+  joliet volume identifier: PS3VOLUME
+
+PS3 [BCES-01725.iso]:
+  version: 01.00
+  serial: BCES-01725
+  firmware version: 4.40
+
+*** END (time check: 0s)
