@@ -1,0 +1,84 @@
+﻿Users who wish to submit this information to Redump must ensure that all of the fields below are accurate for the exact media they have.
+Please double-check to ensure that there are no fields that need verification, such as the version or copy protection.
+If there are no fields in need of verification or all fields are accurate, this preamble can be removed before submission.
+
+Disc Identity:
+	System: Sony PlayStation 3
+	Media Type: BD-ROM-25
+	Category: Games
+	Title: Deadliest Catch: Sea of Chaos
+	Foreign Title: 
+	Disc Number: 
+	Disc Title: 
+	Fully Matching IDs: 34147
+
+Regions and Languages:
+	Regions: USA
+	Languages: ADD LANGUAGES HERE (ONLY IF YOU TESTED)
+
+Disc Identifiers:
+	Disc Serials: BLUS-30633
+	Editions: Original
+	Barcodes: 6 50008 50055 4
+	Version: 01.01
+	Error Count: 0
+	Disc ID: 
+	Disc Key: 
+
+Ring Codes:
+	Layer 0 Mastering Code: BPSS-105580A1	3
+	Layer 0 Mastering SID: IFPI L323
+	Layer 0 Toolstamps: A06
+	Layer 0 Mould SIDs: 
+	Layer 0 Additional Moulds: 
+	Label Side Mastering Code: 
+	Label Side Mastering SID: 
+	Label Side Toolstamps: 
+	Label Side Mould SIDs: IFPI QWYN
+	Label Side Additional Moulds: 
+
+Dump Metadata:
+	Comments: [T:ISN] BLUS-30633
+	Contents:
+
+[T:P]
+PS3 Firmware 3.50
+
+	Primary Volume Descriptor (PVD):
+
+0320 : 20 20 20 20 20 20 20 20  20 20 20 20 20 32 30 31                201
+0330 : 30 30 37 30 39 31 37 32  32 31 34 30 30 00 30 30   0070917221400.00
+0340 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 00 30   00000000000000.0
+0350 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 00   000000000000000.
+0360 : 30 30 30 30 30 30 30 30  30 30 30 30 30 30 30 30   0000000000000000
+0370 : 00 01 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
+
+	Permanent Information & Control (PIC):
+
+10020000444901080000200042444F01
+11010100000000000022CA5F00100000
+0022CA5E000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000000000000000000000000000
+00000000
+
+	Dat:
+
+<rom name="BLUS-30633.iso" size="2522021888" crc="105af792" md5="a277b51e533daddc9d36bdf16b39812e" sha1="4ec5e5e4f7a666da830fb889bff49e56ee598089" />
+
+Submission Controls:
+	Logs Archive URL: (REQUIRED)
+	Submission Comment: (OPTIONAL)
+
+Dumping Info:
+	Frontend Version: 3.11.1-bc713544e4b5261fc8753c7de64a23bcb9ff6673
+	Dumping Program: Redumper (build: b767)
+	Date: 2026-11-12 17:22:08
+	Parameters: disc --drive=D --retries=20 --image-path=ISO\PS3\BLUS-30633 --image-name=BLUS-30633
+	Manufacturer: HL-DT-ST
+	Model: BD-RE BP60NB10
+	Firmware: 1.02 (NM00800SIK01K3NB555)
+	Reported Disc Type: BD-ROM
